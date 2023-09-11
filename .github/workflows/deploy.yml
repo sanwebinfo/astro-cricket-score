@@ -13,7 +13,16 @@ jobs:
         node: [ '18' ]
     name: Node ${{ matrix.node }}
     steps:
-      - uses: actions/checkout@v3.6.0
+      - uses: actions/checkout@v4.0.0
+      - name: Cache node modules
+        uses: actions/cache@v3.3.2
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-build-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: | 
+            ${{ runner.OS }}-build-${{ env.cache-name }}-
+            ${{ runner.OS }}-build-
+            ${{ runner.OS }}-
       - uses: actions/setup-node@v3.8.1
         with:
           node-version: ${{ matrix.node }}
@@ -21,7 +30,7 @@ jobs:
       - run: yarn install
       - run: yarn build
       - name: Deploy
-        uses: cloudflare/wrangler-action@2.0.0
+        uses: cloudflare/wrangler-action@v3.1.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
