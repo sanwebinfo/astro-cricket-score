@@ -1,8 +1,25 @@
 ---
-title: "Live Cricket Score"
+title: "Pakistan vs India, Super Fours, 3rd Match"
 slug: "live-cricket-score"
-description: "Live Cricket Score Updates."
+description: "Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+🔴 Live Score - IND - 281/2 (43.1)  
+
+📊 Run Rate - CRR: 6.51  
+
+✊ Current Batsman - Virat Kohli* - 76(68)  
+
+✊ Current Bowler - Naseem Shah* - 7.1 Over 34 Run - 0 Wicket  
+
+📑 Status - Pakistan opt to bowl
+
+<br />
+
+***
+
+📝 Last Updated on : September 11th 2023, 6:05:16 pm
+
+***
+
