@@ -1,0 +1,23 @@
+---
+import Config from '../config.cjs';
+import Layout from '../layouts/index.astro';
+import List from '../components/List.astro';
+
+export async function getStaticPaths({ paginate }) {
+  let allPosts = await Astro.glob('./posts/*.md');
+  allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+  
+    return paginate(allPosts, {
+      pageSize: Config.paginate,
+    })
+}
+
+const { page } = Astro.props;
+const title = 'Live Cricket Score';
+const description = "Live Cricket Score Updates for Every 5 to 10 Minutes.";
+
+---
+
+<Layout {title} {description} >
+  <List title={title} posts={page.data} page={page} />
+</Layout>

@@ -1,0 +1,21 @@
+name: build-script
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3.6.0
+    - uses: actions/setup-node@v3.8.1
+      with:
+         node-version: '18.x'
+         cache: 'yarn'
+    - name: use yarn
+      run: |
+       yarn install
+       yarn build

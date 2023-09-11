@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Catamaran:wght@100&family=Encode+Sans:wght@200&family=Fira+Code:wght@400;500;600;700&display=swap');
+
+body {
+font-family: 'Fira Code', monospace;
+font-size: 16px;
+}
+h1 {
+  font-size: 25px
+}
+h2 {
+  font-size: 23px;
+}
+h3 {
+  font-size: 23px;
+}
+h4 {
+  font-size: 20px;
+}
+.my-lg-6 {
+    margin-top: 5rem!important;
+    margin-bottom: 5rem!important
+  }
+  .bg-skew {
+    position: relative
+  }
+  a {
+    text-decoration: none;
+  }
+  .bg-skew:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: skewY(-3deg);
+    transform-origin: top left;
+    z-index: -1
+  }
+  
+  .bg-skew-light:before {
+    background-color: #f8f9fa
+  }
+  
+  .card-hover:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    transform: translateY(-3px)
+  }
+  
+  .link-cta {
+    border-bottom: 2px solid #006aff;
+    color: #343a40;
+    font-size: .875rem;
+    letter-spacing: 1px;
+    padding-bottom: 2px;
+    text-transform: uppercase
+  }
+  
+  .link-cta:hover {
+    color: #006aff;
+    text-decoration: none
+  }
+  
+  .link-tag {
+    text-decoration: underline
+  }
+  
+  .link-tag:hover{
+    text-decoration: none
+  }
+  
+  .card-title a {
+    color: #212529
+  }
+  
+  .card-title a:focus, .card-title a:hover {
+    color: #006aff;
+    text-decoration: none
+  }
+  table { 
+    table-layout: fixed;
+    width: 100%
+  }
+  td {
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word;
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+}
