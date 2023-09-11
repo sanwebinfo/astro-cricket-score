@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs India, Super Fours, 3rd Match"
 slug: "live-cricket-score"
-description: "IND - 356/2 (50) - Innings Break."
+description: "PAK - 27/1 (7.3) - Pakistan need 330 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 356/2 (50)  
+🔴 Live Score - PAK - 27/1 (7.3)  
 
-📊 Run Rate - CRR: 7.12  
+📊 Run Rate - CRR: 3.60  
 
-✊ Current Batsman - KL Rahul* - 111(106)  
+✊ Current Batsman - Fakhar Zaman* - 10(18)  
 
-✊ Current Bowler - Faheem Ashraf* - 10 Over 74 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 3.3 Over 17 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Pakistan need 330 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : September 11th 2023, 6:41:41 pm
+📝 Last Updated on : 
 
 ***
 
