@@ -6,9 +6,15 @@ Automated Static site - Publish Live Cricket Score Updates for Every 5 to 10 Min
 
 ## Features
 
+- astro v3
 - Bootstrap 5
+- Markdown
 - SEO Meta tags
 - Responsive
+
+## How it works?
+
+we use our Cricket API to get score data and it will update Markdown file with current score and push it to git repo later deploy it to cloudflare pages.  
 
 ## Base theme
 
