@@ -1,19 +1,19 @@
 ---
 title: "Pakistan vs India, Super Fours, 3rd Match"
 slug: "live-cricket-score"
-description: "PAK - 27/1 (7.3) - Pakistan need 330 runs."
+description: "PAK - 44/2 (11) - Play stopped due to rain - Pakistan need 313 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 27/1 (7.3)  
+🔴 Live Score - PAK - 44/2 (11)  
 
-📊 Run Rate - CRR: 3.60  
+📊 Run Rate - CRR: 4.00  
 
-✊ Current Batsman - Fakhar Zaman* - 10(18)  
+✊ Current Batsman - Mohammad Rizwan* - 1(2)  
 
-✊ Current Bowler - Mohammed Siraj* - 3.3 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 5 Over 23 Run - 0 Wicket  
 
-📑 Status - Pakistan need 330 runs
+📑 Status - Play stopped due to rain - Pakistan need 313 runs
 
 <br />
 
