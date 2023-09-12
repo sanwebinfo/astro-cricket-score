@@ -1,25 +1,25 @@
 ---
 title: "India vs Sri Lanka, Super Fours, 4th Match"
 slug: "live-cricket-score"
-description: "IND - 197/9 (47) - Rain stops play."
+description: "SL - 7/1 (2.1) - Sri Lanka need 207 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 197/9 (47)  
+🔴 Live Score - SL - 7/1 (2.1)  
 
-📊 Run Rate - CRR: 4.19  
+📊 Run Rate - CRR: 3.23  
 
-✊ Current Batsman - Axar Patel* - 15(29)  
+✊ Current Batsman - Dimuth Karunaratne* - 0(6)  
 
-✊ Current Bowler - Maheesh Theekshana* - 8 Over 29 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Siraj - 1.1 Over 0 Run - 1 Wicket  
 
-📑 Status - Rain stops play
+📑 Status - Sri Lanka need 207 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/12/2023, 6:43:38 PM
+📝 Last Updated on : 9/12/2023, 7:48:17 PM
 
 ***
 
