@@ -1,17 +1,17 @@
 ---
 title: "India vs Sri Lanka, Super Fours, 4th Match"
 slug: "live-cricket-score"
-description: "IND - 25/0 (5) - India opt to bat."
+description: "IND - 90/2 (13.5) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 25/0 (5)  
+🔴 Live Score - IND - 90/2 (13.5)  
 
-📊 Run Rate - CRR: 5.00  
+📊 Run Rate - CRR: 6.51  
 
-✊ Current Batsman - Shubman Gill* - 12(10)  
+✊ Current Batsman - Rohit Sharma* - 52(46)  
 
-✊ Current Bowler - Maheesh Theekshana* - 2 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Matheesha Pathirana - 1.5 Over 27 Run - 2 Wicket  
 
 📑 Status - India opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/12/2023, 3:24:43 PM
+📝 Last Updated on : 9/12/2023, 4:09:20 PM
 
 ***
 
