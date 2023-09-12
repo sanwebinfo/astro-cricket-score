@@ -7,6 +7,7 @@ export interface Props {
     description: string;
 }
 const { title, description } = Astro.props;
+const canonicalURL = Astro.url.origin + Astro.url.pathname;
 
 ---
 
@@ -15,7 +16,7 @@ const { title, description } = Astro.props;
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>{ title } - { Config.siteTitle }</title>
 <meta name="description" content={ description } />
-<link rel="canonical" href={Astro.url.toString()} />
+<link rel="canonical" href={ canonicalURL } />
 <meta name="generator" content={Astro.generator} />
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
