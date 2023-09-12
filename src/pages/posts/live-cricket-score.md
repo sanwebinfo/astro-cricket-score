@@ -1,17 +1,11 @@
 ---
 title: "Pakistan vs India, Super Fours, 3rd Match"
 slug: "live-cricket-score"
-description: "PAK - 128 (32) - India won by 228 runs."
+description: "Data Not Found - India won by 228 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PAK - 128 (32)  
-
-📊 Run Rate - CRR: 4.00  
-
-✊ Current Batsman - Shaheen Afridi* - 7(6)  
-
-✊ Current Bowler - Kuldeep Yadav - 4 Over 25 Run - 1 Wicket  
+✅ Pakistan vs India, Super Fours, 3rd Match
 
 📑 Status - India won by 228 runs
 
@@ -19,7 +13,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/11/2023, 10:59:20 PM
+📝 Last Updated on : 9/12/2023, 1:10:43 PM
 
 ***
 
