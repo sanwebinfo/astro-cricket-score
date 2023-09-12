@@ -1,19 +1,19 @@
 ---
-title: "Pakistan vs India, Super Fours, 3rd Match"
+title: "India vs Sri Lanka, Super Fours, 4th Match"
 slug: "live-cricket-score"
-description: "Data Not Found - India won by 228 runs."
+description: "Data Not Found - Match starts at Sep 12, 09:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Pakistan vs India, Super Fours, 3rd Match
+✅ India vs Sri Lanka, Super Fours, 4th Match
 
-📑 Status - India won by 228 runs
+📑 Status - Match starts at Sep 12, 09:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/12/2023, 1:10:43 PM
+📝 Last Updated on : 9/12/2023, 1:15:59 PM
 
 ***
 
