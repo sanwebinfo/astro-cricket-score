@@ -1,25 +1,25 @@
 ---
 title: "India vs Sri Lanka, Super Fours, 4th Match"
 slug: "live-cricket-score"
-description: "SL - 7/1 (2.1) - Sri Lanka need 207 runs."
+description: "SL - 26/3 (7.3) - Sri Lanka need 188 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 7/1 (2.1)  
+🔴 Live Score - SL - 26/3 (7.3)  
 
-📊 Run Rate - CRR: 3.23  
+📊 Run Rate - CRR: 3.47  
 
-✊ Current Batsman - Dimuth Karunaratne* - 0(6)  
+✊ Current Batsman - Charith Asalanka* - 0(2)  
 
-✊ Current Bowler - Mohammed Siraj - 1.1 Over 0 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 3.3 Over 9 Run - 1 Wicket  
 
-📑 Status - Sri Lanka need 207 runs
+📑 Status - Sri Lanka need 188 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/12/2023, 7:48:17 PM
+📝 Last Updated on : 9/12/2023, 8:17:35 PM
 
 ***
 
