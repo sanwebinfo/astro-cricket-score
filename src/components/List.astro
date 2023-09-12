@@ -1,6 +1,6 @@
 ---
 import Card from './Card.astro';
-import Pagination from './Pagination.astro';
+//import Pagination from './Pagination.astro';
 
 export interface Props {
   title: string;
@@ -24,7 +24,7 @@ const { title, posts, page, url } = Astro.props;
       <div class="row">
         <br />{posts.map(post => <Card post={post} />)}
       </div><br />
-      <Pagination page={page} url={url} />
+      <!--<Pagination page={page} url={url} />-->
       <br />
   </div>
 </div>

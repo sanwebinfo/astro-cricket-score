@@ -3,18 +3,23 @@
 body {
 font-family: 'Fira Code', monospace;
 font-size: 16px;
+background-color: #282a36;
 }
 h1 {
-  font-size: 25px
+  font-size: 25px;
+  color: #f1fa8c;
 }
 h2 {
   font-size: 23px;
+  color: #f1fa8c;
 }
 h3 {
   font-size: 23px;
+  color: #f1fa8c;
 }
 h4 {
   font-size: 20px;
+  color: #f1fa8c;
 }
 .my-lg-6 {
     margin-top: 5rem!important;
@@ -37,16 +42,13 @@ h4 {
     transform-origin: top left;
     z-index: -1
   }
-  
   .bg-skew-light:before {
-    background-color: #f8f9fa
+    background-color: #44475a
   }
-  
   .card-hover:hover {
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
     transform: translateY(-3px)
   }
-  
   .link-cta {
     border-bottom: 2px solid #006aff;
     color: #343a40;
@@ -55,26 +57,24 @@ h4 {
     padding-bottom: 2px;
     text-transform: uppercase
   }
-  
   .link-cta:hover {
     color: #006aff;
     text-decoration: none
   }
-  
   .link-tag {
     text-decoration: underline
   }
-  
   .link-tag:hover{
     text-decoration: none
   }
-  
-  .card-title a {
-    color: #212529
+  .card {
+    background-color: #282a36;
   }
-  
+  .card-title a {
+    color: #50fa7b;
+  }
   .card-title a:focus, .card-title a:hover {
-    color: #006aff;
+    color: #ff5555;
     text-decoration: none
   }
   table { 
@@ -87,4 +87,17 @@ h4 {
     white-space: pre-wrap; 
     white-space: -moz-pre-wrap; 
     white-space: -pre-wrap; 
+}
+.page-footer {
+ color: #bd93f9;
+}
+.post-content {
+  color: #f8f8f2;
+  font-weight: bold;
+}
+.post-content hr {
+  background-color: #50fa7b; 
+  color: #50fa7b;
+  height: 3px;
+  border: none;
 }

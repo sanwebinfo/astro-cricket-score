@@ -4,6 +4,7 @@ import Config from "../../config.cjs";
 ---
 
 <div class="container">
+<div class="page-footer">
   <div class="row justify-content-md-between">
       <div class="col-sm-12 col-md-4 mb-4">
           <h2 class="h5 mb-3">{ Config.siteTitle }</h2>
@@ -12,16 +13,15 @@ import Config from "../../config.cjs";
       <div class="col-4 col-md-2 mb-4">
           <h2 class="h5 mb-3">Menu</h2>
           <ul class="nav flex-column">
-              <li class="mb-1"><a href={ Config.siteBaseUrl } class="text-secondary">Home</a></li>
+              <li class="mb-1"><a href={ Config.siteBaseUrl } class="page-footer">🏠 Home</a></li>
           </ul>
       </div>
   </div>
-
   <hr/>
-
   <div class="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center">
-      <div class="text-muted mb-3">
+      <div class="mb-3">
           { Config.siteCopyright }
       </div>
   </div>
+</div>
 </div>

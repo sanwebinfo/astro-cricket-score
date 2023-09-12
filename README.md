@@ -10,7 +10,9 @@ Automated Static site - Publish Live Cricket Score Updates for Every 5 to 10 Min
 - Bootstrap 5
 - Markdown
 - SEO Meta tags
+- 404 Error Page
 - Responsive
+- Color Palette <https://draculatheme.com/contribute>
 
 ## How it works?
 
