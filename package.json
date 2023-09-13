@@ -10,7 +10,7 @@
     "sync": "astro sync"
   },
   "devDependencies": {
-    "astro": "3.0.12"
+    "astro": "3.0.13"
   },
   "dependencies": {}
 }
