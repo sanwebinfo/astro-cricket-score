@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, Super Fours, 6th Match"
 slug: "live-cricket-score"
-description: "BAN - 265/8 (50) - Innings Break."
+description: "IND - 90/3 (20.4) - India need 176 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 265/8 (50)  
+🔴 Live Score - IND - 90/3 (20.4)  
 
-📊 Run Rate - CRR: 5.30  
+📊 Run Rate - CRR: 4.35  
 
-✊ Current Batsman - Tanzim Hasan Sakib* - 14(8)  
+✊ Current Batsman - Shubman Gill* - 54(64)  
 
-✊ Current Bowler - Prasidh Krishna* - 9 Over 43 Run - 1 Wicket  
+✊ Current Bowler - Nasum Ahmed * - 4.4 Over 21 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 176 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/15/2023, 7:10:00 PM
+📝 Last Updated on : 9/15/2023, 8:41:55 PM
 
 ***
 
