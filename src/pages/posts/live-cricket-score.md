@@ -1,19 +1,25 @@
 ---
-title: "India vs Sri Lanka, Super Fours, 4th Match"
+title: "India vs Bangladesh, Super Fours, 6th Match"
 slug: "live-cricket-score"
-description: "Data Not Found - India won by 41 runs."
+description: "BAN - 193/7 (41.3) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs Sri Lanka, Super Fours, 4th Match
+🔴 Live Score - BAN - 193/7 (41.3)  
 
-📑 Status - India won by 41 runs
+📊 Run Rate - CRR: 4.65  
+
+✊ Current Batsman - Mahedi Hasan* - 0(1)  
+
+✊ Current Bowler - Mohammed Shami* - 5.3 Over 12 Run - 2 Wicket  
+
+📑 Status - India opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/12/2023, 10:57:32 PM
+📝 Last Updated on : 9/15/2023, 6:00:17 PM
 
 ***
 
