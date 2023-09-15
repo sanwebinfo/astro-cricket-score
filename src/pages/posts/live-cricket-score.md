@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, Super Fours, 6th Match"
 slug: "live-cricket-score"
-description: "BAN - 193/7 (41.3) - India opt to bowl."
+description: "BAN - 265/8 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 193/7 (41.3)  
+🔴 Live Score - BAN - 265/8 (50)  
 
-📊 Run Rate - CRR: 4.65  
+📊 Run Rate - CRR: 5.30  
 
-✊ Current Batsman - Mahedi Hasan* - 0(1)  
+✊ Current Batsman - Tanzim Hasan Sakib* - 14(8)  
 
-✊ Current Bowler - Mohammed Shami* - 5.3 Over 12 Run - 2 Wicket  
+✊ Current Bowler - Prasidh Krishna* - 9 Over 43 Run - 1 Wicket  
 
-📑 Status - India opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/15/2023, 6:00:17 PM
+📝 Last Updated on : 9/15/2023, 7:10:00 PM
 
 ***
 
