@@ -1,17 +1,17 @@
 ---
 title: "India vs Sri Lanka, Final"
 slug: "live-cricket-score"
-description: "SL - 8/2 (3.1) - Sri Lanka opt to bat."
+description: "SL - 18/6 (7.2) - Sri Lanka opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 8/2 (3.1)  
+🔴 Live Score - SL - 18/6 (7.2)  
 
-📊 Run Rate - CRR: 2.53  
+📊 Run Rate - CRR: 2.45  
 
-✊ Current Batsman - Sadeera Samarawickrama* - 0(0)  
+✊ Current Batsman - Dunith Wellalage* - 4(6)  
 
-✊ Current Bowler - Mohammed Siraj* - 1.1 Over 0 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 3.2 Over 6 Run - 5 Wicket  
 
 📑 Status - Sri Lanka opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/17/2023, 3:58:28 PM
+📝 Last Updated on : 9/17/2023, 4:25:20 PM
 
 ***
 
