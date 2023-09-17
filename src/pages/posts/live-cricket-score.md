@@ -1,19 +1,19 @@
 ---
-title: "India vs Bangladesh, Super Fours, 6th Match"
+title: "India vs Sri Lanka, Final"
 slug: "live-cricket-score"
-description: "Data Not Found - Bangladesh won by 6 runs."
+description: "Data Not Found - Match starts at Sep 17, 09:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Bangladesh, Super Fours, 6th Match
+✅ India vs Sri Lanka, Final
 
-📑 Status - Bangladesh won by 6 runs
+📑 Status - Match starts at Sep 17, 09:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/15/2023, 11:14:14 PM
+📝 Last Updated on : 9/17/2023, 11:26:40 AM
 
 ***
 
