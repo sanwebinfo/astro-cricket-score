@@ -1,25 +1,25 @@
 ---
 title: "India vs Sri Lanka, Final"
 slug: "live-cricket-score"
-description: "SL - 50 (15.2) - Innings Break."
+description: "IND - 34/0 (3.5) - India need 17 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 50 (15.2)  
+🔴 Live Score - IND - 34/0 (3.5)  
 
-📊 Run Rate - CRR: 3.26  
+📊 Run Rate - CRR: 8.87  
 
-✊ Current Batsman - Dushan Hemantha* - 13(15)  
+✊ Current Batsman - Shubman Gill* - 19(12)  
 
-✊ Current Bowler - Hardik Pandya - 1 Over 3 Run - 0 Wicket  
+✊ Current Bowler - Dunith Wellalage* - 0.5 Over 2 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 17 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/17/2023, 5:30:15 PM
+📝 Last Updated on : 9/17/2023, 6:03:27 PM
 
 ***
 
