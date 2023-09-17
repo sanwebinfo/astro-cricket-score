@@ -1,25 +1,25 @@
 ---
 title: "India vs Sri Lanka, Final"
 slug: "live-cricket-score"
-description: "SL - 34/7 (11.2) - Sri Lanka opt to bat."
+description: "SL - 50 (15.2) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 34/7 (11.2)  
+🔴 Live Score - SL - 50 (15.2)  
 
-📊 Run Rate - CRR: 3.00  
+📊 Run Rate - CRR: 3.26  
 
-✊ Current Batsman - Dushan Hemantha* - 0(0)  
+✊ Current Batsman - Dushan Hemantha* - 13(15)  
 
-✊ Current Bowler - Mohammed Siraj* - 5.2 Over 8 Run - 6 Wicket  
+✊ Current Bowler - Hardik Pandya - 1 Over 3 Run - 0 Wicket  
 
-📑 Status - Sri Lanka opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/17/2023, 4:46:24 PM
+📝 Last Updated on : 9/17/2023, 5:30:15 PM
 
 ***
 
