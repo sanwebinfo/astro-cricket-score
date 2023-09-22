@@ -1,25 +1,25 @@
 ---
-title: "India vs Sri Lanka, Final"
+title: "India vs Australia, 1st ODI"
 slug: "live-cricket-score"
-description: "IND - 51/0 (6.1) - India won by 10 wkts."
+description: "AUS - 39/1 (8.5) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 51/0 (6.1)  
+🔴 Live Score - AUS - 39/1 (8.5)  
 
-📊 Run Rate - CRR: 8.27  
+📊 Run Rate - CRR: 4.42  
 
-✊ Current Batsman - Shubman Gill* - 27(19)  
+✊ Current Batsman - David Warner* - 14(20)  
 
-✊ Current Bowler - Charith Asalanka* - 0.1 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Shardul Thakur* - 0.5 Over 8 Run - 0 Wicket  
 
-📑 Status - India won by 10 wkts
+📑 Status - India opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/17/2023, 6:08:37 PM
+📝 Last Updated on : 9/22/2023, 2:12:51 PM
 
 ***
 
