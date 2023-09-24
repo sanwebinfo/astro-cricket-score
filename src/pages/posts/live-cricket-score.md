@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 2nd ODI"
 slug: "live-cricket-score"
-description: "IND - 399/5 (50) - Innings Break."
+description: "AUS - 53/2 (8.2) - Australia need 347 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 399/5 (50)  
+🔴 Live Score - AUS - 53/2 (8.2)  
 
-📊 Run Rate - CRR: 7.98  
+📊 Run Rate - CRR: 6.36  
 
-✊ Current Batsman - Suryakumar Yadav* - 72(37)  
+✊ Current Batsman - David Warner* - 24(21)  
 
-✊ Current Bowler - Cameron Green* - 10 Over 103 Run - 2 Wicket  
+✊ Current Bowler - Ravichandran Ashwin* - 0.2 Over 4 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Australia need 347 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/24/2023, 6:29:08 PM
+📝 Last Updated on : 9/24/2023, 7:19:35 PM
 
 ***
 
