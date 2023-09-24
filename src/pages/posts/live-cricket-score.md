@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 2nd ODI"
 slug: "live-cricket-score"
-description: "IND - 67/1 (8.4) - Australia opt to bowl."
+description: "IND - 202/1 (29) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 67/1 (8.4)  
+🔴 Live Score - IND - 202/1 (29)  
 
-📊 Run Rate - CRR: 7.73  
+📊 Run Rate - CRR: 6.97  
 
-✊ Current Batsman - Shreyas Iyer* - 32(17)  
+✊ Current Batsman - Shubman Gill* - 92(80)  
 
-✊ Current Bowler - Sean Abbott* - 1.4 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Adam Zampa* - 6 Over 38 Run - 0 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/24/2023, 2:09:28 PM
+📝 Last Updated on : 9/24/2023, 4:14:18 PM
 
 ***
 
