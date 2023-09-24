@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 1st ODI"
+title: "India vs Australia, 2nd ODI"
 slug: "live-cricket-score"
-description: "Data Not Found - India won by 5 wkts."
+description: "Data Not Found - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 1st ODI
+✅ India vs Australia, 2nd ODI
 
-📑 Status - India won by 5 wkts
+📑 Status - Australia opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/22/2023, 9:56:43 PM
+📝 Last Updated on : 9/24/2023, 1:33:25 PM
 
 ***
 
