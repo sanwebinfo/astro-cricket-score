@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 2nd ODI"
 slug: "live-cricket-score"
-description: "IND - 262/3 (36.2) - Australia opt to bowl."
+description: "IND - 384/5 (48) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 262/3 (36.2)  
+🔴 Live Score - IND - 384/5 (48)  
 
-📊 Run Rate - CRR: 7.21  
+📊 Run Rate - CRR: 8.00  
 
-✊ Current Batsman - KL Rahul* - 29(17)  
+✊ Current Batsman - Ravindra Jadeja* - 7(4)  
 
-✊ Current Bowler - Cameron Green* - 6.2 Over 53 Run - 1 Wicket  
+✊ Current Bowler - Sean Abbott* - 9 Over 81 Run - 1 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/24/2023, 4:56:39 PM
+📝 Last Updated on : 9/24/2023, 6:00:22 PM
 
 ***
 
