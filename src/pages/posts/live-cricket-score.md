@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 3rd ODI"
 slug: "live-cricket-score"
-description: "IND - 171/2 (26.4) - India need 182 runs."
+description: "IND - 188/3 (30.2) - India need 165 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 171/2 (26.4)  
+🔴 Live Score - IND - 188/3 (30.2)  
 
-📊 Run Rate - CRR: 6.41  
+📊 Run Rate - CRR: 6.20  
 
-✊ Current Batsman - Virat Kohli* - 56(60)  
+✊ Current Batsman - Shreyas Iyer* - 23(24)  
 
-✊ Current Bowler - Glenn Maxwell* - 4.4 Over 19 Run - 2 Wicket  
+✊ Current Bowler - Tanveer Sangha* - 4.2 Over 26 Run - 0 Wicket  
 
-📑 Status - India need 182 runs
+📑 Status - India need 165 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/27/2023, 7:47:33 PM
+📝 Last Updated on : 9/27/2023, 8:04:31 PM
 
 ***
 
