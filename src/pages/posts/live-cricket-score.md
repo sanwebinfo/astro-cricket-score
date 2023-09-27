@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 3rd ODI"
 slug: "live-cricket-score"
-description: "AUS - 157/1 (22) - Australia opt to bat."
+description: "AUS - 245/3 (33.2) - Australia opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 157/1 (22)  
+🔴 Live Score - AUS - 245/3 (33.2)  
 
-📊 Run Rate - CRR: 7.14  
+📊 Run Rate - CRR: 7.35  
 
-✊ Current Batsman - Steven Smith* - 45(39)  
+✊ Current Batsman - Alex Carey* - 1(9)  
 
-✊ Current Bowler - Washington Sundar* - 5 Over 22 Run - 0 Wicket  
+✊ Current Bowler - Prasidh Krishna* - 3.2 Over 33 Run - 1 Wicket  
 
 📑 Status - Australia opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 9/27/2023, 3:03:37 PM
+📝 Last Updated on : 9/27/2023, 3:57:17 PM
 
 ***
 
