@@ -1,25 +1,19 @@
 ---
 title: "England vs New Zealand, 1st Match"
 slug: "live-cricket-score"
-description: "NZ - 281/1 (36) - New Zealand need 2 runs in 84 balls."
+description: "Data Not Found - New Zealand won by 9 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NZ - 281/1 (36)  
+✅ England vs New Zealand, 1st Match
 
-📊 Run Rate - CRR: 7.81  
-
-✊ Current Batsman - Devon Conway* - 151(120)  
-
-✊ Current Bowler - Sam Curran* - 6 Over 47 Run - 1 Wicket  
-
-📑 Status - New Zealand need 2 runs in 84 balls
+📑 Status - New Zealand won by 9 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/5/2023, 8:37:03 PM
+📝 Last Updated on : 10/5/2023, 8:46:13 PM
 
 ***
 
