@@ -1,17 +1,17 @@
 ---
 title: "England vs New Zealand, 1st Match"
 slug: "live-cricket-score"
-description: "ENG - 227/6 (40.3) - New Zealand opt to bowl."
+description: "ENG - 247/7 (44) - New Zealand opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 227/6 (40.3)  
+🔴 Live Score - ENG - 247/7 (44)  
 
-📊 Run Rate - CRR: 5.60  
+📊 Run Rate - CRR: 5.61  
 
-✊ Current Batsman - Sam Curran* - 2(3)  
+✊ Current Batsman - Sam Curran* - 11(13)  
 
-✊ Current Bowler - Rachin Ravindra* - 8.3 Over 70 Run - 1 Wicket  
+✊ Current Bowler - Mitchell Santner* - 9 Over 34 Run - 1 Wicket  
 
 📑 Status - New Zealand opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/5/2023, 4:55:29 PM
+📝 Last Updated on : 10/5/2023, 5:10:00 PM
 
 ***
 
