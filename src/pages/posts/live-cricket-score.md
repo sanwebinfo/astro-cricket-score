@@ -1,25 +1,25 @@
 ---
 title: "England vs New Zealand, 1st Match"
 slug: "live-cricket-score"
-description: "NZ - 37/1 (6) - New Zealand need 246 runs."
+description: "NZ - 123/1 (15.2) - New Zealand need 160 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 37/1 (6)  
+🔴 Live Score - NZ - 123/1 (15.2)  
 
-📊 Run Rate - CRR: 6.17  
+📊 Run Rate - CRR: 8.02  
 
-✊ Current Batsman - Devon Conway* - 14(17)  
+✊ Current Batsman - Rachin Ravindra* - 59(45)  
 
-✊ Current Bowler - Mark Wood* - 0 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Moeen Ali* - 3.2 Over 21 Run - 0 Wicket  
 
-📑 Status - New Zealand need 246 runs
+📑 Status - New Zealand need 160 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/5/2023, 6:35:12 PM
+📝 Last Updated on : 10/5/2023, 7:11:09 PM
 
 ***
 
