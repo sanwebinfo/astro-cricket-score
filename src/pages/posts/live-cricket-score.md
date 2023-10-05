@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 3rd ODI"
+title: "England vs New Zealand, 1st Match"
 slug: "live-cricket-score"
-description: "Data Not Found - Australia won by 66 runs."
+description: "Data Not Found - Match starts at Oct 05, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 3rd ODI
+✅ England vs New Zealand, 1st Match
 
-📑 Status - Australia won by 66 runs
+📑 Status - Match starts at Oct 05, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/27/2023, 9:48:35 PM
+📝 Last Updated on : 10/5/2023, 9:52:06 AM
 
 ***
 
