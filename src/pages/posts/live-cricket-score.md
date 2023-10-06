@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Netherlands, 2nd Match"
 slug: "live-cricket-score"
-description: "NED - 133/4 (26.3) - Netherlands need 154 runs."
+description: "NED - 165/7 (34) - Netherlands need 122 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 133/4 (26.3)  
+🔴 Live Score - NED - 165/7 (34)  
 
-📊 Run Rate - CRR: 5.02  
+📊 Run Rate - CRR: 4.85  
 
-✊ Current Batsman - Scott Edwards* - 0(1)  
+✊ Current Batsman - Logan van Beek* - 1(3)  
 
-✊ Current Bowler - Haris Rauf* - 5.3 Over 26 Run - 1 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 6 Over 28 Run - 1 Wicket  
 
-📑 Status - Netherlands need 154 runs
+📑 Status - Netherlands need 122 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2023, 8:02:54 PM
+📝 Last Updated on : 10/6/2023, 8:42:39 PM
 
 ***
 
