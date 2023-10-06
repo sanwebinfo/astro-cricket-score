@@ -1,19 +1,19 @@
 ---
-title: "England vs New Zealand, 1st Match"
+title: "Pakistan vs Netherlands, 2nd Match"
 slug: "live-cricket-score"
-description: "Data Not Found - New Zealand won by 9 wkts."
+description: "Data Not Found - upcoming."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ England vs New Zealand, 1st Match
+✅ Pakistan vs Netherlands, 2nd Match
 
-📑 Status - New Zealand won by 9 wkts
+📑 Status - upcoming
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/5/2023, 8:46:13 PM
+📝 Last Updated on : 10/6/2023, 11:16:54 AM
 
 ***
 
