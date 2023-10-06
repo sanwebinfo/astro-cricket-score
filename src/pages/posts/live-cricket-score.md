@@ -1,19 +1,25 @@
 ---
 title: "Pakistan vs Netherlands, 2nd Match"
 slug: "live-cricket-score"
-description: "Data Not Found - upcoming."
+description: "PAK - 4/0 (1) - Netherlands opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs Netherlands, 2nd Match
+🔴 Live Score - PAK - 4/0 (1)  
 
-📑 Status - upcoming
+📊 Run Rate - CRR: 4.00  
+
+✊ Current Batsman - Imam-ul-Haq* - 0(0)  
+
+✊ Current Bowler - Aryan Dutt* - 1 Over 4 Run - 0 Wicket  
+
+📑 Status - Netherlands opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2023, 11:16:54 AM
+📝 Last Updated on : 10/6/2023, 2:03:10 PM
 
 ***
 
