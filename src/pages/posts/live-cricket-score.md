@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Netherlands, 2nd Match"
 slug: "live-cricket-score"
-description: "PAK - 286 (49) - Netherlands opt to bowl."
+description: "NED - 8/0 (1.5) - Netherlands need 279 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 286 (49)  
+🔴 Live Score - NED - 8/0 (1.5)  
 
-📊 Run Rate - CRR: 5.84  
+📊 Run Rate - CRR: 4.36  
 
-✊ Current Batsman - Shaheen Afridi* - 13(12)  
+✊ Current Batsman - Vikramjit Singh* - 7(11)  
 
-✊ Current Bowler - Colin Ackermann - 9 Over 39 Run - 4 Wicket  
+✊ Current Bowler - Hasan Ali* - 0.5 Over 4 Run - 0 Wicket  
 
-📑 Status - Netherlands opt to bowl
+📑 Status - Netherlands need 279 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2023, 5:44:10 PM
+📝 Last Updated on : 10/6/2023, 6:16:47 PM
 
 ***
 
