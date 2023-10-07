@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs Sri Lanka, 4th Match"
-slug: "cricket-score-two"
-description: "RSA - 193/1 (28.3) - Sri Lanka opt to bowl."
+slug: "live-cricket-score"
+description: "RSA - 265/3 (37.3) - Sri Lanka opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 193/1 (28.3)  
+🔴 Live Score - RSA - 265/3 (37.3)  
 
-📊 Run Rate - CRR: 6.77  
+📊 Run Rate - CRR: 7.07  
 
-✊ Current Batsman - Quinton de Kock* - 91(78)  
+✊ Current Batsman - Aiden Markram* - 36(24)  
 
-✊ Current Bowler - Matheesha Pathirana* - 4.3 Over 34 Run - 0 Wicket  
+✊ Current Bowler - Dunith Wellalage* - 8.3 Over 60 Run - 1 Wicket  
 
 📑 Status - Sri Lanka opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/7/2023, 4:17:13 PM
+📝 Last Updated on : 10/7/2023, 5:05:59 PM
 
 ***
 
