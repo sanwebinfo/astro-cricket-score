@@ -1,19 +1,19 @@
 ---
-title: "Pakistan vs Netherlands, 2nd Match"
+title: "Bangladesh vs Afghanistan, 3rd Match"
 slug: "live-cricket-score"
-description: "Data Not Found - Pakistan won by 81 runs."
+description: "Data Not Found - Match starts at Oct 07, 05:00 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Pakistan vs Netherlands, 2nd Match
+✅ Bangladesh vs Afghanistan, 3rd Match
 
-📑 Status - Pakistan won by 81 runs
+📑 Status - Match starts at Oct 07, 05:00 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2023, 9:22:04 PM
+📝 Last Updated on : 10/7/2023, 9:27:02 AM
 
 ***
 
