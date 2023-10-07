@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs Afghanistan, 3rd Match"
 slug: "live-cricket-score"
-description: "BAN - 78/2 (16) - Bangladesh need 79 runs."
+description: "BAN - 124/3 (28.1) - Bangladesh need 33 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 78/2 (16)  
+🔴 Live Score - BAN - 124/3 (28.1)  
 
-📊 Run Rate - CRR: 4.88  
+📊 Run Rate - CRR: 4.40  
 
-✊ Current Batsman - Najmul Hossain Shanto* - 18(27)  
+✊ Current Batsman - Shakib Al Hasan* - 0(0)  
 
-✊ Current Bowler - Rashid Khan* - 3 Over 19 Run - 0 Wicket  
+✊ Current Bowler - Naveen-ul-Haq* - 2.1 Over 12 Run - 1 Wicket  
 
-📑 Status - Bangladesh need 79 runs
+📑 Status - Bangladesh need 33 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 3:05:24 PM
+📝 Last Updated on : 10/7/2023, 3:50:31 PM
 
 ***
 
