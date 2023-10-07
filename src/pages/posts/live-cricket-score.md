@@ -1,17 +1,17 @@
 ---
 title: "Bangladesh vs Afghanistan, 3rd Match"
 slug: "live-cricket-score"
-description: "AFG - 60/1 (11.5) - Bangladesh opt to bowl."
+description: "AFG - 92/2 (19.2) - Bangladesh opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 60/1 (11.5)  
+🔴 Live Score - AFG - 92/2 (19.2)  
 
-📊 Run Rate - CRR: 5.07  
+📊 Run Rate - CRR: 4.76  
 
-✊ Current Batsman - Rahmat Shah* - 9(15)  
+✊ Current Batsman - Rahmanullah Gurbaz* - 42(51)  
 
-✊ Current Bowler - Mustafizur Rahman* - 3.5 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Shoriful Islam* - 3.2 Over 25 Run - 0 Wicket  
 
 📑 Status - Bangladesh opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/7/2023, 11:30:36 AM
+📝 Last Updated on : 10/7/2023, 12:02:21 PM
 
 ***
 
