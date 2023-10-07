@@ -1,6 +1,6 @@
 ---
 title: "Bangladesh vs Afghanistan, 3rd Match"
-slug: "live-cricket-score"
+slug: "cricket-score-two"
 description: "BAN - 124/3 (28.1) - Bangladesh need 33 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
