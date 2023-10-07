@@ -1,6 +1,6 @@
 ---
 title: "South Africa vs Sri Lanka, 4th Match"
-slug: "live-cricket-score"
+slug: "cricket-score-two"
 description: "RSA - 193/1 (28.3) - Sri Lanka opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
