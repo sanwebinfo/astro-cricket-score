@@ -1,7 +1,7 @@
 ---
 title: "Bangladesh vs Afghanistan, 3rd Match"
 slug: "live-cricket-score"
-description: "Data Not Found - Bangladesh won by 6 wkts."
+description: "Bangladesh vs Afghanistan, 3rd Match - Bangladesh won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
@@ -13,7 +13,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/7/2023, 4:30:23 PM
+📝 Last Updated on : 10/7/2023, 4:32:54 PM
 
 ***
 
