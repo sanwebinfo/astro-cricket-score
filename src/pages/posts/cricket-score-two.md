@@ -1,25 +1,19 @@
 ---
 title: "South Africa vs Sri Lanka, 4th Match"
 slug: "cricket-score-two"
-description: "SL - 299/8 (40.5) - Sri Lanka need 130 runs in 55 balls."
+description: "South Africa vs Sri Lanka, 4th Match - South Africa won by 102 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - SL - 299/8 (40.5)  
+✅ South Africa vs Sri Lanka, 4th Match
 
-📊 Run Rate - CRR: 7.32  
-
-✊ Current Batsman - Kasun Rajitha* - 17(23)  
-
-✊ Current Bowler - Marco Jansen* - 8.5 Over 75 Run - 2 Wicket  
-
-📑 Status - Sri Lanka need 130 runs in 55 balls
+📑 Status - South Africa won by 102 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 9:58:58 PM
+📝 Last Updated on : 10/7/2023, 10:19:45 PM
 
 ***
 
