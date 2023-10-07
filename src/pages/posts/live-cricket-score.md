@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs Afghanistan, 3rd Match"
 slug: "live-cricket-score"
-description: "BAN - 17/0 (2.5) - Bangladesh need 140 runs."
+description: "BAN - 24/1 (6) - Bangladesh need 133 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 17/0 (2.5)  
+🔴 Live Score - BAN - 24/1 (6)  
 
-📊 Run Rate - CRR: 6.00  
+📊 Run Rate - CRR: 4.00  
 
-✊ Current Batsman - Litton Das* - 9(8)  
+✊ Current Batsman - Mehidy Hasan Miraz* - 2(7)  
 
-✊ Current Bowler - Fazalhaq Farooqi* - 1.5 Over 6 Run - 0 Wicket  
+✊ Current Bowler - Fazalhaq Farooqi* - 3 Over 9 Run - 0 Wicket  
 
-📑 Status - Bangladesh need 140 runs
+📑 Status - Bangladesh need 133 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 2:08:15 PM
+📝 Last Updated on : 10/7/2023, 2:20:48 PM
 
 ***
 
