@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs Sri Lanka, 4th Match"
 slug: "cricket-score-two"
-description: "SL - 231/5 (31.4) - Sri Lanka need 198 runs."
+description: "SL - 299/8 (40.5) - Sri Lanka need 130 runs in 55 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 231/5 (31.4)  
+🔴 Live Score - SL - 299/8 (40.5)  
 
-📊 Run Rate - CRR: 7.29  
+📊 Run Rate - CRR: 7.32  
 
-✊ Current Batsman - Dasun Shanaka* - 23(34)  
+✊ Current Batsman - Kasun Rajitha* - 17(23)  
 
-✊ Current Bowler - Lungi Ngidi* - 5.4 Over 43 Run - 0 Wicket  
+✊ Current Bowler - Marco Jansen* - 8.5 Over 75 Run - 2 Wicket  
 
-📑 Status - Sri Lanka need 198 runs
+📑 Status - Sri Lanka need 130 runs in 55 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 9:19:49 PM
+📝 Last Updated on : 10/7/2023, 9:58:58 PM
 
 ***
 
