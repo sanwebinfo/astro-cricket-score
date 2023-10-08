@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 5th Match"
 slug: "cricket-score-one"
-description: "AUS - 188/8 (48) - Australia opt to bat."
+description: "AUS - 199 (49.3) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 188/8 (48)  
+🔴 Live Score - AUS - 199 (49.3)  
 
-📊 Run Rate - CRR: 3.92  
+📊 Run Rate - CRR: 4.02  
 
-✊ Current Batsman - Mitchell Starc* - 18(28)  
+✊ Current Batsman - Josh Hazlewood* - 1(1)  
 
-✊ Current Bowler - Jasprit Bumrah* - 10 Over 35 Run - 2 Wicket  
+✊ Current Bowler - Hardik Pandya - 6.3 Over 28 Run - 1 Wicket  
 
-📑 Status - Australia opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/8/2023, 5:54:46 PM
+📝 Last Updated on : 10/8/2023, 6:04:09 PM
 
 ***
 
