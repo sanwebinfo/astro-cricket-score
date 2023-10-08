@@ -1,19 +1,25 @@
 ---
-title: "Bangladesh vs Afghanistan, 3rd Match"
+title: "India vs Australia, 5th Match"
 slug: "cricket-score-one"
-description: "Bangladesh vs Afghanistan, 3rd Match - Bangladesh won by 6 wkts."
+description: "AUS - 20/1 (6.2) - Australia opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Bangladesh vs Afghanistan, 3rd Match
+🔴 Live Score - AUS - 20/1 (6.2)  
 
-📑 Status - Bangladesh won by 6 wkts
+📊 Run Rate - CRR: 3.16  
+
+✊ Current Batsman - David Warner* - 9(12)  
+
+✊ Current Bowler - Hardik Pandya* - 0.2 Over 4 Run - 0 Wicket  
+
+📑 Status - Australia opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 5:09:00 PM
+📝 Last Updated on : 10/8/2023, 2:34:20 PM
 
 ***
 
