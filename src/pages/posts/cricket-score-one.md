@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 5th Match"
 slug: "cricket-score-one"
-description: "IND - 2/1 (1) - India need 198 runs."
+description: "IND - 25/3 (8.5) - India need 175 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 2/1 (1)  
+🔴 Live Score - IND - 25/3 (8.5)  
 
-📊 Run Rate - CRR: 2.00  
+📊 Run Rate - CRR: 2.83  
 
-✊ Current Batsman - Rohit Sharma* - 0(3)  
+✊ Current Batsman - Virat Kohli* - 15(32)  
 
-✊ Current Bowler - Josh Hazlewood* - 0 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Pat Cummins* - 1.5 Over 6 Run - 0 Wicket  
 
-📑 Status - India need 198 runs
+📑 Status - India need 175 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/8/2023, 6:35:17 PM
+📝 Last Updated on : 10/8/2023, 7:13:29 PM
 
 ***
 
