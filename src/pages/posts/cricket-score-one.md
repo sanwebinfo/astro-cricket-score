@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 5th Match"
 slug: "cricket-score-one"
-description: "AUS - 199 (49.3) - Innings Break."
+description: "IND - 2/1 (1) - India need 198 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 199 (49.3)  
+🔴 Live Score - IND - 2/1 (1)  
 
-📊 Run Rate - CRR: 4.02  
+📊 Run Rate - CRR: 2.00  
 
-✊ Current Batsman - Josh Hazlewood* - 1(1)  
+✊ Current Batsman - Rohit Sharma* - 0(3)  
 
-✊ Current Bowler - Hardik Pandya - 6.3 Over 28 Run - 1 Wicket  
+✊ Current Bowler - Josh Hazlewood* - 0 Over 0 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 198 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/8/2023, 6:04:09 PM
+📝 Last Updated on : 10/8/2023, 6:35:17 PM
 
 ***
 
