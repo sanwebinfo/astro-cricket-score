@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 5th Match"
 slug: "cricket-score-one"
-description: "AUS - 98/2 (24) - Australia opt to bat."
+description: "AUS - 119/5 (30) - Australia opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 98/2 (24)  
+🔴 Live Score - AUS - 119/5 (30)  
 
-📊 Run Rate - CRR: 4.08  
+📊 Run Rate - CRR: 3.97  
 
-✊ Current Batsman - Marnus Labuschagne* - 14(24)  
+✊ Current Batsman - Glenn Maxwell* - 4(6)  
 
-✊ Current Bowler - Mohammed Siraj* - 4 Over 13 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah* - 4 Over 11 Run - 1 Wicket  
 
 📑 Status - Australia opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/8/2023, 3:50:20 PM
+📝 Last Updated on : 10/8/2023, 4:29:26 PM
 
 ***
 
