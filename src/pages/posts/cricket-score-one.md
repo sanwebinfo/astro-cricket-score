@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 5th Match"
+title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "India vs Australia, 5th Match - India won by 6 wkts."
+description: "New Zealand vs Netherlands, 6th Match - Match starts at Oct 09, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 5th Match
+✅ New Zealand vs Netherlands, 6th Match
 
-📑 Status - India won by 6 wkts
+📑 Status - Match starts at Oct 09, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/8/2023, 9:53:29 PM
+📝 Last Updated on : 10/9/2023, 10:38:07 AM
 
 ***
 
