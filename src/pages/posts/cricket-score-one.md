@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "NED - 1/0 (0.1) - Netherlands need 322 runs."
+description: "NED - 75/3 (18.4) - Netherlands need 248 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 1/0 (0.1)  
+🔴 Live Score - NED - 75/3 (18.4)  
 
-📊 Run Rate - CRR: 6.00  
+📊 Run Rate - CRR: 4.02  
 
-✊ Current Batsman - Max ODowd* - 0(0)  
+✊ Current Batsman - Teja Nidamanuru* - 4(9)  
 
-✊ Current Bowler - Trent Boult* - 0.1 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Rachin Ravindra* - 2.4 Over 12 Run - 1 Wicket  
 
-📑 Status - Netherlands need 322 runs
+📑 Status - Netherlands need 248 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2023, 6:21:37 PM
+📝 Last Updated on : 10/9/2023, 7:31:40 PM
 
 ***
 
