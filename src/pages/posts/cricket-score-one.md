@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "NZ - 254/6 (44.2) - Netherlands opt to bowl."
+description: "NED - 1/0 (0.1) - Netherlands need 322 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 254/6 (44.2)  
+🔴 Live Score - NED - 1/0 (0.1)  
 
-📊 Run Rate - CRR: 5.73  
+📊 Run Rate - CRR: 6.00  
 
-✊ Current Batsman - Mitchell Santner* - 0(1)  
+✊ Current Batsman - Max ODowd* - 0(0)  
 
-✊ Current Bowler - Aryan Dutt* - 7.2 Over 36 Run - 1 Wicket  
+✊ Current Bowler - Trent Boult* - 0.1 Over 1 Run - 0 Wicket  
 
-📑 Status - Netherlands opt to bowl
+📑 Status - Netherlands need 322 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2023, 5:25:25 PM
+📝 Last Updated on : 10/9/2023, 6:21:37 PM
 
 ***
 
