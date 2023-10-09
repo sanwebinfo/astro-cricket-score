@@ -1,19 +1,25 @@
 ---
 title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "New Zealand vs Netherlands, 6th Match - Match starts at Oct 09, 08:30 GMT."
+description: "NZ - 32/0 (6.4) - Netherlands opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ New Zealand vs Netherlands, 6th Match
+🔴 Live Score - NZ - 32/0 (6.4)  
 
-📑 Status - Match starts at Oct 09, 08:30 GMT
+📊 Run Rate - CRR: 4.80  
+
+✊ Current Batsman - Devon Conway* - 14(20)  
+
+✊ Current Bowler - Aryan Dutt* - 3.4 Over 15 Run - 0 Wicket  
+
+📑 Status - Netherlands opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2023, 10:38:07 AM
+📝 Last Updated on : 10/9/2023, 2:27:35 PM
 
 ***
 
