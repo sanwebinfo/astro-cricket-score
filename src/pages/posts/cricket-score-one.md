@@ -1,17 +1,17 @@
 ---
 title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "NZ - 32/0 (6.4) - Netherlands opt to bowl."
+description: "NZ - 135/1 (25) - Netherlands opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 32/0 (6.4)  
+🔴 Live Score - NZ - 135/1 (25)  
 
-📊 Run Rate - CRR: 4.80  
+📊 Run Rate - CRR: 5.40  
 
-✊ Current Batsman - Devon Conway* - 14(20)  
+✊ Current Batsman - Will Young* - 66(75)  
 
-✊ Current Bowler - Aryan Dutt* - 3.4 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Colin Ackermann* - 4 Over 28 Run - 0 Wicket  
 
 📑 Status - Netherlands opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/9/2023, 2:27:35 PM
+📝 Last Updated on : 10/9/2023, 3:45:47 PM
 
 ***
 
