@@ -1,25 +1,19 @@
 ---
 title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-one"
-description: "NED - 75/3 (18.4) - Netherlands need 248 runs."
+description: "New Zealand vs Netherlands, 6th Match - New Zealand won by 99 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NED - 75/3 (18.4)  
+✅ New Zealand vs Netherlands, 6th Match
 
-📊 Run Rate - CRR: 4.02  
-
-✊ Current Batsman - Teja Nidamanuru* - 4(9)  
-
-✊ Current Bowler - Rachin Ravindra* - 2.4 Over 12 Run - 1 Wicket  
-
-📑 Status - Netherlands need 248 runs
+📑 Status - New Zealand won by 99 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2023, 7:31:40 PM
+📝 Last Updated on : 10/9/2023, 11:01:05 PM
 
 ***
 
