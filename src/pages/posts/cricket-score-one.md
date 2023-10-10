@@ -1,25 +1,19 @@
 ---
 title: "England vs Bangladesh, 7th Match"
 slug: "cricket-score-one"
-description: "BAN - 196/8 (41.4) - Bangladesh need 169 runs in 50 balls."
+description: "England vs Bangladesh, 7th Match - England won by 137 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - BAN - 196/8 (41.4)  
+✅ England vs Bangladesh, 7th Match
 
-📊 Run Rate - CRR: 4.70  
-
-✊ Current Batsman - Shoriful Islam* - 0(2)  
-
-✊ Current Bowler - Liam Livingstone* - 1.4 Over 3 Run - 1 Wicket  
-
-📑 Status - Bangladesh need 169 runs in 50 balls
+📑 Status - England won by 137 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/10/2023, 6:02:43 PM
+📝 Last Updated on : 10/10/2023, 6:45:00 PM
 
 ***
 
