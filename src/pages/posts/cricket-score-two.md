@@ -1,17 +1,17 @@
 ---
 title: "Pakistan vs Sri Lanka, 8th Match"
 slug: "cricket-score-two"
-description: "SL - 53/1 (9) - Sri Lanka opt to bat."
+description: "SL - 239/4 (33) - Sri Lanka opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 53/1 (9)  
+🔴 Live Score - SL - 239/4 (33)  
 
-📊 Run Rate - CRR: 5.89  
+📊 Run Rate - CRR: 7.24  
 
-✊ Current Batsman - Pathum Nissanka* - 24(30)  
+✊ Current Batsman - Sadeera Samarawickrama* - 49(42)  
 
-✊ Current Bowler - Hasan Ali* - 4 Over 23 Run - 1 Wicket  
+✊ Current Bowler - Shadab Khan* - 5 Over 34 Run - 1 Wicket  
 
 📑 Status - Sri Lanka opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/10/2023, 2:46:26 PM
+📝 Last Updated on : 10/10/2023, 4:40:00 PM
 
 ***
 
