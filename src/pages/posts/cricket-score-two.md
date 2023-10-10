@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Sri Lanka, 8th Match"
 slug: "cricket-score-two"
-description: "PAK - 306/3 (44) - Pakistan need 39 runs in 36 balls."
+description: "PAK - 348/4 (48.2) - Pakistan won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 306/3 (44)  
+🔴 Live Score - PAK - 348/4 (48.2)  
 
-📊 Run Rate - CRR: 6.95  
+📊 Run Rate - CRR: 7.20  
 
-✊ Current Batsman - Saud Shakeel* - 30(28)  
+✊ Current Batsman - Mohammad Rizwan* - 134(121)  
 
-✊ Current Bowler - Maheesh Theekshana* - 9 Over 51 Run - 0 Wicket  
+✊ Current Bowler - Dilshan Madushanka* - 9.2 Over 63 Run - 2 Wicket  
 
-📑 Status - Pakistan need 39 runs in 36 balls
+📑 Status - Pakistan won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/10/2023, 10:04:14 PM
+📝 Last Updated on : 10/10/2023, 10:28:04 PM
 
 ***
 
