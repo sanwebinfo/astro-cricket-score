@@ -1,25 +1,25 @@
 ---
 title: "England vs Bangladesh, 7th Match"
 slug: "cricket-score-one"
-description: "ENG - 364/9 (50) - Innings Break."
+description: "BAN - 106/4 (18.5) - Bangladesh need 259 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 364/9 (50)  
+🔴 Live Score - BAN - 106/4 (18.5)  
 
-📊 Run Rate - CRR: 7.28  
+📊 Run Rate - CRR: 5.63  
 
-✊ Current Batsman - Mark Wood* - 6(5)  
+✊ Current Batsman - Mushfiqur Rahim* - 27(35)  
 
-✊ Current Bowler - Taskin Ahmed* - 6 Over 38 Run - 1 Wicket  
+✊ Current Bowler - Sam Curran* - 4.5 Over 34 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Bangladesh need 259 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/10/2023, 2:38:33 PM
+📝 Last Updated on : 10/10/2023, 4:30:24 PM
 
 ***
 
