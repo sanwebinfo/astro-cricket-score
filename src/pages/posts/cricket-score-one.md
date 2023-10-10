@@ -1,25 +1,25 @@
 ---
 title: "England vs Bangladesh, 7th Match"
 slug: "cricket-score-one"
-description: "BAN - 106/4 (18.5) - Bangladesh need 259 runs."
+description: "BAN - 196/8 (41.4) - Bangladesh need 169 runs in 50 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 106/4 (18.5)  
+🔴 Live Score - BAN - 196/8 (41.4)  
 
-📊 Run Rate - CRR: 5.63  
+📊 Run Rate - CRR: 4.70  
 
-✊ Current Batsman - Mushfiqur Rahim* - 27(35)  
+✊ Current Batsman - Shoriful Islam* - 0(2)  
 
-✊ Current Bowler - Sam Curran* - 4.5 Over 34 Run - 0 Wicket  
+✊ Current Bowler - Liam Livingstone* - 1.4 Over 3 Run - 1 Wicket  
 
-📑 Status - Bangladesh need 259 runs
+📑 Status - Bangladesh need 169 runs in 50 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/10/2023, 4:30:24 PM
+📝 Last Updated on : 10/10/2023, 6:02:43 PM
 
 ***
 
