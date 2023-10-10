@@ -1,19 +1,25 @@
 ---
-title: "New Zealand vs Netherlands, 6th Match"
+title: "England vs Bangladesh, 7th Match"
 slug: "cricket-score-one"
-description: "New Zealand vs Netherlands, 6th Match - New Zealand won by 99 runs."
+description: "ENG - 119/1 (18.4) - Bangladesh opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ New Zealand vs Netherlands, 6th Match
+🔴 Live Score - ENG - 119/1 (18.4)  
 
-📑 Status - New Zealand won by 99 runs
+📊 Run Rate - CRR: 6.38  
+
+✊ Current Batsman - Dawid Malan* - 61(48)  
+
+✊ Current Bowler - Taskin Ahmed* - 2.4 Over 12 Run - 0 Wicket  
+
+📑 Status - Bangladesh opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2023, 11:01:05 PM
+📝 Last Updated on : 10/10/2023, 12:01:02 PM
 
 ***
 
