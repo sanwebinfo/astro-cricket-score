@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs Sri Lanka, 4th Match"
+title: "New Zealand vs Netherlands, 6th Match"
 slug: "cricket-score-two"
-description: "South Africa vs Sri Lanka, 4th Match - South Africa won by 102 runs."
+description: "New Zealand vs Netherlands, 6th Match - New Zealand won by 99 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs Sri Lanka, 4th Match
+✅ New Zealand vs Netherlands, 6th Match
 
-📑 Status - South Africa won by 102 runs
+📑 Status - New Zealand won by 99 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2023, 10:19:45 PM
+📝 Last Updated on : 10/10/2023, 12:03:11 PM
 
 ***
 
