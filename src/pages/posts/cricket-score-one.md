@@ -1,25 +1,25 @@
 ---
 title: "India vs Afghanistan, 9th Match"
 slug: "cricket-score-one"
-description: "IND - 17/0 (3.2) - India need 256 runs."
+description: "IND - 151/0 (17.3) - India need 122 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 17/0 (3.2)  
+🔴 Live Score - IND - 151/0 (17.3)  
 
-📊 Run Rate - CRR: 5.10  
+📊 Run Rate - CRR: 8.63  
 
-✊ Current Batsman - Ishan Kishan* - 4(9)  
+✊ Current Batsman - Ishan Kishan* - 44(42)  
 
-✊ Current Bowler - Mujeeb Ur Rahman* - 1.2 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Mohammad Nabi* - 3.3 Over 29 Run - 0 Wicket  
 
-📑 Status - India need 256 runs
+📑 Status - India need 122 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/11/2023, 6:44:00 PM
+📝 Last Updated on : 10/11/2023, 7:53:36 PM
 
 ***
 
