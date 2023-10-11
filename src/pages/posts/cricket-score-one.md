@@ -1,17 +1,17 @@
 ---
 title: "India vs Afghanistan, 9th Match"
 slug: "cricket-score-one"
-description: "AFG - 8/0 (2.5) - Afghanistan opt to bat."
+description: "AFG - 64/3 (13.5) - Afghanistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 8/0 (2.5)  
+🔴 Live Score - AFG - 64/3 (13.5)  
 
-📊 Run Rate - CRR: 2.82  
+📊 Run Rate - CRR: 4.63  
 
-✊ Current Batsman - Ibrahim Zadran* - 6(10)  
+✊ Current Batsman - Hashmatullah Shahidi* - 0(4)  
 
-✊ Current Bowler - Jasprit Bumrah* - 1.5 Over 3 Run - 0 Wicket  
+✊ Current Bowler - Shardul Thakur* - 2.5 Over 14 Run - 1 Wicket  
 
 📑 Status - Afghanistan opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/11/2023, 2:14:35 PM
+📝 Last Updated on : 10/11/2023, 3:20:35 PM
 
 ***
 
