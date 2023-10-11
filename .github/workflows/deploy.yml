@@ -29,7 +29,7 @@ jobs:
       - run: yarn install
       - run: yarn build
       - name: Deploy
-        uses: cloudflare/wrangler-action@v3.2.0
+        uses: cloudflare/wrangler-action@v3.3.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
