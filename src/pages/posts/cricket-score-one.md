@@ -1,19 +1,25 @@
 ---
-title: "England vs Bangladesh, 7th Match"
+title: "India vs Afghanistan, 9th Match"
 slug: "cricket-score-one"
-description: "England vs Bangladesh, 7th Match - England won by 137 runs."
+description: "AFG - 8/0 (2.5) - Afghanistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ England vs Bangladesh, 7th Match
+🔴 Live Score - AFG - 8/0 (2.5)  
 
-📑 Status - England won by 137 runs
+📊 Run Rate - CRR: 2.82  
+
+✊ Current Batsman - Ibrahim Zadran* - 6(10)  
+
+✊ Current Bowler - Jasprit Bumrah* - 1.5 Over 3 Run - 0 Wicket  
+
+📑 Status - Afghanistan opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/10/2023, 6:45:00 PM
+📝 Last Updated on : 10/11/2023, 2:14:35 PM
 
 ***
 
