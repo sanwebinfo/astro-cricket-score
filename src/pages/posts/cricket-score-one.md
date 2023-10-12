@@ -1,25 +1,25 @@
 ---
 title: "Australia vs South Africa, 10th Match"
 slug: "cricket-score-one"
-description: "AUS - 27/1 (6.1) - Australia need 285 runs."
+description: "AUS - 31/2 (7.4) - Australia need 281 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 27/1 (6.1)  
+🔴 Live Score - AUS - 31/2 (7.4)  
 
-📊 Run Rate - CRR: 4.38  
+📊 Run Rate - CRR: 4.04  
 
-✊ Current Batsman - David Warner* - 13(22)  
+✊ Current Batsman - Steven Smith* - 4(5)  
 
-✊ Current Bowler - Lungi Ngidi* - 3.1 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Marco Jansen* - 3.4 Over 26 Run - 1 Wicket  
 
-📑 Status - Australia need 285 runs
+📑 Status - Australia need 281 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/12/2023, 6:52:06 PM
+📝 Last Updated on : 10/12/2023, 6:59:40 PM
 
 ***
 
