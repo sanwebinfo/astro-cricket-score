@@ -1,19 +1,19 @@
 ---
-title: "India vs Afghanistan, 9th Match"
+title: "Australia vs South Africa, 10th Match"
 slug: "cricket-score-one"
-description: "India vs Afghanistan, 9th Match - India won by 8 wkts."
+description: "Australia vs South Africa, 10th Match - Preview."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Afghanistan, 9th Match
+✅ Australia vs South Africa, 10th Match
 
-📑 Status - India won by 8 wkts
+📑 Status - Preview
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/11/2023, 9:02:11 PM
+📝 Last Updated on : 10/12/2023, 10:41:38 AM
 
 ***
 
