@@ -1,25 +1,25 @@
 ---
 title: "Australia vs South Africa, 10th Match"
 slug: "cricket-score-one"
-description: "AUS - 73/6 (19) - Australia need 239 runs."
+description: "AUS - 156/8 (36) - Australia need 156 runs in 84 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 73/6 (19)  
+🔴 Live Score - AUS - 156/8 (36)  
 
-📊 Run Rate - CRR: 3.84  
+📊 Run Rate - CRR: 4.33  
 
-✊ Current Batsman - Mitchell Starc* - 1(8)  
+✊ Current Batsman - Adam Zampa* - 0(2)  
 
-✊ Current Bowler - Kagiso Rabada* - 5 Over 15 Run - 3 Wicket  
+✊ Current Bowler - Keshav Maharaj* - 10 Over 30 Run - 2 Wicket  
 
-📑 Status - Australia need 239 runs
+📑 Status - Australia need 156 runs in 84 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/12/2023, 7:54:38 PM
+📝 Last Updated on : 10/12/2023, 9:16:03 PM
 
 ***
 
