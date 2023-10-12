@@ -1,25 +1,25 @@
 ---
 title: "Australia vs South Africa, 10th Match"
 slug: "cricket-score-one"
-description: "RSA - 310/5 (49) - Australia opt to bowl."
+description: "RSA - 311/7 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 310/5 (49)  
+🔴 Live Score - RSA - 311/7 (50)  
 
-📊 Run Rate - CRR: 6.33  
+📊 Run Rate - CRR: 6.22  
 
-✊ Current Batsman - Marco Jansen* - 26(21)  
+✊ Current Batsman - Kagiso Rabada* - 0(1)  
 
-✊ Current Bowler - Mitchell Starc* - 8 Over 53 Run - 0 Wicket  
+✊ Current Bowler - Mitchell Starc* - 9 Over 53 Run - 2 Wicket  
 
-📑 Status - Australia opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/12/2023, 5:46:54 PM
+📝 Last Updated on : 10/12/2023, 6:06:38 PM
 
 ***
 
