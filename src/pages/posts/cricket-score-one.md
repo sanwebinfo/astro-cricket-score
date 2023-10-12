@@ -1,17 +1,17 @@
 ---
 title: "Australia vs South Africa, 10th Match"
 slug: "cricket-score-one"
-description: "RSA - 163/2 (29.1) - Australia opt to bowl."
+description: "RSA - 263/4 (43.1) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 163/2 (29.1)  
+🔴 Live Score - RSA - 263/4 (43.1)  
 
-📊 Run Rate - CRR: 5.59  
+📊 Run Rate - CRR: 6.09  
 
-✊ Current Batsman - Quinton de Kock* - 93(88)  
+✊ Current Batsman - Heinrich Klaasen* - 27(24)  
 
-✊ Current Bowler - Pat Cummins* - 3.1 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Adam Zampa - 6.1 Over 70 Run - 1 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/12/2023, 4:10:10 PM
+📝 Last Updated on : 10/12/2023, 5:12:19 PM
 
 ***
 
