@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Bangladesh, 11th Match"
 slug: "cricket-score-one"
-description: "BAN - 245/9 (50) - Innings Break."
+description: "NZ - 42/1 (11.1) - New Zealand need 204 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 245/9 (50)  
+🔴 Live Score - NZ - 42/1 (11.1)  
 
-📊 Run Rate - CRR: 4.90  
+📊 Run Rate - CRR: 3.76  
 
-✊ Current Batsman - Mahmudullah* - 41(49)  
+✊ Current Batsman - Kane Williamson* - 10(24)  
 
-✊ Current Bowler - Daryl Mitchell* - 1 Over 11 Run - 0 Wicket  
+✊ Current Bowler - Mustafizur Rahman* - 4.1 Over 14 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - New Zealand need 204 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/13/2023, 5:54:00 PM
+📝 Last Updated on : 10/13/2023, 7:10:19 PM
 
 ***
 
