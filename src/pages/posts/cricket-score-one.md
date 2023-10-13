@@ -1,17 +1,17 @@
 ---
 title: "New Zealand vs Bangladesh, 11th Match"
 slug: "cricket-score-one"
-description: "BAN - 157/5 (31.2) - New Zealand opt to bowl."
+description: "BAN - 217/8 (45.4) - New Zealand opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 157/5 (31.2)  
+🔴 Live Score - BAN - 217/8 (45.4)  
 
-📊 Run Rate - CRR: 5.01  
+📊 Run Rate - CRR: 4.75  
 
-✊ Current Batsman - Mushfiqur Rahim* - 56(63)  
+✊ Current Batsman - Mahmudullah* - 19(32)  
 
-✊ Current Bowler - Lockie Ferguson* - 7.2 Over 33 Run - 3 Wicket  
+✊ Current Bowler - Matt Henry* - 8.4 Over 52 Run - 1 Wicket  
 
 📑 Status - New Zealand opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/13/2023, 4:29:14 PM
+📝 Last Updated on : 10/13/2023, 5:24:22 PM
 
 ***
 
