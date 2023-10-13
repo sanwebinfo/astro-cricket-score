@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Bangladesh, 11th Match"
 slug: "cricket-score-one"
-description: "BAN - 217/8 (45.4) - New Zealand opt to bowl."
+description: "BAN - 245/9 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 217/8 (45.4)  
+🔴 Live Score - BAN - 245/9 (50)  
 
-📊 Run Rate - CRR: 4.75  
+📊 Run Rate - CRR: 4.90  
 
-✊ Current Batsman - Mahmudullah* - 19(32)  
+✊ Current Batsman - Mahmudullah* - 41(49)  
 
-✊ Current Bowler - Matt Henry* - 8.4 Over 52 Run - 1 Wicket  
+✊ Current Bowler - Daryl Mitchell* - 1 Over 11 Run - 0 Wicket  
 
-📑 Status - New Zealand opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/13/2023, 5:24:22 PM
+📝 Last Updated on : 10/13/2023, 5:54:00 PM
 
 ***
 
