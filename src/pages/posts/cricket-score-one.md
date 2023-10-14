@@ -1,19 +1,19 @@
 ---
-title: "New Zealand vs Bangladesh, 11th Match"
+title: "India vs Pakistan, 12th Match"
 slug: "cricket-score-one"
-description: "New Zealand vs Bangladesh, 11th Match - New Zealand won by 8 wkts."
+description: "India vs Pakistan, 12th Match - Preview."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ New Zealand vs Bangladesh, 11th Match
+✅ India vs Pakistan, 12th Match
 
-📑 Status - New Zealand won by 8 wkts
+📑 Status - Preview
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/13/2023, 10:02:41 PM
+📝 Last Updated on : 10/14/2023, 9:09:31 AM
 
 ***
 
