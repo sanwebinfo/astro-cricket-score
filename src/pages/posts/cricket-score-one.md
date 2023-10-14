@@ -1,17 +1,17 @@
 ---
 title: "India vs Pakistan, 12th Match"
 slug: "cricket-score-one"
-description: "PAK - 173/7 (36.2) - India opt to bowl."
+description: "PAK - 189/9 (40.5) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 173/7 (36.2)  
+🔴 Live Score - PAK - 189/9 (40.5)  
 
-📊 Run Rate - CRR: 4.76  
+📊 Run Rate - CRR: 4.63  
 
-✊ Current Batsman - Mohammad Nawaz* - 2(4)  
+✊ Current Batsman - Haris Rauf* - 2(4)  
 
-✊ Current Bowler - Kuldeep Yadav* - 9.2 Over 34 Run - 2 Wicket  
+✊ Current Bowler - Ravindra Jadeja* - 8.5 Over 37 Run - 1 Wicket  
 
 📑 Status - India opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/14/2023, 4:54:45 PM
+📝 Last Updated on : 10/14/2023, 5:14:30 PM
 
 ***
 
