@@ -1,25 +1,25 @@
 ---
 title: "India vs Pakistan, 12th Match"
 slug: "cricket-score-one"
-description: "PAK - 191 (42.5) - Innings Break."
+description: "IND - 23/0 (2.3) - India need 169 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 191 (42.5)  
+🔴 Live Score - IND - 23/0 (2.3)  
 
-📊 Run Rate - CRR: 4.46  
+📊 Run Rate - CRR: 9.20  
 
-✊ Current Batsman - Shaheen Afridi* - 2(10)  
+✊ Current Batsman - Shubman Gill* - 16(9)  
 
-✊ Current Bowler - Hardik Pandya - 9.5 Over 34 Run - 2 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 1.3 Over 10 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 169 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/14/2023, 5:24:32 PM
+📝 Last Updated on : 10/14/2023, 6:06:18 PM
 
 ***
 
