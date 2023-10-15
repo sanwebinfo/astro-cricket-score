@@ -1,17 +1,17 @@
 ---
 title: "England vs Afghanistan, 13th Match"
 slug: "cricket-score-one"
-description: "AFG - 174/5 (32.1) - England opt to bowl."
+description: "AFG - 238/7 (45.1) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 174/5 (32.1)  
+🔴 Live Score - AFG - 238/7 (45.1)  
 
-📊 Run Rate - CRR: 5.41  
+📊 Run Rate - CRR: 5.27  
 
-✊ Current Batsman - Ikram Alikhil* - 18(21)  
+✊ Current Batsman - Mujeeb Ur Rahman* - 2(3)  
 
-✊ Current Bowler - Liam Livingstone - 3.1 Over 18 Run - 1 Wicket  
+✊ Current Bowler - Sam Curran* - 3.1 Over 29 Run - 0 Wicket  
 
 📑 Status - England opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/15/2023, 4:17:24 PM
+📝 Last Updated on : 10/15/2023, 5:18:44 PM
 
 ***
 
