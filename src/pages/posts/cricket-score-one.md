@@ -1,25 +1,19 @@
 ---
 title: "England vs Afghanistan, 13th Match"
 slug: "cricket-score-one"
-description: "ENG - 215/9 (40.2) - England need 70 runs in 58 balls."
+description: "England vs Afghanistan, 13th Match - Afghanistan won by 69 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - ENG - 215/9 (40.2)  
+✅ England vs Afghanistan, 13th Match
 
-📊 Run Rate - CRR: 5.33  
-
-✊ Current Batsman - Mark Wood* - 18(21)  
-
-✊ Current Bowler - Rashid Khan* - 9.2 Over 37 Run - 2 Wicket  
-
-📑 Status - England need 70 runs in 58 balls
+📑 Status - Afghanistan won by 69 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/15/2023, 9:28:31 PM
+📝 Last Updated on : 10/15/2023, 9:36:50 PM
 
 ***
 
