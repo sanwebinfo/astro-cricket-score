@@ -1,19 +1,19 @@
 ---
-title: "India vs Pakistan, 12th Match"
+title: "England vs Afghanistan, 13th Match"
 slug: "cricket-score-one"
-description: "India vs Pakistan, 12th Match - India won by 7 wkts."
+description: "England vs Afghanistan, 13th Match - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Pakistan, 12th Match
+✅ England vs Afghanistan, 13th Match
 
-📑 Status - India won by 7 wkts
+📑 Status - England opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/14/2023, 8:10:48 PM
+📝 Last Updated on : 10/15/2023, 2:00:29 PM
 
 ***
 
