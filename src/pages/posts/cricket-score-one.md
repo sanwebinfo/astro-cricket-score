@@ -1,17 +1,17 @@
 ---
 title: "Australia vs Sri Lanka, 14th Match"
 slug: "cricket-score-one"
-description: "SL - 168/4 (30.2) - Sri Lanka opt to bat."
+description: "SL - 187/6 (36.3) - Sri Lanka opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 168/4 (30.2)  
+🔴 Live Score - SL - 187/6 (36.3)  
 
-📊 Run Rate - CRR: 5.54  
+📊 Run Rate - CRR: 5.12  
 
-✊ Current Batsman - Dhananjaya de Silva* - 0(5)  
+✊ Current Batsman - Chamika Karunaratne* - 1(5)  
 
-✊ Current Bowler - Mitchell Starc* - 5.2 Over 31 Run - 0 Wicket  
+✊ Current Bowler - Josh Hazlewood* - 5.3 Over 34 Run - 0 Wicket  
 
 📑 Status - Sri Lanka opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/16/2023, 4:33:58 PM
+📝 Last Updated on : 10/16/2023, 5:29:30 PM
 
 ***
 
