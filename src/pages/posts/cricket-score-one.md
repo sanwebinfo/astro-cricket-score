@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Sri Lanka, 14th Match"
 slug: "cricket-score-one"
-description: "AUS - 62/2 (9) - Australia need 148 runs."
+description: "AUS - 89/3 (15) - Australia need 121 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 62/2 (9)  
+🔴 Live Score - AUS - 89/3 (15)  
 
-📊 Run Rate - CRR: 6.89  
+📊 Run Rate - CRR: 5.93  
 
-✊ Current Batsman - Marnus Labuschagne* - 7(9)  
+✊ Current Batsman - Marnus Labuschagne* - 18(25)  
 
-✊ Current Bowler - Dilshan Madushanka* - 4 Over 12 Run - 2 Wicket  
+✊ Current Bowler - Dunith Wellalage* - 4 Over 23 Run - 0 Wicket  
 
-📑 Status - Australia need 148 runs
+📑 Status - Australia need 121 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/16/2023, 7:42:46 PM
+📝 Last Updated on : 10/16/2023, 8:08:53 PM
 
 ***
 
