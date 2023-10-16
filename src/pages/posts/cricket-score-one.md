@@ -1,19 +1,19 @@
 ---
-title: "England vs Afghanistan, 13th Match"
+title: "Australia vs Sri Lanka, 14th Match"
 slug: "cricket-score-one"
-description: "England vs Afghanistan, 13th Match - Afghanistan won by 69 runs."
+description: "Australia vs Sri Lanka, 14th Match - Match starts at Oct 16, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ England vs Afghanistan, 13th Match
+✅ Australia vs Sri Lanka, 14th Match
 
-📑 Status - Afghanistan won by 69 runs
+📑 Status - Match starts at Oct 16, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/15/2023, 9:36:50 PM
+📝 Last Updated on : 10/16/2023, 12:24:19 PM
 
 ***
 
