@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs Netherlands, 15th Match"
 slug: "cricket-score-one"
-description: "NED - 31/2 (9.5) - 43 overs game due to rain."
+description: "NED - 63/4 (16.4) - 43 overs game due to rain."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 31/2 (9.5)  
+🔴 Live Score - NED - 63/4 (16.4)  
 
-📊 Run Rate - CRR: 3.15  
+📊 Run Rate - CRR: 3.78  
 
-✊ Current Batsman - Colin Ackermann* - 4(12)  
+✊ Current Batsman - Sybrand Engelbrecht* - 14(24)  
 
-✊ Current Bowler - Marco Jansen* - 4.5 Over 13 Run - 1 Wicket  
+✊ Current Bowler - Lungi Ngidi* - 3.4 Over 19 Run - 0 Wicket  
 
 📑 Status - 43 overs game due to rain
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/17/2023, 4:47:25 PM
+📝 Last Updated on : 10/17/2023, 5:26:43 PM
 
 ***
 
