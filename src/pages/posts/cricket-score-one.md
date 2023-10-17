@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs Netherlands, 15th Match"
 slug: "cricket-score-one"
-description: "RSA - 8/0 (2) - South Africa need 238 runs - 43 overs game due to rain."
+description: "RSA - 55/4 (13.4) - South Africa need 191 runs - 43 overs game due to rain."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 8/0 (2)  
+🔴 Live Score - RSA - 55/4 (13.4)  
 
-📊 Run Rate - CRR: 4.00  
+📊 Run Rate - CRR: 4.02  
 
-✊ Current Batsman - Temba Bavuma* - 0(6)  
+✊ Current Batsman - Heinrich Klaasen* - 9(11)  
 
-✊ Current Bowler - Aryan Dutt* - 1 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Roelof van der Merwe* - 2.4 Over 8 Run - 2 Wicket  
 
-📑 Status - South Africa need 238 runs - 43 overs game due to rain
+📑 Status - South Africa need 191 runs - 43 overs game due to rain
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/17/2023, 8:00:34 PM
+📝 Last Updated on : 10/17/2023, 8:50:30 PM
 
 ***
 
