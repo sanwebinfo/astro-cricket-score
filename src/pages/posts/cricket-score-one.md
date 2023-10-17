@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Sri Lanka, 14th Match"
+title: "South Africa vs Netherlands, 15th Match"
 slug: "cricket-score-one"
-description: "Australia vs Sri Lanka, 14th Match - Australia won by 5 wkts."
+description: "South Africa vs Netherlands, 15th Match - Match starts at Oct 17, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Sri Lanka, 14th Match
+✅ South Africa vs Netherlands, 15th Match
 
-📑 Status - Australia won by 5 wkts
+📑 Status - Match starts at Oct 17, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/16/2023, 9:45:53 PM
+📝 Last Updated on : 10/17/2023, 11:45:01 AM
 
 ***
 
