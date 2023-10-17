@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs Netherlands, 15th Match"
 slug: "cricket-score-one"
-description: "NED - 212/8 (40.4) - 43 overs game due to rain."
+description: "NED - 245/8 (43) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 212/8 (40.4)  
+🔴 Live Score - NED - 245/8 (43)  
 
-📊 Run Rate - CRR: 5.21  
+📊 Run Rate - CRR: 5.70  
 
-✊ Current Batsman - Aryan Dutt* - 0(1)  
+✊ Current Batsman - Aryan Dutt* - 23(9)  
 
-✊ Current Bowler - Kagiso Rabada* - 8.4 Over 48 Run - 2 Wicket  
+✊ Current Bowler - Gerald Coetzee* - 8 Over 57 Run - 1 Wicket  
 
-📑 Status - 43 overs game due to rain
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/17/2023, 7:11:26 PM
+📝 Last Updated on : 10/17/2023, 7:28:06 PM
 
 ***
 
