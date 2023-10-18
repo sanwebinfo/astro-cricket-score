@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Afghanistan, 16th Match"
 slug: "cricket-score-one"
-description: "NZ - 279/6 (49.1) - Afghanistan opt to bowl."
+description: "AFG - 56/3 (17) - Afghanistan need 233 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 279/6 (49.1)  
+🔴 Live Score - AFG - 56/3 (17)  
 
-📊 Run Rate - CRR: 5.67  
+📊 Run Rate - CRR: 3.29  
 
-✊ Current Batsman - Mark Chapman* - 22(9)  
+✊ Current Batsman - Rahmat Shah* - 18(34)  
 
-✊ Current Bowler - Naveen-ul-Haq* - 7.1 Over 40 Run - 2 Wicket  
+✊ Current Bowler - Lockie Ferguson* - 3 Over 5 Run - 1 Wicket  
 
-📑 Status - Afghanistan opt to bowl
+📑 Status - Afghanistan need 233 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/18/2023, 5:51:18 PM
+📝 Last Updated on : 10/18/2023, 7:37:25 PM
 
 ***
 
