@@ -1,25 +1,19 @@
 ---
 title: "New Zealand vs Afghanistan, 16th Match"
 slug: "cricket-score-one"
-description: "AFG - 134/7 (33.3) - Afghanistan need 155 runs."
+description: "New Zealand vs Afghanistan, 16th Match - New Zealand won by 149 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AFG - 134/7 (33.3)  
+✅ New Zealand vs Afghanistan, 16th Match
 
-📊 Run Rate - CRR: 4.00  
-
-✊ Current Batsman - Ikram Alikhil* - 18(20)  
-
-✊ Current Bowler - Mitchell Santner - 6.3 Over 38 Run - 2 Wicket  
-
-📑 Status - Afghanistan need 155 runs
+📑 Status - New Zealand won by 149 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/18/2023, 8:47:11 PM
+📝 Last Updated on : 10/18/2023, 9:37:37 PM
 
 ***
 
