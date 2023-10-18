@@ -1,17 +1,17 @@
 ---
 title: "New Zealand vs Afghanistan, 16th Match"
 slug: "cricket-score-one"
-description: "NZ - 174/4 (37.1) - Afghanistan opt to bowl."
+description: "NZ - 279/6 (49.1) - Afghanistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 174/4 (37.1)  
+🔴 Live Score - NZ - 279/6 (49.1)  
 
-📊 Run Rate - CRR: 4.68  
+📊 Run Rate - CRR: 5.67  
 
-✊ Current Batsman - Tom Latham* - 27(43)  
+✊ Current Batsman - Mark Chapman* - 22(9)  
 
-✊ Current Bowler - Fazalhaq Farooqi* - 5.1 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Naveen-ul-Haq* - 7.1 Over 40 Run - 2 Wicket  
 
 📑 Status - Afghanistan opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/18/2023, 4:52:07 PM
+📝 Last Updated on : 10/18/2023, 5:51:18 PM
 
 ***
 
