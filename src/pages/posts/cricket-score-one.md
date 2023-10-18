@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Afghanistan, 16th Match"
 slug: "cricket-score-one"
-description: "AFG - 114/5 (29) - Afghanistan need 175 runs."
+description: "AFG - 134/7 (33.3) - Afghanistan need 155 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 114/5 (29)  
+🔴 Live Score - AFG - 134/7 (33.3)  
 
-📊 Run Rate - CRR: 3.93  
+📊 Run Rate - CRR: 4.00  
 
-✊ Current Batsman - Mohammad Nabi* - 2(3)  
+✊ Current Batsman - Ikram Alikhil* - 18(20)  
 
-✊ Current Bowler - Trent Boult* - 7 Over 18 Run - 2 Wicket  
+✊ Current Bowler - Mitchell Santner - 6.3 Over 38 Run - 2 Wicket  
 
-📑 Status - Afghanistan need 175 runs
+📑 Status - Afghanistan need 155 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/18/2023, 8:27:08 PM
+📝 Last Updated on : 10/18/2023, 8:47:11 PM
 
 ***
 
