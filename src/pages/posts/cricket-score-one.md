@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs Netherlands, 15th Match"
+title: "New Zealand vs Afghanistan, 16th Match"
 slug: "cricket-score-one"
-description: "South Africa vs Netherlands, 15th Match - Netherlands won by 38 runs."
+description: "New Zealand vs Afghanistan, 16th Match - Match starts at Oct 18, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs Netherlands, 15th Match
+✅ New Zealand vs Afghanistan, 16th Match
 
-📑 Status - Netherlands won by 38 runs
+📑 Status - Match starts at Oct 18, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/17/2023, 11:16:46 PM
+📝 Last Updated on : 10/18/2023, 9:56:41 AM
 
 ***
 
