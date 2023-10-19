@@ -1,17 +1,17 @@
 ---
 title: "India vs Bangladesh, 17th Match"
 slug: "cricket-score-one"
-description: "BAN - 110/2 (20) - Bangladesh opt to bat."
+description: "BAN - 181/5 (38.1) - Bangladesh opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 110/2 (20)  
+🔴 Live Score - BAN - 181/5 (38.1)  
 
-📊 Run Rate - CRR: 5.50  
+📊 Run Rate - CRR: 4.74  
 
-✊ Current Batsman - Litton Das* - 48(60)  
+✊ Current Batsman - Mushfiqur Rahim* - 31(36)  
 
-✊ Current Bowler - Ravindra Jadeja - 5 Over 8 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 7.1 Over 37 Run - 1 Wicket  
 
 📑 Status - Bangladesh opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/19/2023, 3:39:34 PM
+📝 Last Updated on : 10/19/2023, 4:59:42 PM
 
 ***
 
