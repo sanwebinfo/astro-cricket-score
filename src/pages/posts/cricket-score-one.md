@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 17th Match"
 slug: "cricket-score-one"
-description: "IND - 26/0 (3) - India need 231 runs."
+description: "IND - 106/1 (14) - India need 151 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 26/0 (3)  
+🔴 Live Score - IND - 106/1 (14)  
 
-📊 Run Rate - CRR: 8.67  
+📊 Run Rate - CRR: 7.57  
 
-✊ Current Batsman - Shubman Gill* - 5(5)  
+✊ Current Batsman - Virat Kohli* - 15(8)  
 
-✊ Current Bowler - Mustafizur Rahman* - 1 Over 6 Run - 0 Wicket  
+✊ Current Bowler - Hasan Mahmud* - 4 Over 36 Run - 1 Wicket  
 
-📑 Status - India need 231 runs
+📑 Status - India need 151 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/19/2023, 6:41:37 PM
+📝 Last Updated on : 10/19/2023, 7:29:07 PM
 
 ***
 
