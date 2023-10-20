@@ -1,17 +1,17 @@
 ---
 title: "Australia vs Pakistan, 18th Match"
 slug: "cricket-score-one"
-description: "AUS - 27/0 (5.1) - Pakistan opt to bowl."
+description: "AUS - 152/0 (20.5) - Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 27/0 (5.1)  
+🔴 Live Score - AUS - 152/0 (20.5)  
 
-📊 Run Rate - CRR: 5.23  
+📊 Run Rate - CRR: 7.30  
 
-✊ Current Batsman - David Warner* - 11(15)  
+✊ Current Batsman - Mitchell Marsh* - 66(60)  
 
-✊ Current Bowler - Hasan Ali* - 2.1 Over 13 Run - 0 Wicket  
+✊ Current Bowler - Mohammad Nawaz* - 1.5 Over 7 Run - 0 Wicket  
 
 📑 Status - Pakistan opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/20/2023, 2:25:32 PM
+📝 Last Updated on : 10/20/2023, 3:32:13 PM
 
 ***
 
