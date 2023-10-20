@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 18th Match"
 slug: "cricket-score-one"
-description: "AUS - 367/9 (50) - Innings Break."
+description: "PAK - 49/0 (8.1) - Pakistan need 319 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 367/9 (50)  
+🔴 Live Score - PAK - 49/0 (8.1)  
 
-📊 Run Rate - CRR: 7.34  
+📊 Run Rate - CRR: 6.00  
 
-✊ Current Batsman - Adam Zampa* - 1(1)  
+✊ Current Batsman - Abdullah Shafique* - 16(26)  
 
-✊ Current Bowler - Shaheen Afridi* - 10 Over 54 Run - 5 Wicket  
+✊ Current Bowler - Pat Cummins* - 1.1 Over 7 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Pakistan need 319 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/20/2023, 6:09:41 PM
+📝 Last Updated on : 10/20/2023, 7:07:06 PM
 
 ***
 
