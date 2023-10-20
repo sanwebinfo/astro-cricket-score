@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 18th Match"
 slug: "cricket-score-one"
-description: "AUS - 330/4 (42.4) - Pakistan opt to bowl."
+description: "AUS - 367/9 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 330/4 (42.4)  
+🔴 Live Score - AUS - 367/9 (50)  
 
-📊 Run Rate - CRR: 7.73  
+📊 Run Rate - CRR: 7.34  
 
-✊ Current Batsman - Marcus Stoinis* - 14(12)  
+✊ Current Batsman - Adam Zampa* - 1(1)  
 
-✊ Current Bowler - Haris Rauf* - 4.4 Over 70 Run - 1 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 10 Over 54 Run - 5 Wicket  
 
-📑 Status - Pakistan opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/20/2023, 5:11:22 PM
+📝 Last Updated on : 10/20/2023, 6:09:41 PM
 
 ***
 
