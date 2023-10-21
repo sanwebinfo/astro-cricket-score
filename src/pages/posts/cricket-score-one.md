@@ -1,17 +1,17 @@
 ---
 title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "NED - 223/7 (45.1) - Netherlands opt to bat."
+description: "NED - 258/9 (49.1) - Netherlands opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 223/7 (45.1)  
+🔴 Live Score - NED - 258/9 (49.1)  
 
-📊 Run Rate - CRR: 4.94  
+📊 Run Rate - CRR: 5.25  
 
-✊ Current Batsman - Roelof van der Merwe* - 0(0)  
+✊ Current Batsman - Aryan Dutt* - 8(5)  
 
-✊ Current Bowler - Dilshan Madushanka* - 7.1 Over 34 Run - 3 Wicket  
+✊ Current Bowler - Dilshan Madushanka* - 9.1 Over 45 Run - 4 Wicket  
 
 📑 Status - Netherlands opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/21/2023, 1:56:27 PM
+📝 Last Updated on : 10/21/2023, 2:18:32 PM
 
 ***
 
