@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "NED - 262 (49.4) - Innings Break."
+description: "SL - 36/1 (6.4) - Sri Lanka need 227 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 262 (49.4)  
+🔴 Live Score - SL - 36/1 (6.4)  
 
-📊 Run Rate - CRR: 5.28  
+📊 Run Rate - CRR: 5.40  
 
-✊ Current Batsman - Aryan Dutt* - 9(6)  
+✊ Current Batsman - Pathum Nissanka* - 19(23)  
 
-✊ Current Bowler - Dilshan Madushanka* - 9.4 Over 49 Run - 4 Wicket  
+✊ Current Bowler - Paul van Meekeren* - 0.4 Over 11 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Sri Lanka need 227 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 2:30:45 PM
+📝 Last Updated on : 10/21/2023, 3:19:07 PM
 
 ***
 
