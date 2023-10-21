@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "SL - 132/3 (24) - Sri Lanka need 131 runs."
+description: "SL - 143/3 (26.1) - Sri Lanka need 120 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 132/3 (24)  
+🔴 Live Score - SL - 143/3 (26.1)  
 
-📊 Run Rate - CRR: 5.50  
+📊 Run Rate - CRR: 5.46  
 
-✊ Current Batsman - Charith Asalanka* - 17(28)  
+✊ Current Batsman - Charith Asalanka* - 21(35)  
 
-✊ Current Bowler - Logan van Beek* - 5 Over 31 Run - 0 Wicket  
+✊ Current Bowler - Aryan Dutt* - 6.1 Over 26 Run - 2 Wicket  
 
-📑 Status - Sri Lanka need 131 runs
+📑 Status - Sri Lanka need 120 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 4:39:10 PM
+📝 Last Updated on : 10/21/2023, 4:50:33 PM
 
 ***
 
