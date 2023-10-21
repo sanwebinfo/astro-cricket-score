@@ -1,25 +1,19 @@
 ---
 title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "SL - 190/4 (34) - Sri Lanka need 73 runs."
+description: "Netherlands vs Sri Lanka, 19th Match - Sri Lanka won by 5 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - SL - 190/4 (34)  
+✅ Netherlands vs Sri Lanka, 19th Match
 
-📊 Run Rate - CRR: 5.59  
-
-✊ Current Batsman - Sadeera Samarawickrama* - 53(56)  
-
-✊ Current Bowler - Aryan Dutt* - 10 Over 44 Run - 3 Wicket  
-
-📑 Status - Sri Lanka need 73 runs
+📑 Status - Sri Lanka won by 5 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 5:26:24 PM
+📝 Last Updated on : 10/21/2023, 6:44:08 PM
 
 ***
 
