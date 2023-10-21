@@ -1,17 +1,17 @@
 ---
 title: "England vs South Africa, 20th Match"
 slug: "cricket-score-two"
-description: "RSA - 157/2 (23.1) - England opt to bowl."
+description: "RSA - 254/5 (39.1) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 157/2 (23.1)  
+🔴 Live Score - RSA - 254/5 (39.1)  
 
-📊 Run Rate - CRR: 6.78  
+📊 Run Rate - CRR: 6.49  
 
-✊ Current Batsman - Aiden Markram* - 9(7)  
+✊ Current Batsman - Marco Jansen* - 6(11)  
 
-✊ Current Bowler - Adil Rashid* - 3.1 Over 20 Run - 1 Wicket  
+✊ Current Bowler - Gus Atkinson* - 6.1 Over 33 Run - 0 Wicket  
 
 📑 Status - England opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/21/2023, 3:47:04 PM
+📝 Last Updated on : 10/21/2023, 5:05:01 PM
 
 ***
 
