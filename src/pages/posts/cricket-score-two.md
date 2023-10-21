@@ -1,25 +1,25 @@
 ---
 title: "England vs South Africa, 20th Match"
 slug: "cricket-score-two"
-description: "RSA - 399/7 (50) - Innings Break."
+description: "ENG - 74/6 (13) - England need 326 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 399/7 (50)  
+🔴 Live Score - ENG - 74/6 (13)  
 
-📊 Run Rate - CRR: 7.98  
+📊 Run Rate - CRR: 5.69  
 
-✊ Current Batsman - Marco Jansen* - 75(42)  
+✊ Current Batsman - Adil Rashid* - 0(2)  
 
-✊ Current Bowler - Gus Atkinson* - 9 Over 60 Run - 2 Wicket  
+✊ Current Bowler - Gerald Coetzee* - 2 Over 18 Run - 2 Wicket  
 
-📑 Status - Innings Break
+📑 Status - England need 326 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 6:16:17 PM
+📝 Last Updated on : 10/21/2023, 7:47:25 PM
 
 ***
 
