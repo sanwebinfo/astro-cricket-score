@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Pakistan, 18th Match"
+title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "Australia vs Pakistan, 18th Match - Australia won by 62 runs."
+description: "Netherlands vs Sri Lanka, 19th Match - Match starts at Oct 21, 05:00 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Pakistan, 18th Match
+✅ Netherlands vs Sri Lanka, 19th Match
 
-📑 Status - Australia won by 62 runs
+📑 Status - Match starts at Oct 21, 05:00 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 9:41:30 AM
+📝 Last Updated on : 10/21/2023, 9:44:55 AM
 
 ***
 
