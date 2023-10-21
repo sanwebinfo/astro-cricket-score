@@ -1,17 +1,17 @@
 ---
 title: "Netherlands vs Sri Lanka, 19th Match"
 slug: "cricket-score-one"
-description: "NED - 7/1 (3.4) - Netherlands opt to bat."
+description: "NED - 54/3 (12) - Netherlands opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 7/1 (3.4)  
+🔴 Live Score - NED - 54/3 (12)  
 
-📊 Run Rate - CRR: 1.91  
+📊 Run Rate - CRR: 4.50  
 
-✊ Current Batsman - Colin Ackermann* - 0(0)  
+✊ Current Batsman - Bas de Leede* - 0(1)  
 
-✊ Current Bowler - Kasun Rajitha* - 1.4 Over 3 Run - 1 Wicket  
+✊ Current Bowler - Kasun Rajitha - 2 Over 24 Run - 0 Wicket  
 
 📑 Status - Netherlands opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/21/2023, 10:50:15 AM
+📝 Last Updated on : 10/21/2023, 11:32:50 AM
 
 ***
 
