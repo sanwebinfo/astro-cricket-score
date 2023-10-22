@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 21st Match"
 slug: "cricket-score-one"
-description: "IND - 84/2 (14) - India need 190 runs."
+description: "IND - 148/3 (27.2) - India need 126 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 84/2 (14)  
+🔴 Live Score - IND - 148/3 (27.2)  
 
-📊 Run Rate - CRR: 6.00  
+📊 Run Rate - CRR: 5.41  
 
-✊ Current Batsman - Virat Kohli* - 4(9)  
+✊ Current Batsman - Virat Kohli* - 26(44)  
 
-✊ Current Bowler - Mitchell Santner* - 3 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Matt Henry* - 5.2 Over 34 Run - 0 Wicket  
 
-📑 Status - India need 190 runs
+📑 Status - India need 126 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/22/2023, 7:29:14 PM
+📝 Last Updated on : 10/22/2023, 8:34:24 PM
 
 ***
 
