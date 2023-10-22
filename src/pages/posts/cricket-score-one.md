@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 21st Match"
 slug: "cricket-score-one"
-description: "IND - 224/5 (39.4) - India need 50 runs in 62 balls."
+description: "NZ - 187/3 (34.5) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 224/5 (39.4)  
+🔴 Live Score - NZ - 187/3 (34.5)  
 
-📊 Run Rate - CRR: 5.65  
+📊 Run Rate - CRR: 5.37  
 
-✊ Current Batsman - Ravindra Jadeja* - 16(23)  
+✊ Current Batsman - Tom Latham* - 5(3)  
 
-✊ Current Bowler - Matt Henry* - 7.4 Over 47 Run - 0 Wicket  
+✊ Current Bowler - Kuldeep Yadav* - 6.5 Over 61 Run - 0 Wicket  
 
-📑 Status - India need 50 runs in 62 balls
+📑 Status - India opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/22/2023, 9:34:50 PM
+📝 Last Updated on : 10/22/2023, 10:15:44 PM
 
 ***
 
