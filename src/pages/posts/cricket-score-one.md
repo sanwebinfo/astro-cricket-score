@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 21st Match"
 slug: "cricket-score-one"
-description: "NZ - 260/8 (48) - India opt to bowl."
+description: "IND - 26/0 (4) - India need 248 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 260/8 (48)  
+🔴 Live Score - IND - 26/0 (4)  
 
-📊 Run Rate - CRR: 5.42  
+📊 Run Rate - CRR: 6.50  
 
-✊ Current Batsman - Daryl Mitchell* - 118(120)  
+✊ Current Batsman - Rohit Sharma* - 19(14)  
 
-✊ Current Bowler - Jasprit Bumrah* - 9 Over 42 Run - 1 Wicket  
+✊ Current Bowler - Trent Boult* - 2 Over 11 Run - 0 Wicket  
 
-📑 Status - India opt to bowl
+📑 Status - India need 248 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/22/2023, 5:50:47 PM
+📝 Last Updated on : 10/22/2023, 6:50:19 PM
 
 ***
 
