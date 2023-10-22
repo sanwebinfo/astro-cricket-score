@@ -1,17 +1,17 @@
 ---
 title: "India vs New Zealand, 21st Match"
 slug: "cricket-score-one"
-description: "NZ - 187/3 (34.5) - India opt to bowl."
+description: "NZ - 232/4 (43) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 187/3 (34.5)  
+🔴 Live Score - NZ - 232/4 (43)  
 
-📊 Run Rate - CRR: 5.37  
+📊 Run Rate - CRR: 5.40  
 
-✊ Current Batsman - Tom Latham* - 5(3)  
+✊ Current Batsman - Glenn Phillips* - 14(20)  
 
-✊ Current Bowler - Kuldeep Yadav* - 6.5 Over 61 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Shami* - 8 Over 42 Run - 2 Wicket  
 
 📑 Status - India opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/22/2023, 4:44:03 PM
+📝 Last Updated on : 10/22/2023, 5:24:30 PM
 
 ***
 
