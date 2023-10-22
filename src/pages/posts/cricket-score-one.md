@@ -1,19 +1,19 @@
 ---
-title: "Netherlands vs Sri Lanka, 19th Match"
+title: "India vs New Zealand, 21st Match"
 slug: "cricket-score-one"
-description: "Netherlands vs Sri Lanka, 19th Match - Sri Lanka won by 5 wkts."
+description: "India vs New Zealand, 21st Match - Match starts at Oct 22, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Netherlands vs Sri Lanka, 19th Match
+✅ India vs New Zealand, 21st Match
 
-📑 Status - Sri Lanka won by 5 wkts
+📑 Status - Match starts at Oct 22, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 6:44:08 PM
+📝 Last Updated on : 10/22/2023, 11:28:46 AM
 
 ***
 
