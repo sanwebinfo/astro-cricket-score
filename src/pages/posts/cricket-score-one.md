@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Afghanistan, 22nd Match"
 slug: "cricket-score-one"
-description: "AFG - 215/2 (39.1) - Afghanistan need 68 runs in 65 balls."
+description: "AFG - 258/2 (45.2) - Afghanistan need 25 runs in 28 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 215/2 (39.1)  
+🔴 Live Score - AFG - 258/2 (45.2)  
 
-📊 Run Rate - CRR: 5.49  
+📊 Run Rate - CRR: 5.69  
 
-✊ Current Batsman - Rahmat Shah* - 46(54)  
+✊ Current Batsman - Hashmatullah Shahidi* - 39(37)  
 
-✊ Current Bowler - Shaheen Afridi* - 6.1 Over 32 Run - 1 Wicket  
+✊ Current Bowler - Usama Mir* - 7.2 Over 49 Run - 0 Wicket  
 
-📑 Status - Afghanistan need 68 runs in 65 balls
+📑 Status - Afghanistan need 25 runs in 28 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/23/2023, 9:11:46 PM
+📝 Last Updated on : 10/23/2023, 9:42:37 PM
 
 ***
 
