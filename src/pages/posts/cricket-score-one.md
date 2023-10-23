@@ -1,25 +1,19 @@
 ---
-title: "India vs New Zealand, 21st Match"
+title: "Pakistan vs Afghanistan, 22nd Match"
 slug: "cricket-score-one"
-description: "NZ - 187/3 (34.5) - India opt to bowl."
+description: "Pakistan vs Afghanistan, 22nd Match - Match starts at Oct 23, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NZ - 187/3 (34.5)  
+✅ Pakistan vs Afghanistan, 22nd Match
 
-📊 Run Rate - CRR: 5.37  
-
-✊ Current Batsman - Tom Latham* - 5(3)  
-
-✊ Current Bowler - Kuldeep Yadav* - 6.5 Over 61 Run - 0 Wicket  
-
-📑 Status - India opt to bowl
+📑 Status - Match starts at Oct 23, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/22/2023, 10:15:44 PM
+📝 Last Updated on : 10/23/2023, 10:25:48 AM
 
 ***
 
