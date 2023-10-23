@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Afghanistan, 22nd Match"
 slug: "cricket-score-one"
-description: "PAK - 190/4 (39.4) - Pakistan opt to bat."
+description: "AFG - 147/1 (23.5) - Afghanistan need 136 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 190/4 (39.4)  
+🔴 Live Score - AFG - 147/1 (23.5)  
 
-📊 Run Rate - CRR: 4.79  
+📊 Run Rate - CRR: 6.17  
 
-✊ Current Batsman - Babar Azam* - 60(81)  
+✊ Current Batsman - Ibrahim Zadran* - 71(83)  
 
-✊ Current Bowler - Noor Ahmad* - 8.4 Over 38 Run - 2 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 5.5 Over 31 Run - 1 Wicket  
 
-📑 Status - Pakistan opt to bat
+📑 Status - Afghanistan need 136 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/23/2023, 4:46:53 PM
+📝 Last Updated on : 10/23/2023, 7:59:24 PM
 
 ***
 
