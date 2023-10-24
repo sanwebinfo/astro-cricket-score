@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs Bangladesh, 23rd Match"
 slug: "cricket-score-one"
-description: "RSA - 56/2 (13) - South Africa opt to bat."
+description: "RSA - 374/5 (49.2) - South Africa opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 56/2 (13)  
+🔴 Live Score - RSA - 374/5 (49.2)  
 
-📊 Run Rate - CRR: 4.31  
+📊 Run Rate - CRR: 7.58  
 
-✊ Current Batsman - Aiden Markram* - 13(17)  
+✊ Current Batsman - Marco Jansen* - 0(0)  
 
-✊ Current Bowler - Mehidy Hasan Miraz* - 6 Over 21 Run - 1 Wicket  
+✊ Current Bowler - Hasan Mahmud* - 5.2 Over 59 Run - 2 Wicket  
 
 📑 Status - South Africa opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/24/2023, 2:53:17 PM
+📝 Last Updated on : 10/24/2023, 5:45:34 PM
 
 ***
 
