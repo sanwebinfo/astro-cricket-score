@@ -1,19 +1,25 @@
 ---
-title: "Pakistan vs Afghanistan, 22nd Match"
+title: "South Africa vs Bangladesh, 23rd Match"
 slug: "cricket-score-one"
-description: "Pakistan vs Afghanistan, 22nd Match - Afghanistan won by 8 wkts."
+description: "RSA - 56/2 (13) - South Africa opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs Afghanistan, 22nd Match
+🔴 Live Score - RSA - 56/2 (13)  
 
-📑 Status - Afghanistan won by 8 wkts
+📊 Run Rate - CRR: 4.31  
+
+✊ Current Batsman - Aiden Markram* - 13(17)  
+
+✊ Current Bowler - Mehidy Hasan Miraz* - 6 Over 21 Run - 1 Wicket  
+
+📑 Status - South Africa opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/23/2023, 10:03:27 PM
+📝 Last Updated on : 10/24/2023, 2:53:17 PM
 
 ***
 
