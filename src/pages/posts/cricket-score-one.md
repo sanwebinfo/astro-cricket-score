@@ -1,17 +1,17 @@
 ---
 title: "Australia vs Netherlands, 24th Match"
 slug: "cricket-score-one"
-description: "AUS - 282/5 (41) - Australia opt to bat."
+description: "AUS - 389/6 (48.5) - Australia opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 282/5 (41)  
+🔴 Live Score - AUS - 389/6 (48.5)  
 
-📊 Run Rate - CRR: 6.88  
+📊 Run Rate - CRR: 7.97  
 
-✊ Current Batsman - Glenn Maxwell* - 9(4)  
+✊ Current Batsman - Pat Cummins* - 8(7)  
 
-✊ Current Bowler - Logan van Beek* - 8 Over 43 Run - 2 Wicket  
+✊ Current Bowler - Bas de Leede* - 9.5 Over 115 Run - 2 Wicket  
 
 📑 Status - Australia opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/25/2023, 5:19:53 PM
+📝 Last Updated on : 10/25/2023, 5:57:02 PM
 
 ***
 
