@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs Bangladesh, 23rd Match"
+title: "Australia vs Netherlands, 24th Match"
 slug: "cricket-score-one"
-description: "South Africa vs Bangladesh, 23rd Match - South Africa won by 149 runs."
+description: "Australia vs Netherlands, 24th Match - Match starts at Oct 25, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs Bangladesh, 23rd Match
+✅ Australia vs Netherlands, 24th Match
 
-📑 Status - South Africa won by 149 runs
+📑 Status - Match starts at Oct 25, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/24/2023, 10:19:12 PM
+📝 Last Updated on : 10/25/2023, 10:50:26 AM
 
 ***
 
