@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Netherlands, 24th Match"
+title: "England vs Sri Lanka, 25th Match"
 slug: "cricket-score-one"
-description: "Australia vs Netherlands, 24th Match - Australia won by 309 runs."
+description: "England vs Sri Lanka, 25th Match - Match starts at Oct 26, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Netherlands, 24th Match
+✅ England vs Sri Lanka, 25th Match
 
-📑 Status - Australia won by 309 runs
+📑 Status - Match starts at Oct 26, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/25/2023, 9:17:30 PM
+📝 Last Updated on : 10/26/2023, 9:53:06 AM
 
 ***
 
