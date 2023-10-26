@@ -1,25 +1,19 @@
 ---
 title: "England vs Sri Lanka, 25th Match"
 slug: "cricket-score-one"
-description: "SL - 87/2 (15) - Sri Lanka need 70 runs."
+description: "England vs Sri Lanka, 25th Match - Sri Lanka won by 8 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - SL - 87/2 (15)  
+✅ England vs Sri Lanka, 25th Match
 
-📊 Run Rate - CRR: 5.80  
-
-✊ Current Batsman - Pathum Nissanka* - 36(45)  
-
-✊ Current Bowler - Mark Wood* - 2 Over 8 Run - 0 Wicket  
-
-📑 Status - Sri Lanka need 70 runs
+📑 Status - Sri Lanka won by 8 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/26/2023, 6:32:36 PM
+📝 Last Updated on : 10/26/2023, 7:28:36 PM
 
 ***
 
