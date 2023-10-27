@@ -1,19 +1,25 @@
 ---
 title: "Pakistan vs South Africa, 26th Match"
 slug: "cricket-score-one"
-description: "Pakistan vs South Africa, 26th Match - Match starts at Oct 27, 08:30 GMT."
+description: "PAK - 28/1 (5) - Pakistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs South Africa, 26th Match
+🔴 Live Score - PAK - 28/1 (5)  
 
-📑 Status - Match starts at Oct 27, 08:30 GMT
+📊 Run Rate - CRR: 5.60  
+
+✊ Current Batsman - Imam-ul-Haq* - 7(10)  
+
+✊ Current Bowler - Lungi Ngidi* - 2 Over 15 Run - 0 Wicket  
+
+📑 Status - Pakistan opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/27/2023, 9:57:21 AM
+📝 Last Updated on : 10/27/2023, 2:27:30 PM
 
 ***
 
