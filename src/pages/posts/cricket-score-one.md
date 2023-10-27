@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs South Africa, 26th Match"
 slug: "cricket-score-one"
-description: "RSA - 65/1 (8.5) - South Africa need 206 runs."
+description: "RSA - 249/6 (40) - South Africa need 22 runs in 60 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 65/1 (8.5)  
+🔴 Live Score - RSA - 249/6 (40)  
 
-📊 Run Rate - CRR: 7.36  
+📊 Run Rate - CRR: 6.23  
 
-✊ Current Batsman - Rassie van der Dussen* - 7(13)  
+✊ Current Batsman - Gerald Coetzee* - 9(11)  
 
-✊ Current Bowler - Haris Rauf* - 0.5 Over 8 Run - 0 Wicket  
+✊ Current Bowler - Haris Rauf* - 9 Over 59 Run - 1 Wicket  
 
-📑 Status - South Africa need 206 runs
+📑 Status - South Africa need 22 runs in 60 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/27/2023, 7:01:13 PM
+📝 Last Updated on : 10/27/2023, 9:49:37 PM
 
 ***
 
