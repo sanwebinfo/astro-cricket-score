@@ -1,25 +1,19 @@
 ---
 title: "Pakistan vs South Africa, 26th Match"
 slug: "cricket-score-one"
-description: "RSA - 249/6 (40) - South Africa need 22 runs in 60 balls."
+description: "Pakistan vs South Africa, 26th Match - South Africa won by 1 wkt."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RSA - 249/6 (40)  
+✅ Pakistan vs South Africa, 26th Match
 
-📊 Run Rate - CRR: 6.23  
-
-✊ Current Batsman - Gerald Coetzee* - 9(11)  
-
-✊ Current Bowler - Haris Rauf* - 9 Over 59 Run - 1 Wicket  
-
-📑 Status - South Africa need 22 runs in 60 balls
+📑 Status - South Africa won by 1 wkt
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/27/2023, 9:49:37 PM
+📝 Last Updated on : 10/27/2023, 10:42:44 PM
 
 ***
 
