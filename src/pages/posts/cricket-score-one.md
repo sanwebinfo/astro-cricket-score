@@ -1,17 +1,17 @@
 ---
 title: "Pakistan vs South Africa, 26th Match"
 slug: "cricket-score-one"
-description: "PAK - 28/1 (5) - Pakistan opt to bat."
+description: "PAK - 259/8 (44.2) - Pakistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 28/1 (5)  
+🔴 Live Score - PAK - 259/8 (44.2)  
 
-📊 Run Rate - CRR: 5.60  
+📊 Run Rate - CRR: 5.84  
 
-✊ Current Batsman - Imam-ul-Haq* - 7(10)  
+✊ Current Batsman - Mohammad Nawaz* - 23(20)  
 
-✊ Current Bowler - Lungi Ngidi* - 2 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Marco Jansen - 9.2 Over 40 Run - 4 Wicket  
 
 📑 Status - Pakistan opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/27/2023, 2:27:30 PM
+📝 Last Updated on : 10/27/2023, 5:32:16 PM
 
 ***
 
