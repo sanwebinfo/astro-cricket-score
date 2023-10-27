@@ -1,19 +1,19 @@
 ---
-title: "England vs Sri Lanka, 25th Match"
+title: "Pakistan vs South Africa, 26th Match"
 slug: "cricket-score-one"
-description: "England vs Sri Lanka, 25th Match - Sri Lanka won by 8 wkts."
+description: "Pakistan vs South Africa, 26th Match - Match starts at Oct 27, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ England vs Sri Lanka, 25th Match
+✅ Pakistan vs South Africa, 26th Match
 
-📑 Status - Sri Lanka won by 8 wkts
+📑 Status - Match starts at Oct 27, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/26/2023, 7:28:36 PM
+📝 Last Updated on : 10/27/2023, 9:57:21 AM
 
 ***
 
