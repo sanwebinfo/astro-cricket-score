@@ -1,25 +1,25 @@
 ---
 title: "Australia vs New Zealand, 27th Match"
 slug: "cricket-score-one"
-description: "NZ - 265/5 (37) - New Zealand need 124 runs in 78 balls."
+description: "NZ - 342/7 (46.2) - New Zealand need 47 runs in 22 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 265/5 (37)  
+🔴 Live Score - NZ - 342/7 (46.2)  
 
-📊 Run Rate - CRR: 7.16  
+📊 Run Rate - CRR: 7.38  
 
-✊ Current Batsman - Rachin Ravindra* - 102(79)  
+✊ Current Batsman - Matt Henry* - 5(6)  
 
-✊ Current Bowler - Glenn Maxwell - 8 Over 52 Run - 2 Wicket  
+✊ Current Bowler - Pat Cummins* - 9.2 Over 62 Run - 1 Wicket  
 
-📑 Status - New Zealand need 124 runs in 78 balls
+📑 Status - New Zealand need 47 runs in 22 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/28/2023, 5:22:49 PM
+📝 Last Updated on : 10/28/2023, 6:04:02 PM
 
 ***
 
