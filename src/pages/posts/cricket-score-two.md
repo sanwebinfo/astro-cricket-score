@@ -1,17 +1,17 @@
 ---
 title: "Netherlands vs Bangladesh, 28th Match"
 slug: "cricket-score-two"
-description: "NED - 53/2 (11.4) - Netherlands opt to bat."
+description: "NED - 148/5 (38) - Netherlands opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 53/2 (11.4)  
+🔴 Live Score - NED - 148/5 (38)  
 
-📊 Run Rate - CRR: 4.54  
+📊 Run Rate - CRR: 3.89  
 
-✊ Current Batsman - Colin Ackermann* - 11(25)  
+✊ Current Batsman - Scott Edwards* - 44(71)  
 
-✊ Current Bowler - Mustafizur Rahman* - 0.4 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Shoriful Islam* - 7 Over 31 Run - 1 Wicket  
 
 📑 Status - Netherlands opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/28/2023, 2:51:12 PM
+📝 Last Updated on : 10/28/2023, 4:42:54 PM
 
 ***
 
