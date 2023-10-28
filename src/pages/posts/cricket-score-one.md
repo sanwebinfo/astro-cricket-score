@@ -1,25 +1,25 @@
 ---
 title: "Australia vs New Zealand, 27th Match"
 slug: "cricket-score-one"
-description: "AUS - 323/5 (43.4) - New Zealand opt to bowl."
+description: "NZ - 54/0 (5.5) - New Zealand need 335 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 323/5 (43.4)  
+🔴 Live Score - NZ - 54/0 (5.5)  
 
-📊 Run Rate - CRR: 7.40  
+📊 Run Rate - CRR: 9.26  
 
-✊ Current Batsman - Josh Inglis* - 14(16)  
+✊ Current Batsman - Will Young* - 18(21)  
 
-✊ Current Bowler - Matt Henry* - 4.4 Over 51 Run - 0 Wicket  
+✊ Current Bowler - Josh Hazlewood* - 2.5 Over 23 Run - 0 Wicket  
 
-📑 Status - New Zealand opt to bowl
+📑 Status - New Zealand need 335 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/28/2023, 1:34:17 PM
+📝 Last Updated on : 10/28/2023, 3:07:05 PM
 
 ***
 
