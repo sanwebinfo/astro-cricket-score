@@ -1,19 +1,25 @@
 ---
-title: "England vs South Africa, 20th Match"
+title: "Netherlands vs Bangladesh, 28th Match"
 slug: "cricket-score-two"
-description: "England vs South Africa, 20th Match - South Africa won by 229 runs."
+description: "NED - 53/2 (11.4) - Netherlands opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ England vs South Africa, 20th Match
+🔴 Live Score - NED - 53/2 (11.4)  
 
-📑 Status - South Africa won by 229 runs
+📊 Run Rate - CRR: 4.54  
+
+✊ Current Batsman - Colin Ackermann* - 11(25)  
+
+✊ Current Bowler - Mustafizur Rahman* - 0.4 Over 2 Run - 0 Wicket  
+
+📑 Status - Netherlands opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/21/2023, 8:42:58 PM
+📝 Last Updated on : 10/28/2023, 2:51:12 PM
 
 ***
 
