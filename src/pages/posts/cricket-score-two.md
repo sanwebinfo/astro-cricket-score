@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs Bangladesh, 28th Match"
 slug: "cricket-score-two"
-description: "NED - 229 (50) - Innings Break."
+description: "BAN - 53/3 (13.4) - Bangladesh need 177 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 229 (50)  
+🔴 Live Score - BAN - 53/3 (13.4)  
 
-📊 Run Rate - CRR: 4.58  
+📊 Run Rate - CRR: 3.88  
 
-✊ Current Batsman - Logan van Beek* - 23(16)  
+✊ Current Batsman - Shakib Al Hasan* - 2(7)  
 
-✊ Current Bowler - Shoriful Islam - 7 Over 51 Run - 2 Wicket  
+✊ Current Bowler - Paul van Meekeren* - 1.4 Over 7 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Bangladesh need 177 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/28/2023, 6:05:58 PM
+📝 Last Updated on : 10/28/2023, 7:15:47 PM
 
 ***
 
