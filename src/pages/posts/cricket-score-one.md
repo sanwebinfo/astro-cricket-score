@@ -1,19 +1,25 @@
 ---
-title: "Pakistan vs South Africa, 26th Match"
+title: "Australia vs New Zealand, 27th Match"
 slug: "cricket-score-one"
-description: "Pakistan vs South Africa, 26th Match - South Africa won by 1 wkt."
+description: "AUS - 108/0 (9.1) - New Zealand opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs South Africa, 26th Match
+🔴 Live Score - AUS - 108/0 (9.1)  
 
-📑 Status - South Africa won by 1 wkt
+📊 Run Rate - CRR: 11.78  
+
+✊ Current Batsman - David Warner* - 55(32)  
+
+✊ Current Bowler - Lockie Ferguson* - 1.1 Over 19 Run - 0 Wicket  
+
+📑 Status - New Zealand opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/27/2023, 10:42:44 PM
+📝 Last Updated on : 10/28/2023, 11:17:47 AM
 
 ***
 
