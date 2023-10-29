@@ -1,19 +1,25 @@
 ---
-title: "Australia vs New Zealand, 27th Match"
+title: "India vs England, 29th Match"
 slug: "cricket-score-one"
-description: "Australia vs New Zealand, 27th Match - Australia won by 5 runs."
+description: "IND - 0/0 (0.5) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Australia vs New Zealand, 27th Match
+🔴 Live Score - IND - 0/0 (0.5)  
 
-📑 Status - Australia won by 5 runs
+📊 Run Rate - CRR: 0.00  
+
+✊ Current Batsman - Rohit Sharma* - 0(5)  
+
+✊ Current Bowler - David Willey* - 0.5 Over 0 Run - 0 Wicket  
+
+📑 Status - England opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/28/2023, 6:54:14 PM
+📝 Last Updated on : 10/29/2023, 2:05:36 PM
 
 ***
 
