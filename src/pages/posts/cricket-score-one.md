@@ -1,17 +1,17 @@
 ---
 title: "India vs England, 29th Match"
 slug: "cricket-score-one"
-description: "IND - 27/1 (4.2) - England opt to bowl."
+description: "IND - 78/3 (21.1) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 27/1 (4.2)  
+🔴 Live Score - IND - 78/3 (21.1)  
 
-📊 Run Rate - CRR: 6.23  
+📊 Run Rate - CRR: 3.69  
 
-✊ Current Batsman - Virat Kohli* - 0(0)  
+✊ Current Batsman - KL Rahul* - 17(28)  
 
-✊ Current Bowler - David Willey* - 2.2 Over 19 Run - 0 Wicket  
+✊ Current Bowler - Mark Wood* - 3.1 Over 13 Run - 0 Wicket  
 
 📑 Status - England opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/29/2023, 2:23:00 PM
+📝 Last Updated on : 10/29/2023, 3:44:22 PM
 
 ***
 
