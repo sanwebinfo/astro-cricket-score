@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 29th Match"
 slug: "cricket-score-one"
-description: "ENG - 54/5 (16) - England need 176 runs."
+description: "ENG - 89/6 (25.2) - England need 141 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 54/5 (16)  
+🔴 Live Score - ENG - 89/6 (25.2)  
 
-📊 Run Rate - CRR: 3.38  
+📊 Run Rate - CRR: 3.51  
 
-✊ Current Batsman - Moeen Ali* - 7(18)  
+✊ Current Batsman - Chris Woakes* - 5(8)  
 
-✊ Current Bowler - Mohammed Siraj* - 5 Over 26 Run - 0 Wicket  
+✊ Current Bowler - Mohammed Shami* - 5.2 Over 10 Run - 3 Wicket  
 
-📑 Status - England need 176 runs
+📑 Status - England need 141 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/29/2023, 7:59:21 PM
+📝 Last Updated on : 10/29/2023, 8:36:27 PM
 
 ***
 
