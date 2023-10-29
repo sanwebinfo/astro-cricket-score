@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 29th Match"
 slug: "cricket-score-one"
-description: "IND - 229/9 (50) - Innings Break."
+description: "ENG - 54/5 (16) - England need 176 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 229/9 (50)  
+🔴 Live Score - ENG - 54/5 (16)  
 
-📊 Run Rate - CRR: 4.58  
+📊 Run Rate - CRR: 3.38  
 
-✊ Current Batsman - Kuldeep Yadav* - 9(13)  
+✊ Current Batsman - Moeen Ali* - 7(18)  
 
-✊ Current Bowler - Chris Woakes - 9 Over 33 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 5 Over 26 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - England need 176 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/29/2023, 6:27:58 PM
+📝 Last Updated on : 10/29/2023, 7:59:21 PM
 
 ***
 
