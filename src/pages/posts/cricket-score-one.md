@@ -1,19 +1,25 @@
 ---
-title: "India vs England, 29th Match"
+title: "Afghanistan vs Sri Lanka, 30th Match"
 slug: "cricket-score-one"
-description: "India vs England, 29th Match - India won by 100 runs."
+description: "SL - 58/1 (13.4) - Afghanistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs England, 29th Match
+🔴 Live Score - SL - 58/1 (13.4)  
 
-📑 Status - India won by 100 runs
+📊 Run Rate - CRR: 4.24  
+
+✊ Current Batsman - Pathum Nissanka* - 36(45)  
+
+✊ Current Bowler - Azmatullah Omarzai* - 1.4 Over 2 Run - 0 Wicket  
+
+📑 Status - Afghanistan opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/29/2023, 9:26:11 PM
+📝 Last Updated on : 10/30/2023, 3:03:40 PM
 
 ***
 
