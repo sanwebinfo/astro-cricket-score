@@ -1,25 +1,25 @@
 ---
 title: "Afghanistan vs Sri Lanka, 30th Match"
 slug: "cricket-score-one"
-description: "AFG - 0/0 (0.3) - Afghanistan need 242 runs."
+description: "AFG - 9/1 (3) - Afghanistan need 233 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 0/0 (0.3)  
+🔴 Live Score - AFG - 9/1 (3)  
 
-📊 Run Rate - CRR: 0.00  
+📊 Run Rate - CRR: 3.00  
 
-✊ Current Batsman - Rahmanullah Gurbaz* - 0(3)  
+✊ Current Batsman - Rahmat Shah* - 1(1)  
 
-✊ Current Bowler - Dilshan Madushanka* - 0.3 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Kasun Rajitha* - 1 Over 3 Run - 0 Wicket  
 
-📑 Status - Afghanistan need 242 runs
+📑 Status - Afghanistan need 233 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/30/2023, 6:24:38 PM
+📝 Last Updated on : 10/30/2023, 6:35:47 PM
 
 ***
 
