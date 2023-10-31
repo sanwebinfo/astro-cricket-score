@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Bangladesh, 31st Match"
 slug: "cricket-score-one"
-description: "BAN - 140/6 (31.3) - Bangladesh opt to bat."
+description: "BAN - 204 (45.1) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 140/6 (31.3)  
+🔴 Live Score - BAN - 204 (45.1)  
 
-📊 Run Rate - CRR: 4.44  
+📊 Run Rate - CRR: 4.52  
 
-✊ Current Batsman - Shakib Al Hasan* - 15(36)  
+✊ Current Batsman - Shoriful Islam* - 1(4)  
 
-✊ Current Bowler - Shaheen Afridi - 5.3 Over 15 Run - 1 Wicket  
+✊ Current Bowler - Shaheen Afridi - 8.1 Over 23 Run - 3 Wicket  
 
-📑 Status - Bangladesh opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/31/2023, 4:33:24 PM
+📝 Last Updated on : 10/31/2023, 5:37:28 PM
 
 ***
 
