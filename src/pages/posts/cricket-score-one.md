@@ -1,25 +1,25 @@
 ---
 title: "Pakistan vs Bangladesh, 31st Match"
 slug: "cricket-score-one"
-description: "BAN - 204 (45.1) - Innings Break."
+description: "PAK - 16/0 (4) - Pakistan need 189 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 204 (45.1)  
+🔴 Live Score - PAK - 16/0 (4)  
 
-📊 Run Rate - CRR: 4.52  
+📊 Run Rate - CRR: 4.00  
 
-✊ Current Batsman - Shoriful Islam* - 1(4)  
+✊ Current Batsman - Fakhar Zaman* - 3(9)  
 
-✊ Current Bowler - Shaheen Afridi - 8.1 Over 23 Run - 3 Wicket  
+✊ Current Bowler - Taskin Ahmed* - 2 Over 6 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Pakistan need 189 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/31/2023, 6:02:16 PM
+📝 Last Updated on : 10/31/2023, 6:20:13 PM
 
 ***
 
