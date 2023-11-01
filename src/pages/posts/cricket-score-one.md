@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs South Africa, 32nd Match"
 slug: "cricket-score-one"
-description: "RSA - 357/4 (50) - Innings Break."
+description: "NZ - 13/1 (3.3) - New Zealand need 345 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 357/4 (50)  
+🔴 Live Score - NZ - 13/1 (3.3)  
 
-📊 Run Rate - CRR: 7.14  
+📊 Run Rate - CRR: 3.71  
 
-✊ Current Batsman - Heinrich Klaasen* - 15(7)  
+✊ Current Batsman - Rachin Ravindra* - 0(0)  
 
-✊ Current Bowler - James Neesham* - 5.3 Over 69 Run - 1 Wicket  
+✊ Current Bowler - Lungi Ngidi* - 1.3 Over 5 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - New Zealand need 345 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/1/2023, 6:06:06 PM
+📝 Last Updated on : 11/1/2023, 6:45:29 PM
 
 ***
 
