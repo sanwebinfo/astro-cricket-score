@@ -1,19 +1,25 @@
 ---
-title: "Pakistan vs Bangladesh, 31st Match"
+title: "New Zealand vs South Africa, 32nd Match"
 slug: "cricket-score-one"
-description: "Pakistan vs Bangladesh, 31st Match - Pakistan won by 7 wkts."
+description: "RSA - 58/1 (13.2) - New Zealand opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs Bangladesh, 31st Match
+🔴 Live Score - RSA - 58/1 (13.2)  
 
-📑 Status - Pakistan won by 7 wkts
+📊 Run Rate - CRR: 4.35  
+
+✊ Current Batsman - Rassie van der Dussen* - 10(15)  
+
+✊ Current Bowler - Tim Southee* - 2.2 Over 12 Run - 0 Wicket  
+
+📑 Status - New Zealand opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/31/2023, 8:46:15 PM
+📝 Last Updated on : 11/1/2023, 2:59:59 PM
 
 ***
 
