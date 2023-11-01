@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs South Africa, 32nd Match"
 slug: "cricket-score-one"
-description: "RSA - 231/1 (39.1) - New Zealand opt to bowl."
+description: "RSA - 357/4 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 231/1 (39.1)  
+🔴 Live Score - RSA - 357/4 (50)  
 
-📊 Run Rate - CRR: 5.90  
+📊 Run Rate - CRR: 7.14  
 
-✊ Current Batsman - Rassie van der Dussen* - 85(93)  
+✊ Current Batsman - Heinrich Klaasen* - 15(7)  
 
-✊ Current Bowler - Tim Southee* - 7.1 Over 49 Run - 0 Wicket  
+✊ Current Bowler - James Neesham* - 5.3 Over 69 Run - 1 Wicket  
 
-📑 Status - New Zealand opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/1/2023, 5:01:08 PM
+📝 Last Updated on : 11/1/2023, 6:06:06 PM
 
 ***
 
