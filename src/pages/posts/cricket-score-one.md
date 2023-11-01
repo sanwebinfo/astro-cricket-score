@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs South Africa, 32nd Match"
 slug: "cricket-score-one"
-description: "NZ - 13/1 (3.3) - New Zealand need 345 runs."
+description: "NZ - 46/2 (9.3) - New Zealand need 312 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 13/1 (3.3)  
+🔴 Live Score - NZ - 46/2 (9.3)  
 
-📊 Run Rate - CRR: 3.71  
+📊 Run Rate - CRR: 4.84  
 
-✊ Current Batsman - Rachin Ravindra* - 0(0)  
+✊ Current Batsman - Daryl Mitchell* - 0(1)  
 
-✊ Current Bowler - Lungi Ngidi* - 1.3 Over 5 Run - 0 Wicket  
+✊ Current Bowler - Kagiso Rabada* - 0.3 Over 1 Run - 0 Wicket  
 
-📑 Status - New Zealand need 345 runs
+📑 Status - New Zealand need 312 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/1/2023, 6:45:29 PM
+📝 Last Updated on : 11/1/2023, 7:11:47 PM
 
 ***
 
