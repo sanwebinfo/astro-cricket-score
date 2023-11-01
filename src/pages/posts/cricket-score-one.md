@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs South Africa, 32nd Match"
 slug: "cricket-score-one"
-description: "NZ - 90/4 (18) - New Zealand need 268 runs."
+description: "NZ - 141/9 (33) - New Zealand need 217 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 90/4 (18)  
+🔴 Live Score - NZ - 141/9 (33)  
 
-📊 Run Rate - CRR: 5.00  
+📊 Run Rate - CRR: 4.27  
 
-✊ Current Batsman - Daryl Mitchell* - 24(27)  
+✊ Current Batsman - Glenn Phillips* - 34(37)  
 
-✊ Current Bowler - Gerald Coetzee* - 4 Over 29 Run - 1 Wicket  
+✊ Current Bowler - Gerald Coetzee* - 5 Over 30 Run - 1 Wicket  
 
-📑 Status - New Zealand need 268 runs
+📑 Status - New Zealand need 217 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/1/2023, 7:56:29 PM
+📝 Last Updated on : 11/1/2023, 8:59:56 PM
 
 ***
 
