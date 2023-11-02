@@ -1,19 +1,19 @@
 ---
-title: "New Zealand vs South Africa, 32nd Match"
+title: "India vs Sri Lanka, 33rd Match"
 slug: "cricket-score-one"
-description: "New Zealand vs South Africa, 32nd Match - South Africa won by 190 runs."
+description: "India vs Sri Lanka, 33rd Match - Match starts at Nov 02, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ New Zealand vs South Africa, 32nd Match
+✅ India vs Sri Lanka, 33rd Match
 
-📑 Status - South Africa won by 190 runs
+📑 Status - Match starts at Nov 02, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/1/2023, 9:28:51 PM
+📝 Last Updated on : 11/2/2023, 11:36:45 AM
 
 ***
 
