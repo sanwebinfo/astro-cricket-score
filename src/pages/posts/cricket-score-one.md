@@ -1,25 +1,25 @@
 ---
 title: "India vs Sri Lanka, 33rd Match"
 slug: "cricket-score-one"
-description: "SL - 12/4 (7.4) - Sri Lanka need 346 runs."
+description: "SL - 35/8 (13.4) - Sri Lanka need 323 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 12/4 (7.4)  
+🔴 Live Score - SL - 35/8 (13.4)  
 
-📊 Run Rate - CRR: 1.57  
+📊 Run Rate - CRR: 2.56  
 
-✊ Current Batsman - Charith Asalanka* - 0(16)  
+✊ Current Batsman - Kasun Rajitha* - 4(2)  
 
-✊ Current Bowler - Mohammed Siraj* - 3.4 Over 5 Run - 3 Wicket  
+✊ Current Bowler - Mohammed Shami* - 2.4 Over 6 Run - 4 Wicket  
 
-📑 Status - Sri Lanka need 346 runs
+📑 Status - Sri Lanka need 323 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/2/2023, 7:31:24 PM
+📝 Last Updated on : 11/2/2023, 8:09:42 PM
 
 ***
 
