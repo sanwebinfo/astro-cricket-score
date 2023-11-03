@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs Afghanistan, 34th Match"
 slug: "cricket-score-one"
-description: "NED - 158/8 (37) - Netherlands opt to bat."
+description: "AFG - 27/0 (4.5) - Afghanistan need 153 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED - 158/8 (37)  
+🔴 Live Score - AFG - 27/0 (4.5)  
 
-📊 Run Rate - CRR: 4.27  
+📊 Run Rate - CRR: 5.59  
 
-✊ Current Batsman - Roelof van der Merwe* - 6(18)  
+✊ Current Batsman - Ibrahim Zadran* - 12(21)  
 
-✊ Current Bowler - Rashid Khan* - 8 Over 24 Run - 0 Wicket  
+✊ Current Bowler - Aryan Dutt* - 2.5 Over 17 Run - 0 Wicket  
 
-📑 Status - Netherlands opt to bat
+📑 Status - Afghanistan need 153 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/3/2023, 4:36:20 PM
+📝 Last Updated on : 11/3/2023, 6:00:20 PM
 
 ***
 
