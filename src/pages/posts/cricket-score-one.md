@@ -1,19 +1,19 @@
 ---
-title: "Data Not Found"
+title: "Netherlands vs Afghanistan, 34th Match"
 slug: "cricket-score-one"
-description: "Data Not Found - Data Not Found."
+description: "Netherlands vs Afghanistan, 34th Match - Match starts at Nov 03, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Data Not Found
+✅ Netherlands vs Afghanistan, 34th Match
 
-📑 Status - Data Not Found
+📑 Status - Match starts at Nov 03, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/3/2023, 9:12:41 AM
+📝 Last Updated on : 11/3/2023, 9:25:38 AM
 
 ***
 
