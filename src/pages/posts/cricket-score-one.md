@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs Afghanistan, 34th Match"
 slug: "cricket-score-one"
-description: "AFG - 27/0 (4.5) - Afghanistan need 153 runs."
+description: "AFG - 137/3 (24.1) - Afghanistan need 43 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 27/0 (4.5)  
+🔴 Live Score - AFG - 137/3 (24.1)  
 
-📊 Run Rate - CRR: 5.59  
+📊 Run Rate - CRR: 5.67  
 
-✊ Current Batsman - Ibrahim Zadran* - 12(21)  
+✊ Current Batsman - Hashmatullah Shahidi* - 38(42)  
 
-✊ Current Bowler - Aryan Dutt* - 2.5 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Saqib Zulfiqar* - 2.1 Over 20 Run - 1 Wicket  
 
-📑 Status - Afghanistan need 153 runs
+📑 Status - Afghanistan need 43 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/3/2023, 6:00:20 PM
+📝 Last Updated on : 11/3/2023, 7:32:43 PM
 
 ***
 
