@@ -1,17 +1,17 @@
 ---
 title: "New Zealand vs Pakistan, 35th Match"
 slug: "cricket-score-one"
-description: "NZ - 21/0 (4) - Pakistan opt to bowl."
+description: "NZ - 135/1 (21.2) - Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 21/0 (4)  
+🔴 Live Score - NZ - 135/1 (21.2)  
 
-📊 Run Rate - CRR: 5.25  
+📊 Run Rate - CRR: 6.33  
 
-✊ Current Batsman - Rachin Ravindra* - 9(10)  
+✊ Current Batsman - Rachin Ravindra* - 58(57)  
 
-✊ Current Bowler - Shaheen Afridi* - 2 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Mohammad Wasim Jr* - 2.2 Over 13 Run - 0 Wicket  
 
 📑 Status - Pakistan opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/4/2023, 10:48:00 AM
+📝 Last Updated on : 11/4/2023, 12:12:47 PM
 
 ***
 
