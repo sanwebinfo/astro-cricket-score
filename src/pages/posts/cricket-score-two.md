@@ -1,25 +1,25 @@
 ---
 title: "England vs Australia, 36th Match"
 slug: "cricket-score-two"
-description: "ENG - 30/2 (8.2) - England need 257 runs."
+description: "ENG - 106/4 (25.1) - England need 181 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 30/2 (8.2)  
+🔴 Live Score - ENG - 106/4 (25.1)  
 
-📊 Run Rate - CRR: 3.60  
+📊 Run Rate - CRR: 4.21  
 
-✊ Current Batsman - Ben Stokes* - 4(14)  
+✊ Current Batsman - Moeen Ali* - 0(0)  
 
-✊ Current Bowler - Pat Cummins* - 0.2 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Adam Zampa* - 4.1 Over 10 Run - 1 Wicket  
 
-📑 Status - England need 257 runs
+📑 Status - England need 181 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 7:14:56 PM
+📝 Last Updated on : 11/4/2023, 8:26:17 PM
 
 ***
 
