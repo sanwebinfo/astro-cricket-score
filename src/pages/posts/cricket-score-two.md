@@ -1,17 +1,17 @@
 ---
 title: "England vs Australia, 36th Match"
 slug: "cricket-score-two"
-description: "AUS - 39/2 (7.2) - England opt to bowl."
+description: "AUS - 52/2 (11.1) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 39/2 (7.2)  
+🔴 Live Score - AUS - 52/2 (11.1)  
 
-📊 Run Rate - CRR: 5.32  
+📊 Run Rate - CRR: 4.66  
 
-✊ Current Batsman - Steven Smith* - 9(10)  
+✊ Current Batsman - Marnus Labuschagne* - 6(20)  
 
-✊ Current Bowler - Chris Woakes* - 3.2 Over 20 Run - 2 Wicket  
+✊ Current Bowler - Chris Woakes* - 5.1 Over 24 Run - 2 Wicket  
 
 📑 Status - England opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/4/2023, 2:39:30 PM
+📝 Last Updated on : 11/4/2023, 3:00:32 PM
 
 ***
 
