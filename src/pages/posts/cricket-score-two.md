@@ -1,25 +1,25 @@
 ---
 title: "England vs Australia, 36th Match"
 slug: "cricket-score-two"
-description: "AUS - 189/5 (34.5) - England opt to bowl."
+description: "AUS - 286 (49.3) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 189/5 (34.5)  
+🔴 Live Score - AUS - 286 (49.3)  
 
-📊 Run Rate - CRR: 5.43  
+📊 Run Rate - CRR: 5.78  
 
-✊ Current Batsman - Cameron Green* - 36(40)  
+✊ Current Batsman - Josh Hazlewood* - 1(1)  
 
-✊ Current Bowler - Mark Wood* - 6.5 Over 46 Run - 1 Wicket  
+✊ Current Bowler - Chris Woakes - 10 Over 54 Run - 1 Wicket  
 
-📑 Status - England opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 4:40:10 PM
+📝 Last Updated on : 11/4/2023, 6:30:47 PM
 
 ***
 
