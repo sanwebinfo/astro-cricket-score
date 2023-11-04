@@ -1,25 +1,25 @@
 ---
 title: "England vs Australia, 36th Match"
 slug: "cricket-score-two"
-description: "AUS - 286 (49.3) - Innings Break."
+description: "ENG - 30/2 (8.2) - England need 257 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 286 (49.3)  
+🔴 Live Score - ENG - 30/2 (8.2)  
 
-📊 Run Rate - CRR: 5.78  
+📊 Run Rate - CRR: 3.60  
 
-✊ Current Batsman - Josh Hazlewood* - 1(1)  
+✊ Current Batsman - Ben Stokes* - 4(14)  
 
-✊ Current Bowler - Chris Woakes - 10 Over 54 Run - 1 Wicket  
+✊ Current Bowler - Pat Cummins* - 0.2 Over 1 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - England need 257 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 6:30:47 PM
+📝 Last Updated on : 11/4/2023, 7:14:56 PM
 
 ***
 
