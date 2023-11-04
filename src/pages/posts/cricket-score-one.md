@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Pakistan, 35th Match"
 slug: "cricket-score-one"
-description: "PAK - 110/1 (16) - Pakistan need 292 runs."
+description: "PAK - 160/1 (21.3) - Rain stops play - Pakistan need 242 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 110/1 (16)  
+🔴 Live Score - PAK - 160/1 (21.3)  
 
-📊 Run Rate - CRR: 6.88  
+📊 Run Rate - CRR: 7.44  
 
-✊ Current Batsman - Babar Azam* - 33(37)  
+✊ Current Batsman - Fakhar Zaman* - 106(69)  
 
-✊ Current Bowler - Glenn Phillips* - 3 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Trent Boult* - 4.3 Over 43 Run - 0 Wicket  
 
-📑 Status - Pakistan need 292 runs
+📑 Status - Rain stops play - Pakistan need 242 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 4:26:49 PM
+📝 Last Updated on : 11/4/2023, 5:42:22 PM
 
 ***
 
