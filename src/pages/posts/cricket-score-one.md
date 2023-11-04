@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Pakistan, 35th Match"
 slug: "cricket-score-one"
-description: "NZ - 392/6 (49.3) - Pakistan opt to bowl."
+description: "NZ - 401/6 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 392/6 (49.3)  
+🔴 Live Score - NZ - 401/6 (50)  
 
-📊 Run Rate - CRR: 7.92  
+📊 Run Rate - CRR: 8.02  
 
-✊ Current Batsman - Mitchell Santner* - 17(14)  
+✊ Current Batsman - Mitchell Santner* - 26(17)  
 
-✊ Current Bowler - Shaheen Afridi* - 9.3 Over 81 Run - 0 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 10 Over 90 Run - 0 Wicket  
 
-📑 Status - Pakistan opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 2:38:07 PM
+📝 Last Updated on : 11/4/2023, 2:56:43 PM
 
 ***
 
