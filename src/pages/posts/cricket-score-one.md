@@ -1,25 +1,25 @@
 ---
 title: "India vs South Africa, 37th Match"
 slug: "cricket-score-one"
-description: "IND - 316/5 (49.2) - India opt to bat."
+description: "IND - 326/5 (50) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 316/5 (49.2)  
+🔴 Live Score - IND - 326/5 (50)  
 
-📊 Run Rate - CRR: 6.41  
+📊 Run Rate - CRR: 6.52  
 
-✊ Current Batsman - Ravindra Jadeja* - 20(12)  
+✊ Current Batsman - Virat Kohli* - 101(121)  
 
-✊ Current Bowler - Lungi Ngidi* - 8.2 Over 63 Run - 1 Wicket  
+✊ Current Bowler - Marco Jansen* - 9.4 Over 94 Run - 1 Wicket  
 
-📑 Status - India opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/5/2023, 5:58:22 PM
+📝 Last Updated on : 11/5/2023, 6:13:16 PM
 
 ***
 
