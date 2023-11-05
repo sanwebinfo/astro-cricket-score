@@ -1,25 +1,25 @@
 ---
 title: "India vs South Africa, 37th Match"
 slug: "cricket-score-one"
-description: "RSA - 10/1 (3.3) - South Africa need 317 runs."
+description: "RSA - 68/7 (18.5) - South Africa need 259 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 10/1 (3.3)  
+🔴 Live Score - RSA - 68/7 (18.5)  
 
-📊 Run Rate - CRR: 2.86  
+📊 Run Rate - CRR: 3.61  
 
-✊ Current Batsman - Rassie van der Dussen* - 0(7)  
+✊ Current Batsman - Marco Jansen* - 8(12)  
 
-✊ Current Bowler - Mohammed Siraj* - 1.3 Over 7 Run - 1 Wicket  
+✊ Current Bowler - Ravindra Jadeja* - 5.5 Over 28 Run - 4 Wicket  
 
-📑 Status - South Africa need 317 runs
+📑 Status - South Africa need 259 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/5/2023, 6:46:21 PM
+📝 Last Updated on : 11/5/2023, 8:02:38 PM
 
 ***
 
