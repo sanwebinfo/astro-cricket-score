@@ -1,17 +1,17 @@
 ---
 title: "India vs South Africa, 37th Match"
 slug: "cricket-score-one"
-description: "IND - 125/2 (20.4) - India opt to bat."
+description: "IND - 199/2 (33) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 125/2 (20.4)  
+🔴 Live Score - IND - 199/2 (33)  
 
-📊 Run Rate - CRR: 6.05  
+📊 Run Rate - CRR: 6.03  
 
-✊ Current Batsman - Shreyas Iyer* - 11(34)  
+✊ Current Batsman - Shreyas Iyer* - 62(75)  
 
-✊ Current Bowler - Keshav Maharaj* - 5.4 Over 16 Run - 1 Wicket  
+✊ Current Bowler - Aiden Markram* - 1 Over 3 Run - 0 Wicket  
 
 📑 Status - India opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/5/2023, 3:37:17 PM
+📝 Last Updated on : 11/5/2023, 4:30:26 PM
 
 ***
 
