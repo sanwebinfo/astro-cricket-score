@@ -1,19 +1,25 @@
 ---
-title: "New Zealand vs Pakistan, 35th Match"
+title: "India vs South Africa, 37th Match"
 slug: "cricket-score-one"
-description: "New Zealand vs Pakistan, 35th Match - Pakistan won by 21 runs - DLS method."
+description: "IND - 22/0 (1.5) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ New Zealand vs Pakistan, 35th Match
+🔴 Live Score - IND - 22/0 (1.5)  
 
-📑 Status - Pakistan won by 21 runs - DLS method
+📊 Run Rate - CRR: 12.00  
+
+✊ Current Batsman - Shubman Gill* - 8(4)  
+
+✊ Current Bowler - Marco Jansen* - 0.5 Over 17 Run - 0 Wicket  
+
+📑 Status - India opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/4/2023, 9:50:42 PM
+📝 Last Updated on : 11/5/2023, 2:11:45 PM
 
 ***
 
