@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs Sri Lanka, 38th Match"
 slug: "cricket-score-one"
-description: "SL - 18/1 (4) - Bangladesh opt to bowl."
+description: "BAN - 28/1 (4.1) - Bangladesh need 252 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 18/1 (4)  
+🔴 Live Score - BAN - 28/1 (4.1)  
 
-📊 Run Rate - CRR: 4.50  
+📊 Run Rate - CRR: 6.72  
 
-✊ Current Batsman - Pathum Nissanka* - 13(10)  
+✊ Current Batsman - Najmul Hossain Shanto* - 6(5)  
 
-✊ Current Bowler - Shoriful Islam* - 2 Over 16 Run - 1 Wicket  
+✊ Current Bowler - Dilshan Madushanka* - 2.1 Over 15 Run - 1 Wicket  
 
-📑 Status - Bangladesh opt to bowl
+📑 Status - Bangladesh need 252 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/6/2023, 2:20:15 PM
+📝 Last Updated on : 11/6/2023, 6:40:55 PM
 
 ***
 
