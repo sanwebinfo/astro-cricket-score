@@ -1,19 +1,25 @@
 ---
-title: "Bangladesh vs Sri Lanka, 38th Match"
+title: "Australia vs Afghanistan, 39th Match"
 slug: "cricket-score-one"
-description: "Bangladesh vs Sri Lanka, 38th Match - Bangladesh won by 3 wkts."
+description: "AFG - 29/0 (5.4) - Afghanistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Bangladesh vs Sri Lanka, 38th Match
+🔴 Live Score - AFG - 29/0 (5.4)  
 
-📑 Status - Bangladesh won by 3 wkts
+📊 Run Rate - CRR: 5.12  
+
+✊ Current Batsman - Ibrahim Zadran* - 8(13)  
+
+✊ Current Bowler - Josh Hazlewood* - 2.4 Over 10 Run - 0 Wicket  
+
+📑 Status - Afghanistan opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/6/2023, 10:04:41 PM
+📝 Last Updated on : 11/7/2023, 2:28:47 PM
 
 ***
 
