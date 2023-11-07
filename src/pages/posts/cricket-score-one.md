@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Afghanistan, 39th Match"
 slug: "cricket-score-one"
-description: "AUS - 195/7 (33.5) - Australia need 97 runs."
+description: "AUS - 259/7 (43.5) - Australia need 33 runs in 37 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 195/7 (33.5)  
+🔴 Live Score - AUS - 259/7 (43.5)  
 
-📊 Run Rate - CRR: 5.76  
+📊 Run Rate - CRR: 5.91  
 
-✊ Current Batsman - Pat Cummins* - 8(37)  
+✊ Current Batsman - Glenn Maxwell* - 169(112)  
 
-✊ Current Bowler - Mohammad Nabi* - 0.5 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Azmatullah Omarzai* - 6.5 Over 51 Run - 2 Wicket  
 
-📑 Status - Australia need 97 runs
+📑 Status - Australia need 33 runs in 37 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/7/2023, 9:11:49 PM
+📝 Last Updated on : 11/7/2023, 10:03:14 PM
 
 ***
 
