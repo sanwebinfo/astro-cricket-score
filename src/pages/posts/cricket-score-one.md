@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Afghanistan, 39th Match"
 slug: "cricket-score-one"
-description: "AFG - 29/0 (5.4) - Afghanistan opt to bat."
+description: "AUS - 43/2 (6) - Australia need 249 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 29/0 (5.4)  
+🔴 Live Score - AUS - 43/2 (6)  
 
-📊 Run Rate - CRR: 5.12  
+📊 Run Rate - CRR: 7.17  
 
-✊ Current Batsman - Ibrahim Zadran* - 8(13)  
+✊ Current Batsman - David Warner* - 17(21)  
 
-✊ Current Bowler - Josh Hazlewood* - 2.4 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Azmatullah Omarzai* - 1 Over 14 Run - 0 Wicket  
 
-📑 Status - Afghanistan opt to bat
+📑 Status - Australia need 249 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/7/2023, 2:28:47 PM
+📝 Last Updated on : 11/7/2023, 6:50:21 PM
 
 ***
 
