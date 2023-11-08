@@ -1,19 +1,25 @@
 ---
-title: "Australia vs Afghanistan, 39th Match"
+title: "England vs Netherlands, 40th Match"
 slug: "cricket-score-one"
-description: "Australia vs Afghanistan, 39th Match - Australia won by 3 wkts."
+description: "ENG - 139/3 (22.1) - England opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Australia vs Afghanistan, 39th Match
+🔴 Live Score - ENG - 139/3 (22.1)  
 
-📑 Status - Australia won by 3 wkts
+📊 Run Rate - CRR: 6.27  
+
+✊ Current Batsman - Ben Stokes* - 4(7)  
+
+✊ Current Bowler - Logan van Beek* - 5.1 Over 47 Run - 1 Wicket  
+
+📑 Status - England opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/7/2023, 10:25:43 PM
+📝 Last Updated on : 11/8/2023, 3:37:00 PM
 
 ***
 
