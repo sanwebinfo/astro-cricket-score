@@ -1,25 +1,25 @@
 ---
 title: "England vs Netherlands, 40th Match"
 slug: "cricket-score-one"
-description: "ENG - 139/3 (22.1) - England opt to bat."
+description: "NED - 169/8 (36) - Netherlands need 171 runs in 84 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 139/3 (22.1)  
+🔴 Live Score - NED - 169/8 (36)  
 
-📊 Run Rate - CRR: 6.27  
+📊 Run Rate - CRR: 4.69  
 
-✊ Current Batsman - Ben Stokes* - 4(7)  
+✊ Current Batsman - Teja Nidamanuru* - 35(31)  
 
-✊ Current Bowler - Logan van Beek* - 5.1 Over 47 Run - 1 Wicket  
+✊ Current Bowler - Adil Rashid* - 7 Over 45 Run - 2 Wicket  
 
-📑 Status - England opt to bat
+📑 Status - Netherlands need 171 runs in 84 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/8/2023, 3:37:00 PM
+📝 Last Updated on : 11/8/2023, 9:03:34 PM
 
 ***
 
