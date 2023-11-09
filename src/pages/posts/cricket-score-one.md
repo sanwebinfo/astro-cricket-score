@@ -1,25 +1,25 @@
 ---
 title: "New Zealand vs Sri Lanka, 41st Match"
 slug: "cricket-score-one"
-description: "SL - 152/9 (38.2) - New Zealand opt to bowl."
+description: "NZ - 132/3 (19) - New Zealand need 40 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL - 152/9 (38.2)  
+🔴 Live Score - NZ - 132/3 (19)  
 
-📊 Run Rate - CRR: 3.97  
+📊 Run Rate - CRR: 6.95  
 
-✊ Current Batsman - Maheesh Theekshana* - 29(69)  
+✊ Current Batsman - Mark Chapman* - 1(2)  
 
-✊ Current Bowler - Rachin Ravindra* - 4.2 Over 17 Run - 1 Wicket  
+✊ Current Bowler - Maheesh Theekshana* - 7 Over 43 Run - 1 Wicket  
 
-📑 Status - New Zealand opt to bowl
+📑 Status - New Zealand need 40 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/9/2023, 4:49:35 PM
+📝 Last Updated on : 11/9/2023, 7:22:20 PM
 
 ***
 
