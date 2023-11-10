@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs Afghanistan, 42nd Match"
 slug: "cricket-score-one"
-description: "RSA - 49/0 (9) - South Africa need 196 runs."
+description: "RSA - 66/1 (13) - South Africa need 179 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 49/0 (9)  
+🔴 Live Score - RSA - 66/1 (13)  
 
-📊 Run Rate - CRR: 5.44  
+📊 Run Rate - CRR: 5.08  
 
-✊ Current Batsman - Quinton de Kock* - 32(33)  
+✊ Current Batsman - Quinton de Kock* - 41(46)  
 
-✊ Current Bowler - Naveen-ul-Haq* - 4 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Mohammad Nabi* - 4 Over 15 Run - 0 Wicket  
 
-📑 Status - South Africa need 196 runs
+📑 Status - South Africa need 179 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/10/2023, 7:11:22 PM
+📝 Last Updated on : 11/10/2023, 7:27:37 PM
 
 ***
 
