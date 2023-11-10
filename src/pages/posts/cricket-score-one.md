@@ -1,19 +1,19 @@
 ---
-title: "New Zealand vs Sri Lanka, 41st Match"
+title: "South Africa vs Afghanistan, 42nd Match"
 slug: "cricket-score-one"
-description: "New Zealand vs Sri Lanka, 41st Match - New Zealand won by 5 wkts."
+description: "South Africa vs Afghanistan, 42nd Match - Match starts at Nov 10, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ New Zealand vs Sri Lanka, 41st Match
+✅ South Africa vs Afghanistan, 42nd Match
 
-📑 Status - New Zealand won by 5 wkts
+📑 Status - Match starts at Nov 10, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/9/2023, 8:48:50 PM
+📝 Last Updated on : 11/10/2023, 10:38:45 AM
 
 ***
 
