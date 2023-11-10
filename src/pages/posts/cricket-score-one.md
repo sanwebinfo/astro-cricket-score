@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs Afghanistan, 42nd Match"
 slug: "cricket-score-one"
-description: "AFG - 160/7 (38.4) - Afghanistan opt to bat."
+description: "AFG - 244/9 (49.4) - Afghanistan opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG - 160/7 (38.4)  
+🔴 Live Score - AFG - 244/9 (49.4)  
 
-📊 Run Rate - CRR: 4.14  
+📊 Run Rate - CRR: 4.91  
 
-✊ Current Batsman - Azmatullah Omarzai* - 53(79)  
+✊ Current Batsman - Azmatullah Omarzai* - 97(105)  
 
-✊ Current Bowler - Keshav Maharaj* - 9.4 Over 23 Run - 2 Wicket  
+✊ Current Bowler - Kagiso Rabada* - 9.4 Over 40 Run - 0 Wicket  
 
 📑 Status - Afghanistan opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/10/2023, 5:07:31 PM
+📝 Last Updated on : 11/10/2023, 5:59:20 PM
 
 ***
 
