@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Bangladesh, 43rd Match"
 slug: "cricket-score-one"
-description: "AUS - 4/0 (1.4) - Australia need 303 runs."
+description: "AUS - 105/1 (16.2) - Australia need 202 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 4/0 (1.4)  
+🔴 Live Score - AUS - 105/1 (16.2)  
 
-📊 Run Rate - CRR: 2.40  
+📊 Run Rate - CRR: 6.43  
 
-✊ Current Batsman - David Warner* - 0(4)  
+✊ Current Batsman - Mitchell Marsh* - 55(44)  
 
-✊ Current Bowler - Mahedi Hasan* - 0.4 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Mustafizur Rahman* - 2.2 Over 20 Run - 0 Wicket  
 
-📑 Status - Australia need 303 runs
+📑 Status - Australia need 202 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/11/2023, 2:51:40 PM
+📝 Last Updated on : 11/11/2023, 3:51:19 PM
 
 ***
 
