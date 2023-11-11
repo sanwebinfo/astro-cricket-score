@@ -1,25 +1,25 @@
 ---
 title: "England vs Pakistan, 44th Match"
 slug: "cricket-score-two"
-description: "ENG - 246/3 (41) - England opt to bat."
+description: "PAK - 186/8 (37) - Pakistan need 152 runs in 78 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG - 246/3 (41)  
+🔴 Live Score - PAK - 186/8 (37)  
 
-📊 Run Rate - CRR: 6.00  
+📊 Run Rate - CRR: 5.03  
 
-✊ Current Batsman - Joe Root* - 55(68)  
+✊ Current Batsman - Shaheen Afridi* - 21(19)  
 
-✊ Current Bowler - Haris Rauf* - 8 Over 51 Run - 1 Wicket  
+✊ Current Bowler - Adil Rashid* - 10 Over 55 Run - 2 Wicket  
 
-📑 Status - England opt to bat
+📑 Status - Pakistan need 152 runs in 78 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/11/2023, 5:01:55 PM
+📝 Last Updated on : 11/11/2023, 9:04:23 PM
 
 ***
 
