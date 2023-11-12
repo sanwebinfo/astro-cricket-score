@@ -1,17 +1,17 @@
 ---
 title: "India vs Netherlands, 45th Match"
 slug: "cricket-score-one"
-description: "IND - 109/1 (14) - India opt to bat."
+description: "IND - 331/3 (44.2) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 109/1 (14)  
+🔴 Live Score - IND - 331/3 (44.2)  
 
-📊 Run Rate - CRR: 7.79  
+📊 Run Rate - CRR: 7.47  
 
-✊ Current Batsman - Virat Kohli* - 3(8)  
+✊ Current Batsman - KL Rahul* - 59(45)  
 
-✊ Current Bowler - Roelof van der Merwe* - 3 Over 14 Run - 0 Wicket  
+✊ Current Bowler - Logan van Beek* - 7.2 Over 62 Run - 0 Wicket  
 
 📑 Status - India opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/12/2023, 3:00:50 PM
+📝 Last Updated on : 11/12/2023, 5:18:09 PM
 
 ***
 
