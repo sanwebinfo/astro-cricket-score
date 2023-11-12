@@ -1,25 +1,25 @@
 ---
 title: "India vs Netherlands, 45th Match"
 slug: "cricket-score-one"
-description: "IND - 410/4 (50) - Innings Break."
+description: "NED - 111/4 (24.3) - Netherlands need 300 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 410/4 (50)  
+🔴 Live Score - NED - 111/4 (24.3)  
 
-📊 Run Rate - CRR: 8.20  
+📊 Run Rate - CRR: 4.53  
 
-✊ Current Batsman - Shreyas Iyer* - 128(94)  
+✊ Current Batsman - Bas de Leede* - 0(0)  
 
-✊ Current Bowler - Bas de Leede* - 10 Over 82 Run - 2 Wicket  
+✊ Current Bowler - Virat Kohli* - 1.3 Over 8 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Netherlands need 300 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/12/2023, 6:07:33 PM
+📝 Last Updated on : 11/12/2023, 7:55:30 PM
 
 ***
 
