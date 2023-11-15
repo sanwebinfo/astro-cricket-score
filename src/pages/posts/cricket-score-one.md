@@ -1,17 +1,17 @@
 ---
 title: "India vs New Zealand, 1st Semi-Final (1st v 4th)"
 slug: "cricket-score-one"
-description: "IND - 238/1 (33) - India opt to bat."
+description: "IND - 291/1 (40.5) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 238/1 (33)  
+🔴 Live Score - IND - 291/1 (40.5)  
 
-📊 Run Rate - CRR: 7.21  
+📊 Run Rate - CRR: 7.13  
 
-✊ Current Batsman - Virat Kohli* - 78(82)  
+✊ Current Batsman - Shreyas Iyer* - 63(47)  
 
-✊ Current Bowler - Glenn Phillips* - 4 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Rachin Ravindra* - 4.5 Over 34 Run - 0 Wicket  
 
 📑 Status - India opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/15/2023, 4:31:56 PM
+📝 Last Updated on : 11/15/2023, 5:04:48 PM
 
 ***
 
