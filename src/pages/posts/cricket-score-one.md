@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 1st Semi-Final (1st v 4th)"
 slug: "cricket-score-one"
-description: "NZ - 176/2 (27.1) - New Zealand need 222 runs."
+description: "NZ - 213/2 (31) - New Zealand need 185 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 176/2 (27.1)  
+🔴 Live Score - NZ - 213/2 (31)  
 
-📊 Run Rate - CRR: 6.48  
+📊 Run Rate - CRR: 6.87  
 
-✊ Current Batsman - Daryl Mitchell* - 74(66)  
+✊ Current Batsman - Kane Williamson* - 64(70)  
 
-✊ Current Bowler - Kuldeep Yadav* - 6.1 Over 35 Run - 0 Wicket  
+✊ Current Bowler - Kuldeep Yadav* - 8 Over 50 Run - 0 Wicket  
 
-📑 Status - New Zealand need 222 runs
+📑 Status - New Zealand need 185 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/15/2023, 8:29:38 PM
+📝 Last Updated on : 11/15/2023, 8:53:42 PM
 
 ***
 
