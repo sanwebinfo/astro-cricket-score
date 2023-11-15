@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 1st Semi-Final (1st v 4th)"
 slug: "cricket-score-one"
-description: "NZ - 223/4 (34.3) - New Zealand need 175 runs in 93 balls."
+description: "NZ - 245/4 (38) - New Zealand need 153 runs in 72 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NZ - 223/4 (34.3)  
+🔴 Live Score - NZ - 245/4 (38)  
 
-📊 Run Rate - CRR: 6.46  
+📊 Run Rate - CRR: 6.45  
 
-✊ Current Batsman - Daryl Mitchell* - 102(88)  
+✊ Current Batsman - Glenn Phillips* - 11(16)  
 
-✊ Current Bowler - Mohammed Shami* - 5.3 Over 29 Run - 4 Wicket  
+✊ Current Bowler - Mohammed Siraj* - 6 Over 39 Run - 0 Wicket  
 
-📑 Status - New Zealand need 175 runs in 93 balls
+📑 Status - New Zealand need 153 runs in 72 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/15/2023, 9:06:06 PM
+📝 Last Updated on : 11/15/2023, 9:33:21 PM
 
 ***
 
