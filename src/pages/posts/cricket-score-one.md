@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs Australia, 2nd Semi-Final (2nd v 3rd)"
 slug: "cricket-score-one"
-description: "AUS - 156/5 (28.4) - Australia need 57 runs."
+description: "AUS - 188/6 (37.5) - Australia need 25 runs in 73 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 156/5 (28.4)  
+🔴 Live Score - AUS - 188/6 (37.5)  
 
-📊 Run Rate - CRR: 5.44  
+📊 Run Rate - CRR: 4.97  
 
-✊ Current Batsman - Steven Smith* - 21(47)  
+✊ Current Batsman - Mitchell Starc* - 6(14)  
 
-✊ Current Bowler - Keshav Maharaj* - 7.4 Over 19 Run - 1 Wicket  
+✊ Current Bowler - Gerald Coetzee* - 5.5 Over 37 Run - 1 Wicket  
 
-📑 Status - Australia need 57 runs
+📑 Status - Australia need 25 runs in 73 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/16/2023, 8:45:36 PM
+📝 Last Updated on : 11/16/2023, 9:27:34 PM
 
 ***
 
