@@ -1,19 +1,19 @@
 ---
-title: "India vs New Zealand, 1st Semi-Final (1st v 4th)"
+title: "South Africa vs Australia, 2nd Semi-Final (2nd v 3rd)"
 slug: "cricket-score-one"
-description: "India vs New Zealand, 1st Semi-Final (1st v 4th) - India won by 70 runs."
+description: "South Africa vs Australia, 2nd Semi-Final (2nd v 3rd) - Match starts at Nov 16, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs New Zealand, 1st Semi-Final (1st v 4th)
+✅ South Africa vs Australia, 2nd Semi-Final (2nd v 3rd)
 
-📑 Status - India won by 70 runs
+📑 Status - Match starts at Nov 16, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/15/2023, 10:32:20 PM
+📝 Last Updated on : 11/16/2023, 11:14:55 AM
 
 ***
 
