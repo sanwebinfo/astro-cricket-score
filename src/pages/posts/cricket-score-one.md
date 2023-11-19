@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, Final"
 slug: "cricket-score-one"
-description: "AUS - 193/3 (35.1) - Australia need 48 runs in 89 balls."
+description: "AUS - 241/4 (43) - Australia won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 193/3 (35.1)  
+🔴 Live Score - AUS - 241/4 (43)  
 
-📊 Run Rate - CRR: 5.49  
+📊 Run Rate - CRR: 5.60  
 
-✊ Current Batsman - Marnus Labuschagne* - 41(84)  
+✊ Current Batsman - Marnus Labuschagne* - 58(110)  
 
-✊ Current Bowler - Kuldeep Yadav* - 8.1 Over 44 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah* - 9 Over 43 Run - 2 Wicket  
 
-📑 Status - Australia need 48 runs in 89 balls
+📑 Status - Australia won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/19/2023, 8:50:59 PM
+📝 Last Updated on : 11/19/2023, 9:22:14 PM
 
 ***
 
