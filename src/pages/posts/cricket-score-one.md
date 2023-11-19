@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, Final"
 slug: "cricket-score-one"
-description: "IND - 181/5 (37.4) - Australia opt to bowl."
+description: "IND - 208/6 (42.1) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 181/5 (37.4)  
+🔴 Live Score - IND - 208/6 (42.1)  
 
-📊 Run Rate - CRR: 4.81  
+📊 Run Rate - CRR: 4.93  
 
-✊ Current Batsman - KL Rahul* - 57(95)  
+✊ Current Batsman - Mohammed Shami* - 4(3)  
 
-✊ Current Bowler - Josh Hazlewood* - 6.4 Over 42 Run - 1 Wicket  
+✊ Current Bowler - Pat Cummins* - 7.1 Over 24 Run - 2 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/19/2023, 4:52:00 PM
+📝 Last Updated on : 11/19/2023, 5:14:53 PM
 
 ***
 
