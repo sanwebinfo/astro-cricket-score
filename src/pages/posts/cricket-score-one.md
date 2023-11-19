@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, Final"
 slug: "cricket-score-one"
-description: "AUS - 139/3 (25.1) - Australia need 102 runs."
+description: "AUS - 193/3 (35.1) - Australia need 48 runs in 89 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 139/3 (25.1)  
+🔴 Live Score - AUS - 193/3 (35.1)  
 
-📊 Run Rate - CRR: 5.52  
+📊 Run Rate - CRR: 5.49  
 
-✊ Current Batsman - Marnus Labuschagne* - 31(53)  
+✊ Current Batsman - Marnus Labuschagne* - 41(84)  
 
-✊ Current Bowler - Mohammed Shami* - 6.1 Over 42 Run - 1 Wicket  
+✊ Current Bowler - Kuldeep Yadav* - 8.1 Over 44 Run - 0 Wicket  
 
-📑 Status - Australia need 102 runs
+📑 Status - Australia need 48 runs in 89 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/19/2023, 8:08:14 PM
+📝 Last Updated on : 11/19/2023, 8:50:59 PM
 
 ***
 
