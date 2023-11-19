@@ -1,19 +1,19 @@
 ---
-title: "Data Not Found"
+title: "India vs Australia, Final"
 slug: "cricket-score-one"
-description: "Data Not Found - Data Not Found."
+description: "India vs Australia, Final - Match starts at Nov 19, 08:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Data Not Found
+✅ India vs Australia, Final
 
-📑 Status - Data Not Found
+📑 Status - Match starts at Nov 19, 08:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/18/2023, 11:16:37 AM
+📝 Last Updated on : 11/19/2023, 11:18:01 AM
 
 ***
 
