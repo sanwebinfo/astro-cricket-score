@@ -1,25 +1,19 @@
 ---
 title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "IND - 208/8 (19.5) - India need 1 run in 1 ball."
+description: "India vs Australia, 1st T20I - India won by 2 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND - 208/8 (19.5)  
+✅ India vs Australia, 1st T20I
 
-📊 Run Rate - CRR: 10.49  
-
-✊ Current Batsman - Rinku Singh* - 22(13)  
-
-✊ Current Bowler - Sean Abbott* - 3.5 Over 42 Run - 1 Wicket  
-
-📑 Status - India need 1 run in 1 ball
+📑 Status - India won by 2 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2023, 10:44:28 PM
+📝 Last Updated on : 11/23/2023, 10:56:15 PM
 
 ***
 
