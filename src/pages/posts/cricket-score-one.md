@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "IND - 201/5 (18.5) - India need 8 runs in 7 balls."
+description: "IND - 208/8 (19.5) - India need 1 run in 1 ball."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 201/5 (18.5)  
+🔴 Live Score - IND - 208/8 (19.5)  
 
-📊 Run Rate - CRR: 10.67  
+📊 Run Rate - CRR: 10.49  
 
-✊ Current Batsman - Rinku Singh* - 16(9)  
+✊ Current Batsman - Rinku Singh* - 22(13)  
 
-✊ Current Bowler - Nathan Ellis* - 3.5 Over 43 Run - 0 Wicket  
+✊ Current Bowler - Sean Abbott* - 3.5 Over 42 Run - 1 Wicket  
 
-📑 Status - India need 8 runs in 7 balls
+📑 Status - India need 1 run in 1 ball
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2023, 10:33:59 PM
+📝 Last Updated on : 11/23/2023, 10:44:28 PM
 
 ***
 
