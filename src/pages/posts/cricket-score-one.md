@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, Final"
+title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "India vs Australia, Final - Australia won by 6 wkts."
+description: "India vs Australia, 1st T20I - Match starts at Nov 23, 13:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, Final
+✅ India vs Australia, 1st T20I
 
-📑 Status - Australia won by 6 wkts
+📑 Status - Match starts at Nov 23, 13:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/19/2023, 9:31:16 PM
+📝 Last Updated on : 11/23/2023, 9:47:43 AM
 
 ***
 
