@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "AUS - 208/3 (20) - Innings Break."
+description: "IND - 22/1 (2.2) - India need 187 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 208/3 (20)  
+🔴 Live Score - IND - 22/1 (2.2)  
 
-📊 Run Rate - CRR: 10.40  
+📊 Run Rate - CRR: 9.43  
 
-✊ Current Batsman - Marcus Stoinis* - 7(6)  
+✊ Current Batsman - Yashasvi Jaiswal* - 21(7)  
 
-✊ Current Bowler - Mukesh Kumar* - 4 Over 29 Run - 0 Wicket  
+✊ Current Bowler - Matthew Short* - 0.2 Over 10 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 187 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2023, 8:45:10 PM
+📝 Last Updated on : 11/23/2023, 9:04:19 PM
 
 ***
 
