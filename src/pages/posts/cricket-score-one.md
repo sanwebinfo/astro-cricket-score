@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "IND - 22/1 (2.2) - India need 187 runs."
+description: "IND - 64/2 (6.1) - India need 145 runs in 83 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 22/1 (2.2)  
+🔴 Live Score - IND - 64/2 (6.1)  
 
-📊 Run Rate - CRR: 9.43  
+📊 Run Rate - CRR: 10.38  
 
-✊ Current Batsman - Yashasvi Jaiswal* - 21(7)  
+✊ Current Batsman - Suryakumar Yadav* - 26(12)  
 
-✊ Current Bowler - Matthew Short* - 0.2 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Tanveer Sangha* - 0.1 Over 1 Run - 0 Wicket  
 
-📑 Status - India need 187 runs
+📑 Status - India need 145 runs in 83 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2023, 9:04:19 PM
+📝 Last Updated on : 11/23/2023, 9:23:19 PM
 
 ***
 
