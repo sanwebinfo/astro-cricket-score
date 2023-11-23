@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 1st T20I"
 slug: "cricket-score-one"
-description: "AUS - 175/2 (16.5) - India opt to bowl."
+description: "AUS - 185/3 (17.5) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 175/2 (16.5)  
+🔴 Live Score - AUS - 185/3 (17.5)  
 
-📊 Run Rate - CRR: 10.40  
+📊 Run Rate - CRR: 10.37  
 
-✊ Current Batsman - Josh Inglis* - 106(48)  
+✊ Current Batsman - Marcus Stoinis* - 2(2)  
 
-✊ Current Bowler - Arshdeep Singh* - 2.5 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Prasidh Krishna* - 3.5 Over 48 Run - 1 Wicket  
 
 📑 Status - India opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/23/2023, 8:19:32 PM
+📝 Last Updated on : 11/23/2023, 8:25:55 PM
 
 ***
 
