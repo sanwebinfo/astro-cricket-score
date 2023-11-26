@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 2nd T20I"
 slug: "cricket-score-one"
-description: "IND - 75/0 (5.4) - Australia opt to bowl."
+description: "IND - 195/3 (18.2) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 75/0 (5.4)  
+🔴 Live Score - IND - 195/3 (18.2)  
 
-📊 Run Rate - CRR: 13.24  
+📊 Run Rate - CRR: 10.64  
 
-✊ Current Batsman - Yashasvi Jaiswal* - 53(24)  
+✊ Current Batsman - Rinku Singh* - 5(3)  
 
-✊ Current Bowler - Nathan Ellis* - 1.4 Over 16 Run - 0 Wicket  
+✊ Current Bowler - Sean Abbott* - 2.2 Over 36 Run - 0 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/26/2023, 7:28:25 PM
+📝 Last Updated on : 11/26/2023, 8:36:18 PM
 
 ***
 
