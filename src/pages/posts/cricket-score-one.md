@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 2nd T20I"
+title: "India vs Australia, 3rd T20I"
 slug: "cricket-score-one"
-description: "India vs Australia, 2nd T20I - India won by 44 runs."
+description: "India vs Australia, 3rd T20I - Match starts at Nov 28, 13:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 2nd T20I
+✅ India vs Australia, 3rd T20I
 
-📑 Status - India won by 44 runs
+📑 Status - Match starts at Nov 28, 13:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/26/2023, 10:52:11 PM
+📝 Last Updated on : 11/28/2023, 12:50:38 PM
 
 ***
 
