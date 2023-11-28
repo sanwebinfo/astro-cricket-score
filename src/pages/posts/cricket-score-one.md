@@ -1,25 +1,19 @@
 ---
 title: "India vs Australia, 3rd T20I"
 slug: "cricket-score-one"
-description: "AUS - 127/3 (12.4) - Australia need 96 runs in 44 balls."
+description: "India vs Australia, 3rd T20I - Australia won by 5 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AUS - 127/3 (12.4)  
+✅ India vs Australia, 3rd T20I
 
-📊 Run Rate - CRR: 10.03  
-
-✊ Current Batsman - Glenn Maxwell* - 41(21)  
-
-✊ Current Bowler - Axar Patel* - 2.4 Over 18 Run - 0 Wicket  
-
-📑 Status - Australia need 96 runs in 44 balls
+📑 Status - Australia won by 5 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/28/2023, 9:56:32 PM
+📝 Last Updated on : 11/28/2023, 10:46:04 PM
 
 ***
 
