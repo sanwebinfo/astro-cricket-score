@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 3rd T20I"
 slug: "cricket-score-one"
-description: "AUS - 97/3 (8.2) - Australia need 126 runs in 70 balls."
+description: "AUS - 127/3 (12.4) - Australia need 96 runs in 44 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 97/3 (8.2)  
+🔴 Live Score - AUS - 127/3 (12.4)  
 
-📊 Run Rate - CRR: 11.64  
+📊 Run Rate - CRR: 10.03  
 
-✊ Current Batsman - Glenn Maxwell* - 25(11)  
+✊ Current Batsman - Glenn Maxwell* - 41(21)  
 
-✊ Current Bowler - Axar Patel* - 0.2 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Axar Patel* - 2.4 Over 18 Run - 0 Wicket  
 
-📑 Status - Australia need 126 runs in 70 balls
+📑 Status - Australia need 96 runs in 44 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/28/2023, 9:37:12 PM
+📝 Last Updated on : 11/28/2023, 9:56:32 PM
 
 ***
 
