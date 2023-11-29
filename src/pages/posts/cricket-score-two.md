@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs New Zealand, 1st Test"
 slug: "cricket-score-two"
-description: "BAN - 211/5 (61.1) - Day 1: 3rd Session."
+description: "NZ - 168/4 (52) - Day 2: 3rd Session - New Zealand trail by 142 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 211/5 (61.1)  
+🔴 Live Score - NZ - 168/4 (52)  
 
-📊 Run Rate - CRR: 3.45  
+📊 Run Rate - CRR: 3.23  
 
-✊ Current Batsman - Mehidy Hasan Miraz* - 0(3)  
+✊ Current Batsman - Kane Williamson* - 66(116)  
 
-✊ Current Bowler - Ish Sodhi* - 11.1 Over 61 Run - 1 Wicket  
+✊ Current Bowler - Nayeem Hasan* - 12 Over 26 Run - 0 Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 2: 3rd Session - New Zealand trail by 142 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/28/2023, 2:30:24 PM
+📝 Last Updated on : 11/29/2023, 2:02:59 PM
 
 ***
 
