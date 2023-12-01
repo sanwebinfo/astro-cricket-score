@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs New Zealand, 1st Test"
 slug: "cricket-score-two"
-description: "BAN - 310 & 212/3 (68) - Day 3: Stumps - Bangladesh lead by 205 runs."
+description: "NZ - 317 & 113/7 (49) - Day 4: Stumps - New Zealand need 219 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 310 & 212/3 (68)  
+🔴 Live Score - NZ - 317 & 113/7 (49)  
 
-📊 Run Rate - CRR: 3.12  
+📊 Run Rate - CRR: 2.31  
 
-✊ Current Batsman - Mushfiqur Rahim* - 43(71)  
+✊ Current Batsman - Daryl Mitchell* - 44(86)  
 
-✊ Current Bowler - Ajaz Patel* - 23 Over 94 Run - 1 Wicket  
+✊ Current Bowler - Nayeem Hasan* - 10 Over 24 Run - 1 Wicket  
 
-📑 Status - Day 3: Stumps - Bangladesh lead by 205 runs
+📑 Status - Day 4: Stumps - New Zealand need 219 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/30/2023, 6:51:49 PM
+📝 Last Updated on : 12/1/2023, 10:34:08 PM
 
 ***
 
