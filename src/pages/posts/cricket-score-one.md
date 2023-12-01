@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 4th T20I"
 slug: "cricket-score-one"
-description: "IND - 90/3 (11.3) - Australia opt to bowl."
+description: "IND - 155/4 (17.2) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 90/3 (11.3)  
+🔴 Live Score - IND - 155/4 (17.2)  
 
-📊 Run Rate - CRR: 7.83  
+📊 Run Rate - CRR: 8.94  
 
-✊ Current Batsman - Rinku Singh* - 16(10)  
+✊ Current Batsman - Rinku Singh* - 43(26)  
 
-✊ Current Bowler - Matthew Short* - 0.3 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Jason Behrendorff* - 2.2 Over 20 Run - 0 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/1/2023, 7:54:05 PM
+📝 Last Updated on : 12/1/2023, 8:19:27 PM
 
 ***
 
