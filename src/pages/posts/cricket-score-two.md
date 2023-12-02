@@ -1,25 +1,19 @@
 ---
 title: "Bangladesh vs New Zealand, 1st Test"
 slug: "cricket-score-two"
-description: "NZ - 317 & 113/7 (49) - Day 4: Stumps - New Zealand need 219 runs."
+description: "Bangladesh vs New Zealand, 1st Test - Bangladesh won by 150 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NZ - 317 & 113/7 (49)  
+✅ Bangladesh vs New Zealand, 1st Test
 
-📊 Run Rate - CRR: 2.31  
-
-✊ Current Batsman - Daryl Mitchell* - 44(86)  
-
-✊ Current Bowler - Nayeem Hasan* - 10 Over 24 Run - 1 Wicket  
-
-📑 Status - Day 4: Stumps - New Zealand need 219 runs
+📑 Status - Bangladesh won by 150 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/1/2023, 10:34:08 PM
+📝 Last Updated on : 12/2/2023, 12:36:14 PM
 
 ***
 
