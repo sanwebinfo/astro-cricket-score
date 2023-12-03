@@ -1,25 +1,25 @@
 ---
 title: "India vs Australia, 5th T20I"
 slug: "cricket-score-one"
-description: "AUS - 14/0 (1.2) - Australia need 147 runs."
+description: "AUS - 59/3 (8) - Australia need 102 runs in 72 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 14/0 (1.2)  
+🔴 Live Score - AUS - 59/3 (8)  
 
-📊 Run Rate - CRR: 10.50  
+📊 Run Rate - CRR: 7.38  
 
-✊ Current Batsman - Travis Head* - 13(7)  
+✊ Current Batsman - Tim David* - 2(3)  
 
-✊ Current Bowler - Avesh Khan* - 0.2 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Ravi Bishnoi* - 2 Over 13 Run - 2 Wicket  
 
-📑 Status - Australia need 147 runs
+📑 Status - Australia need 102 runs in 72 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/3/2023, 8:51:59 PM
+📝 Last Updated on : 12/3/2023, 9:20:44 PM
 
 ***
 
