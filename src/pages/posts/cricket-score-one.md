@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 4th T20I"
+title: "India vs Australia, 5th T20I"
 slug: "cricket-score-one"
-description: "India vs Australia, 4th T20I - India won by 20 runs."
+description: "India vs Australia, 5th T20I - Match starts at Dec 03, 13:30 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 4th T20I
+✅ India vs Australia, 5th T20I
 
-📑 Status - India won by 20 runs
+📑 Status - Match starts at Dec 03, 13:30 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/1/2023, 10:42:00 PM
+📝 Last Updated on : 12/3/2023, 5:49:40 PM
 
 ***
 
