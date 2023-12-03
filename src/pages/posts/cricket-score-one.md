@@ -1,17 +1,17 @@
 ---
 title: "India vs Australia, 5th T20I"
 slug: "cricket-score-one"
-description: "IND - 48/3 (7.2) - Australia opt to bowl."
+description: "IND - 134/5 (18) - Australia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 48/3 (7.2)  
+🔴 Live Score - IND - 134/5 (18)  
 
-📊 Run Rate - CRR: 6.55  
+📊 Run Rate - CRR: 7.44  
 
-✊ Current Batsman - Shreyas Iyer* - 8(8)  
+✊ Current Batsman - Shreyas Iyer* - 41(32)  
 
-✊ Current Bowler - Tanveer Sangha* - 0.2 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Ben Dwarshuis* - 4 Over 30 Run - 2 Wicket  
 
 📑 Status - Australia opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/3/2023, 7:34:56 PM
+📝 Last Updated on : 12/3/2023, 8:21:20 PM
 
 ***
 
