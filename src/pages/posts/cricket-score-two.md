@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs New Zealand, 2nd Test"
 slug: "cricket-score-two"
-description: "BAN - 158/9 (63) - Day 1: 3rd Session."
+description: "NZ - 55/5 (12.4) - Day 1: Stumps - New Zealand trail by 117 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN - 158/9 (63)  
+🔴 Live Score - NZ - 55/5 (12.4)  
 
-📊 Run Rate - CRR: 2.51  
+📊 Run Rate - CRR: 4.34  
 
-✊ Current Batsman - Nayeem Hasan* - 10(33)  
+✊ Current Batsman - Glenn Phillips* - 5(6)  
 
-✊ Current Bowler - Mitchell Santner* - 26 Over 56 Run - 3 Wicket  
+✊ Current Bowler - Taijul Islam* - 5.4 Over 29 Run - 2 Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 1: Stumps - New Zealand trail by 117 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/6/2023, 2:20:07 PM
+📝 Last Updated on : 12/6/2023, 6:27:55 PM
 
 ***
 
