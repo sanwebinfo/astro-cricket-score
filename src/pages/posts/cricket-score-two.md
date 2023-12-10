@@ -1,19 +1,19 @@
 ---
-title: "Bangladesh vs New Zealand, 2nd Test"
+title: "Zimbabwe vs Ireland, 3rd T20I"
 slug: "cricket-score-two"
-description: "Bangladesh vs New Zealand, 2nd Test - New Zealand won by 4 wkts."
+description: "Zimbabwe vs Ireland, 3rd T20I - Match starts at Dec 10, 11:00 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Bangladesh vs New Zealand, 2nd Test
+✅ Zimbabwe vs Ireland, 3rd T20I
 
-📑 Status - New Zealand won by 4 wkts
+📑 Status - Match starts at Dec 10, 11:00 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/9/2023, 3:35:11 PM
+📝 Last Updated on : 12/10/2023, 10:53:37 AM
 
 ***
 
