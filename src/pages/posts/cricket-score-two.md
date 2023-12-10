@@ -1,19 +1,19 @@
 ---
 title: "Zimbabwe vs Ireland, 3rd T20I"
 slug: "cricket-score-two"
-description: "Zimbabwe vs Ireland, 3rd T20I - Match starts at Dec 10, 11:00 GMT."
+description: "Zimbabwe vs Ireland, 3rd T20I - Ireland won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Zimbabwe vs Ireland, 3rd T20I
 
-📑 Status - Match starts at Dec 10, 11:00 GMT
+📑 Status - Ireland won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/10/2023, 10:53:37 AM
+📝 Last Updated on : 12/10/2023, 8:08:29 PM
 
 ***
 
