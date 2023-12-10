@@ -1,19 +1,19 @@
 ---
-title: "India vs Australia, 5th T20I"
+title: "South Africa vs India, 1st T20I"
 slug: "cricket-score-one"
-description: "India vs Australia, 5th T20I - India won by 6 runs."
+description: "South Africa vs India, 1st T20I - Match starts at Dec 10, 14:00 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Australia, 5th T20I
+✅ South Africa vs India, 1st T20I
 
-📑 Status - India won by 6 runs
+📑 Status - Match starts at Dec 10, 14:00 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/3/2023, 10:37:20 PM
+📝 Last Updated on : 12/10/2023, 10:58:52 AM
 
 ***
 
