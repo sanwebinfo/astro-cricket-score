@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, 2nd T20I"
 slug: "cricket-score-one"
-description: "IND - 107/3 (12) - South Africa opt to bowl."
+description: "IND - 141/4 (15) - South Africa opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 107/3 (12)  
+🔴 Live Score - IND - 141/4 (15)  
 
-📊 Run Rate - CRR: 8.92  
+📊 Run Rate - CRR: 9.40  
 
-✊ Current Batsman - Rinku Singh* - 19(16)  
+✊ Current Batsman - Rinku Singh* - 48(28)  
 
-✊ Current Bowler - Marco Jansen* - 3 Over 39 Run - 1 Wicket  
+✊ Current Bowler - Aiden Markram* - 1 Over 5 Run - 0 Wicket  
 
 📑 Status - South Africa opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/12/2023, 9:37:51 PM
+📝 Last Updated on : 12/12/2023, 9:51:55 PM
 
 ***
 
