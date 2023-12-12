@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs India, 1st T20I"
+title: "South Africa vs India, 2nd T20I"
 slug: "cricket-score-one"
-description: "South Africa vs India, 1st T20I - Toss delayed due to rain."
+description: "South Africa vs India, 2nd T20I - Match starts at Dec 12, 15:00 GMT."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs India, 1st T20I
+✅ South Africa vs India, 2nd T20I
 
-📑 Status - Toss delayed due to rain
+📑 Status - Match starts at Dec 12, 15:00 GMT
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/10/2023, 7:34:11 PM
+📝 Last Updated on : 12/12/2023, 1:54:18 PM
 
 ***
 
