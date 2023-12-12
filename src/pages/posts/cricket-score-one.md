@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, 2nd T20I"
 slug: "cricket-score-one"
-description: "IND - 53/2 (5.1) - South Africa opt to bowl."
+description: "IND - 69/3 (8) - South Africa opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 53/2 (5.1)  
+🔴 Live Score - IND - 69/3 (8)  
 
-📊 Run Rate - CRR: 10.26  
+📊 Run Rate - CRR: 8.62  
 
-✊ Current Batsman - Tilak Varma* - 28(18)  
+✊ Current Batsman - Suryakumar Yadav* - 30(19)  
 
-✊ Current Bowler - Gerald Coetzee* - 1.1 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Andile Phehlukwayo* - 1 Over 7 Run - 0 Wicket  
 
 📑 Status - South Africa opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/12/2023, 8:59:22 PM
+📝 Last Updated on : 12/12/2023, 9:12:05 PM
 
 ***
 
