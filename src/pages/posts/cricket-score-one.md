@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 3rd T20I"
 slug: "cricket-score-one"
-description: "IND - 193/4 (19) - South Africa opt to bowl."
+description: "IND - 201/7 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 193/4 (19)  
+🔴 Live Score - IND - 201/7 (20)  
 
-📊 Run Rate - CRR: 10.16  
+📊 Run Rate - CRR: 10.05  
 
-✊ Current Batsman - Jitesh Sharma* - 5(3)  
+✊ Current Batsman - Arshdeep Singh* - 0(0)  
 
-✊ Current Bowler - Tabraiz Shamsi* - 4 Over 38 Run - 1 Wicket  
+✊ Current Bowler - Lizaad Williams* - 4 Over 46 Run - 2 Wicket  
 
-📑 Status - South Africa opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/14/2023, 10:06:56 PM
+📝 Last Updated on : 12/14/2023, 10:22:56 PM
 
 ***
 
