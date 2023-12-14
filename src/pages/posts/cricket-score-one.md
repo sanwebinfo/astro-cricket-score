@@ -1,25 +1,19 @@
 ---
 title: "South Africa vs India, 3rd T20I"
 slug: "cricket-score-one"
-description: "RSA - 89/7 (12) - South Africa need 113 runs in 48 balls."
+description: "South Africa vs India, 3rd T20I - India won by 106 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RSA - 89/7 (12)  
+✅ South Africa vs India, 3rd T20I
 
-📊 Run Rate - CRR: 7.42  
-
-✊ Current Batsman - David Miller* - 32(20)  
-
-✊ Current Bowler - Mohammed Siraj* - 2 Over 8 Run - 0 Wicket  
-
-📑 Status - South Africa need 113 runs in 48 balls
+📑 Status - India won by 106 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/14/2023, 11:35:34 PM
+📝 Last Updated on : 12/14/2023, 11:50:54 PM
 
 ***
 
