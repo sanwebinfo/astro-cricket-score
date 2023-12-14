@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs India, 3rd T20I"
+title: "Data Not Found"
 slug: "cricket-score-one"
-description: "South Africa vs India, 3rd T20I - Match starts at Dec 14, 15:00 GMT."
+description: "Data Not Found - Data Not Found."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs India, 3rd T20I
+✅ Data Not Found
 
-📑 Status - Match starts at Dec 14, 15:00 GMT
+📑 Status - Data Not Found
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/14/2023, 5:50:40 PM
+📝 Last Updated on : 12/14/2023, 8:38:19 PM
 
 ***
 
