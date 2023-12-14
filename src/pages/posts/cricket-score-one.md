@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 3rd T20I"
 slug: "cricket-score-one"
-description: "RSA - 4/1 (1.3) - South Africa need 198 runs."
+description: "RSA - 42/2 (5.3) - South Africa need 160 runs in 87 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 4/1 (1.3)  
+🔴 Live Score - RSA - 42/2 (5.3)  
 
-📊 Run Rate - CRR: 2.67  
+📊 Run Rate - CRR: 7.64  
 
-✊ Current Batsman - Reeza Hendricks* - 0(6)  
+✊ Current Batsman - Heinrich Klaasen* - 5(4)  
 
-✊ Current Bowler - Mukesh Kumar* - 0.3 Over 4 Run - 1 Wicket  
+✊ Current Bowler - Arshdeep Singh* - 1.3 Over 13 Run - 0 Wicket  
 
-📑 Status - South Africa need 198 runs
+📑 Status - South Africa need 160 runs in 87 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/14/2023, 10:43:26 PM
+📝 Last Updated on : 12/14/2023, 11:03:41 PM
 
 ***
 
