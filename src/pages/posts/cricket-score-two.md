@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "AUS - 346/5 (84) - Day 1: Stumps."
+description: "AUS - 476/7 (109.3) - Day 2: 1st Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 346/5 (84)  
+🔴 Live Score - AUS - 476/7 (109.3)  
 
-📊 Run Rate - CRR: 4.12  
+📊 Run Rate - CRR: 4.35  
 
-✊ Current Batsman - Alex Carey* - 14(32)  
+✊ Current Batsman - Pat Cummins* - 9(16)  
 
-✊ Current Bowler - Khurram Shahzad* - 17 Over 62 Run - 1 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 26.3 Over 96 Run - 1 Wicket  
 
-📑 Status - Day 1: Stumps
+📑 Status - Day 2: 1st Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/14/2023, 5:56:39 PM
+📝 Last Updated on : 12/15/2023, 9:52:21 AM
 
 ***
 
