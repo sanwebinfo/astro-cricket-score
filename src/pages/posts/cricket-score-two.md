@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "PAK - 82/1 (37.1) - Day 2: 3rd Session - Pakistan trail by 405 runs."
+description: "PAK - 132/2 (53) - Day 2: Stumps - Pakistan trail by 355 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 82/1 (37.1)  
+🔴 Live Score - PAK - 132/2 (53)  
 
-📊 Run Rate - CRR: 2.21  
+📊 Run Rate - CRR: 2.49  
 
-✊ Current Batsman - Imam-ul-Haq* - 23(98)  
+✊ Current Batsman - Imam-ul-Haq* - 38(136)  
 
-✊ Current Bowler - Josh Hazlewood* - 9.1 Over 14 Run - 0 Wicket  
+✊ Current Bowler - Travis Head* - 1 Over 3 Run - 0 Wicket  
 
-📑 Status - Day 2: 3rd Session - Pakistan trail by 405 runs
+📑 Status - Day 2: Stumps - Pakistan trail by 355 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/15/2023, 2:12:05 PM
+📝 Last Updated on : 12/15/2023, 3:52:51 PM
 
 ***
 
