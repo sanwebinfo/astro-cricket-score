@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "PAK - 203/6 (78) - Day 3: Lunch Break - Pakistan trail by 284 runs."
+description: "AUS - 487 & 52/2 (23.3) - Day 3: 3rd Session - Australia lead by 268 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 203/6 (78)  
+🔴 Live Score - AUS - 487 & 52/2 (23.3)  
 
-📊 Run Rate - CRR: 2.60  
+📊 Run Rate - CRR: 2.21  
 
-✊ Current Batsman - Saud Shakeel* - 12(16)  
+✊ Current Batsman - Steven Smith* - 25(46)  
 
-✊ Current Bowler - Mitchell Starc* - 19 Over 45 Run - 2 Wicket  
+✊ Current Bowler - Agha Salman* - 3.3 Over 9 Run - 0 Wicket  
 
-📑 Status - Day 3: Lunch Break - Pakistan trail by 284 runs
+📑 Status - Day 3: 3rd Session - Australia lead by 268 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/16/2023, 9:54:23 AM
+📝 Last Updated on : 12/16/2023, 2:39:50 PM
 
 ***
 
