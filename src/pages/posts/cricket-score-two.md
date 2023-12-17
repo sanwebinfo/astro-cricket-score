@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "AUS - 487 & 84/2 (33) - Day 3: Stumps - Australia lead by 300 runs."
+description: "AUS - 487 & 186/4 (58) - Day 4: Lunch Break - Australia lead by 402 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 487 & 84/2 (33)  
+🔴 Live Score - AUS - 487 & 186/4 (58)  
 
-📊 Run Rate - CRR: 2.55  
+📊 Run Rate - CRR: 3.21  
 
-✊ Current Batsman - Usman Khawaja* - 34(106)  
+✊ Current Batsman - Mitchell Marsh* - 42(50)  
 
-✊ Current Bowler - Shaheen Afridi* - 9 Over 19 Run - 0 Wicket  
+✊ Current Bowler - Shaheen Afridi* - 16 Over 49 Run - 0 Wicket  
 
-📑 Status - Day 3: Stumps - Australia lead by 300 runs
+📑 Status - Day 4: Lunch Break - Australia lead by 402 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/16/2023, 4:55:29 PM
+📝 Last Updated on : 12/17/2023, 10:20:28 AM
 
 ***
 
