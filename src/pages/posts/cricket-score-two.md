@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "PAK - 271 & 38/3 (10) - Day 4: 2nd Session - Pakistan need 412 runs."
+description: "PAK - 271 & 65/6 (22.1) - Day 4: 3rd Session - Pakistan need 385 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK - 271 & 38/3 (10)  
+🔴 Live Score - PAK - 271 & 65/6 (22.1)  
 
-📊 Run Rate - CRR: 3.80  
+📊 Run Rate - CRR: 2.93  
 
-✊ Current Batsman - Babar Azam* - 9(13)  
+✊ Current Batsman - Saud Shakeel* - 12(32)  
 
-✊ Current Bowler - Mitchell Starc* - 5 Over 19 Run - 2 Wicket  
+✊ Current Bowler - Mitchell Starc* - 7.1 Over 25 Run - 3 Wicket  
 
-📑 Status - Day 4: 2nd Session - Pakistan need 412 runs
+📑 Status - Day 4: 3rd Session - Pakistan need 385 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 12:04:15 PM
+📝 Last Updated on : 12/17/2023, 1:20:03 PM
 
 ***
 
