@@ -1,25 +1,19 @@
 ---
 title: "South Africa vs India, 1st ODI"
 slug: "cricket-score-one"
-description: "IND - 87/1 (13.4) - India need 30 runs."
+description: "South Africa vs India, 1st ODI - India won by 8 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND - 87/1 (13.4)  
+✅ South Africa vs India, 1st ODI
 
-📊 Run Rate - CRR: 6.37  
-
-✊ Current Batsman - Shreyas Iyer* - 39(39)  
-
-✊ Current Bowler - Keshav Maharaj* - 2.4 Over 18 Run - 0 Wicket  
-
-📑 Status - India need 30 runs
+📑 Status - India won by 8 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 5:28:58 PM
+📝 Last Updated on : 12/17/2023, 5:47:52 PM
 
 ***
 
