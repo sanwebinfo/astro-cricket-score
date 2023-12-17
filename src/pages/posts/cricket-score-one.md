@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 1st ODI"
 slug: "cricket-score-one"
-description: "RSA - 116 (27.3) - Innings Break."
+description: "IND - 44/1 (8) - India need 73 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 116 (27.3)  
+🔴 Live Score - IND - 44/1 (8)  
 
-📊 Run Rate - CRR: 4.22  
+📊 Run Rate - CRR: 5.50  
 
-✊ Current Batsman - Tabraiz Shamsi* - 11(8)  
+✊ Current Batsman - Sai Sudharsan* - 19(20)  
 
-✊ Current Bowler - Avesh Khan - 2.3 Over 27 Run - 1 Wicket  
+✊ Current Bowler - Nandre Burger* - 4 Over 18 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - India need 73 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 4:04:55 PM
+📝 Last Updated on : 12/17/2023, 5:08:25 PM
 
 ***
 
