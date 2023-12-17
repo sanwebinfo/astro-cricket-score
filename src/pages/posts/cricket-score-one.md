@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, 1st ODI"
 slug: "cricket-score-one"
-description: "RSA - 0/0 (0.2) - South Africa opt to bat."
+description: "RSA - 3/1 (1.4) - South Africa opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 0/0 (0.2)  
+🔴 Live Score - RSA - 3/1 (1.4)  
 
-📊 Run Rate - CRR: 0.00  
+📊 Run Rate - CRR: 1.80  
 
-✊ Current Batsman - Reeza Hendricks* - 0(2)  
+✊ Current Batsman - Rassie van der Dussen* - 0(0)  
 
-✊ Current Bowler - Mukesh Kumar* - 0.2 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Arshdeep Singh* - 0.4 Over 2 Run - 1 Wicket  
 
 📑 Status - South Africa opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/17/2023, 1:32:18 PM
+📝 Last Updated on : 12/17/2023, 1:43:21 PM
 
 ***
 
