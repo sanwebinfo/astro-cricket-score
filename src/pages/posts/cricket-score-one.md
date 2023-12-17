@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, 1st ODI"
 slug: "cricket-score-one"
-description: "RSA - 76/8 (18) - South Africa opt to bat."
+description: "RSA - 111/9 (26.4) - South Africa opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 76/8 (18)  
+🔴 Live Score - RSA - 111/9 (26.4)  
 
-📊 Run Rate - CRR: 4.22  
+📊 Run Rate - CRR: 4.16  
 
-✊ Current Batsman - Andile Phehlukwayo* - 13(23)  
+✊ Current Batsman - Tabraiz Shamsi* - 7(6)  
 
-✊ Current Bowler - Avesh Khan* - 5 Over 16 Run - 4 Wicket  
+✊ Current Bowler - Avesh Khan* - 7.4 Over 22 Run - 4 Wicket  
 
 📑 Status - South Africa opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 12/17/2023, 3:12:57 PM
+📝 Last Updated on : 12/17/2023, 3:54:41 PM
 
 ***
 
