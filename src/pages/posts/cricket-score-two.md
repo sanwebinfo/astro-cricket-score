@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 1st Test"
 slug: "cricket-score-two"
-description: "AUS - 487 & 186/4 (58) - Day 4: Lunch Break - Australia lead by 402 runs."
+description: "PAK - 271 & 38/3 (10) - Day 4: 2nd Session - Pakistan need 412 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS - 487 & 186/4 (58)  
+🔴 Live Score - PAK - 271 & 38/3 (10)  
 
-📊 Run Rate - CRR: 3.21  
+📊 Run Rate - CRR: 3.80  
 
-✊ Current Batsman - Mitchell Marsh* - 42(50)  
+✊ Current Batsman - Babar Azam* - 9(13)  
 
-✊ Current Bowler - Shaheen Afridi* - 16 Over 49 Run - 0 Wicket  
+✊ Current Bowler - Mitchell Starc* - 5 Over 19 Run - 2 Wicket  
 
-📑 Status - Day 4: Lunch Break - Australia lead by 402 runs
+📑 Status - Day 4: 2nd Session - Pakistan need 412 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 10:20:28 AM
+📝 Last Updated on : 12/17/2023, 12:04:15 PM
 
 ***
 
