@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 2nd ODI"
 slug: "cricket-score-one"
-description: "IND - 134/3 (31.1) - South Africa opt to bowl."
+description: "IND - 211 (46.2) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND - 134/3 (31.1)  
+🔴 Live Score - IND - 211 (46.2)  
 
-📊 Run Rate - CRR: 4.30  
+📊 Run Rate - CRR: 4.55  
 
-✊ Current Batsman - Sanju Samson* - 11(19)  
+✊ Current Batsman - Mukesh Kumar* - 4(9)  
 
-✊ Current Bowler - Beuran Hendricks* - 6.1 Over 24 Run - 0 Wicket  
+✊ Current Bowler - Lizaad Williams - 9.2 Over 49 Run - 2 Wicket  
 
-📑 Status - South Africa opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/19/2023, 6:45:22 PM
+📝 Last Updated on : 12/19/2023, 8:10:52 PM
 
 ***
 
