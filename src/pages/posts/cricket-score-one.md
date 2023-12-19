@@ -1,19 +1,25 @@
 ---
-title: "South Africa vs India, 1st ODI"
+title: "South Africa vs India, 2nd ODI"
 slug: "cricket-score-one"
-description: "South Africa vs India, 1st ODI - India won by 8 wkts."
+description: "IND - 98/2 (23.1) - South Africa opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ South Africa vs India, 1st ODI
+🔴 Live Score - IND - 98/2 (23.1)  
 
-📑 Status - India won by 8 wkts
+📊 Run Rate - CRR: 4.23  
+
+✊ Current Batsman - KL Rahul* - 24(33)  
+
+✊ Current Bowler - Aiden Markram* - 0.1 Over 0 Run - 0 Wicket  
+
+📑 Status - South Africa opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 5:47:52 PM
+📝 Last Updated on : 12/19/2023, 6:14:47 PM
 
 ***
 
