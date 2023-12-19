@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 2nd ODI"
 slug: "cricket-score-one"
-description: "RSA - 129/0 (27) - South Africa need 83 runs."
+description: "RSA - 165/1 (32.5) - South Africa need 47 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA - 129/0 (27)  
+🔴 Live Score - RSA - 165/1 (32.5)  
 
-📊 Run Rate - CRR: 4.78  
+📊 Run Rate - CRR: 5.03  
 
-✊ Current Batsman - Tony de Zorzi* - 74(83)  
+✊ Current Batsman - Rassie van der Dussen* - 20(20)  
 
-✊ Current Bowler - Arshdeep Singh* - 6 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Avesh Khan* - 7.5 Over 43 Run - 0 Wicket  
 
-📑 Status - South Africa need 83 runs
+📑 Status - South Africa need 47 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/19/2023, 10:22:11 PM
+📝 Last Updated on : 12/19/2023, 10:59:37 PM
 
 ***
 
