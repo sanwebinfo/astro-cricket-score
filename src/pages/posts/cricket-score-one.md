@@ -1,19 +1,25 @@
 ---
-title: "South Africa vs India, 2nd ODI"
+title: ""
 slug: "cricket-score-one"
-description: "South Africa vs India, 2nd ODI - South Africa won by 8 wkts."
+description: " - ."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ South Africa vs India, 2nd ODI
+🔴 Live Score -   
 
-📑 Status - South Africa won by 8 wkts
+📊 Run Rate -   
+
+✊ Current Batsman -  -   
+
+✊ Current Bowler -  -  Over  Run -  Wicket  
+
+📑 Status - 
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/19/2023, 11:28:42 PM
+📝 Last Updated on : 12/21/2023, 7:56:44 PM
 
 ***
 
