@@ -1,25 +1,19 @@
 ---
 title: "South Africa vs India, 3rd ODI - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 193/7 (38.1) - South Africa need 104 runs in 71 balls."
+description: "South Africa vs India, 3rd ODI - Live Cricket Score - India won by 78 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RSA 193/7 (38.1)  
+✅ South Africa vs India, 3rd ODI - Live Cricket Score
 
-📊 Run Rate - 5.06  
-
-✊ Current Batsman - Beuran Hendricks - 0(0)  
-
-✊ Current Bowler - Axar Patel - 8.1 Over 44 Run - 1 Wicket  
-
-📑 Status - South Africa need 104 runs in 71 balls
+📑 Status - India won by 78 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/21/2023, 11:39:12 PM
+📝 Last Updated on : 12/22/2023, 12:22:15 AM
 
 ***
 
