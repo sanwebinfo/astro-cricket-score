@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Pakistan, 1st Test"
+title: "Australia vs Pakistan, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs Pakistan, 1st Test - Australia won by 360 runs."
+description: "Australia vs Pakistan, 2nd Test - Live Cricket Score - Date: 2023-12-26 - Time: 05:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Pakistan, 1st Test
+✅ Australia vs Pakistan, 2nd Test - Live Cricket Score
 
-📑 Status - Australia won by 360 runs
+📑 Status - Date: 2023-12-26 - Time: 05:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/17/2023, 2:06:39 PM
+📝 Last Updated on : 12/25/2023, 4:07:49 PM
 
 ***
 
