@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs India, 3rd ODI - Live Cricket Score"
+title: "South Africa vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs India, 3rd ODI - Live Cricket Score - India won by 78 runs."
+description: "South Africa vs India, 1st Test - Live Cricket Score - Date: 2023-12-26 - Time: 01:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs India, 3rd ODI - Live Cricket Score
+✅ South Africa vs India, 1st Test - Live Cricket Score
 
-📑 Status - India won by 78 runs
+📑 Status - Date: 2023-12-26 - Time: 01:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/22/2023, 12:22:15 AM
+📝 Last Updated on : 12/25/2023, 4:02:17 PM
 
 ***
 
