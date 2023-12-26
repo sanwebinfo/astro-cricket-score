@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 174/7 (49.2) - Day 1: 2nd Session."
+description: "IND 201/8 (57.4) - Day 1: 3rd Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 174/7 (49.2)  
+🔴 Live Score - IND 201/8 (57.4)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: 3.49  
 
-✊ Current Batsman - Jasprit Bumrah - 0(8)  
+✊ Current Batsman - KL Rahul - 63(98)  
 
-✊ Current Bowler - Nandre Burger - 11.2 Over 38 Run - 2 Wicket  
+✊ Current Bowler - Gerald Coetzee - 11.4 Over 52 Run - 0 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: 3rd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/26/2023, 6:39:50 PM
+📝 Last Updated on : 12/26/2023, 7:37:52 PM
 
 ***
 
