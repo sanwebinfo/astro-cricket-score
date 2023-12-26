@@ -1,19 +1,25 @@
 ---
 title: "Australia vs Pakistan, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs Pakistan, 2nd Test - Live Cricket Score - Date: 2023-12-26 - Time: 05:00:00 AM (Indian Local Time)."
+description: "AUS 42/0 (14.5) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Australia vs Pakistan, 2nd Test - Live Cricket Score
+🔴 Live Score - AUS 42/0 (14.5)  
 
-📑 Status - Date: 2023-12-26 - Time: 05:00:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 2.83  
+
+✊ Current Batsman - Usman Khawaja - 20(46)  
+
+✊ Current Bowler - Aamer Jamal - 2.5 Over 12 Run - 0 Wicket  
+
+📑 Status - Day 1: 1st Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/25/2023, 4:07:49 PM
+📝 Last Updated on : 12/26/2023, 6:07:42 AM
 
 ***
 
