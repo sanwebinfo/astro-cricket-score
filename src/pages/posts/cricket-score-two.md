@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 114/2 (42.4) - Day 1: Rain stops play."
+description: "AUS 187/3 (66) - Day 1: Stumps."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 114/2 (42.4)  
+🔴 Live Score - AUS 187/3 (66)  
 
-📊 Run Rate - CRR: 2.67  
+📊 Run Rate - CRR: 2.83  
 
-✊ Current Batsman - Marnus Labuschagne - 14(47)  
+✊ Current Batsman - Marnus Labuschagne - 44(120)  
 
-✊ Current Bowler - Mir Hamza - 8.4 Over 16 Run - 0 Wicket  
+✊ Current Bowler - Agha Salman - 3 Over 5 Run - 1 Wicket  
 
-📑 Status - Day 1: Rain stops play
+📑 Status - Day 1: Stumps
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/26/2023, 9:16:21 AM
+📝 Last Updated on : 12/26/2023, 1:43:29 PM
 
 ***
 
