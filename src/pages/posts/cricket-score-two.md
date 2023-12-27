@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 275/6 (85.4) - Day 2: 1st Session."
+description: "PAK 63/1 (22) - Day 2: 2nd Session - Pakistan trail by 255 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 275/6 (85.4)  
+🔴 Live Score - PAK 63/1 (22)  
 
-📊 Run Rate - CRR: 3.21  
+📊 Run Rate - CRR: 2.86  
 
-✊ Current Batsman - Mitchell Starc - 9(10)  
+✊ Current Batsman - Shan Masood - 13(19)  
 
-✊ Current Bowler - Mir Hamza - 19.4 Over 48 Run - 0 Wicket  
+✊ Current Bowler - Mitchell Starc - 5 Over 16 Run - 0 Wicket  
 
-📑 Status - Day 2: 1st Session
+📑 Status - Day 2: 2nd Session - Pakistan trail by 255 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/27/2023, 6:13:32 AM
+📝 Last Updated on : 12/27/2023, 9:35:19 AM
 
 ***
 
