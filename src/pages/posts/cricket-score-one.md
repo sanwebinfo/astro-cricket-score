@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 201/3 (51.1) - Day 2: 3rd Session - South Africa trail by 44 runs."
+description: "RSA 256/5 (65.4) - Day 2: 3rd Session - South Africa lead by 11 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA 201/3 (51.1)  
+🔴 Live Score - RSA 256/5 (65.4)  
 
-📊 Run Rate - CRR: 3.93  
+📊 Run Rate - CRR: 3.9  
 
-✊ Current Batsman - Dean Elgar - 117(171)  
+✊ Current Batsman - Dean Elgar - 140(209)  
 
-✊ Current Bowler - Jasprit Bumrah - 12.1 Over 39 Run - 2 Wicket  
+✊ Current Bowler - Prasidh Krishna - 14.4 Over 61 Run - 1 Wicket  
 
-📑 Status - Day 2: 3rd Session - South Africa trail by 44 runs
+📑 Status - Day 2: 3rd Session - South Africa lead by 11 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/27/2023, 7:41:26 PM
+📝 Last Updated on : 12/27/2023, 9:01:20 PM
 
 ***
 
