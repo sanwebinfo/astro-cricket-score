@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 227/8 (63.3) - Day 2: 1st Session."
+description: "RSA 49/1 (16) - Day 2: Lunch Break - South Africa trail by 196 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 227/8 (63.3)  
+🔴 Live Score - RSA 49/1 (16)  
 
-📊 Run Rate - CRR: 3.57  
+📊 Run Rate - CRR: 3.06  
 
-✊ Current Batsman - KL Rahul - 84(121)  
+✊ Current Batsman - Dean Elgar - 29(49)  
 
-✊ Current Bowler - Gerald Coetzee - 14.3 Over 67 Run - 0 Wicket  
+✊ Current Bowler - Ravichandran Ashwin - 1 Over 0 Run - 0 Wicket  
 
-📑 Status - Day 2: 1st Session
+📑 Status - Day 2: Lunch Break - South Africa trail by 196 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/27/2023, 2:20:28 PM
+📝 Last Updated on : 12/27/2023, 4:21:46 PM
 
 ***
 
