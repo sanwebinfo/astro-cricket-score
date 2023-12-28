@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 245 & 5/1 (4.1) - Day 3: 2nd Session - India trail by 158 runs."
+description: "IND 245 & 19/2 (8.2) - Day 3: 2nd Session - India trail by 144 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 245 & 5/1 (4.1)  
+🔴 Live Score - IND 245 & 19/2 (8.2)  
 
-📊 Run Rate - CRR: 1.2  
+📊 Run Rate - CRR: 2.28  
 
-✊ Current Batsman - Shubman Gill - 0(2)  
+✊ Current Batsman - Virat Kohli - 0(6)  
 
-✊ Current Bowler - Kagiso Rabada - 2.1 Over 1 Run - 1 Wicket  
+✊ Current Bowler - Kagiso Rabada - 4.2 Over 14 Run - 1 Wicket  
 
-📑 Status - Day 3: 2nd Session - India trail by 158 runs
+📑 Status - Day 3: 2nd Session - India trail by 144 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/28/2023, 5:47:29 PM
+📝 Last Updated on : 12/28/2023, 6:07:08 PM
 
 ***
 
