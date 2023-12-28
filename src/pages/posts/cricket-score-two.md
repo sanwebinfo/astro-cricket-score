@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "PAK 194/6 (55) - Day 2: Stumps - Pakistan trail by 124 runs."
+description: "AUS 318 & 1/1 (0.4) - Day 3: 1st Session - Australia lead by 55 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK 194/6 (55)  
+🔴 Live Score - AUS 318 & 1/1 (0.4)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Mohammad Rizwan - 29(34)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Mitchell Starc - 13 Over 50 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: Stumps - Pakistan trail by 124 runs
+📑 Status - Day 3: 1st Session - Australia lead by 55 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/27/2023, 2:45:42 PM
+📝 Last Updated on : 12/28/2023, 7:13:43 AM
 
 ***
 
