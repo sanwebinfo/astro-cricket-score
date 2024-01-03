@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 3/0 (2.1) - Day 1: 1st Session."
+description: "RSA 34/5 (15.2) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA 3/0 (2.1)  
+🔴 Live Score - RSA 34/5 (15.2)  
 
-📊 Run Rate - CRR: 1.38  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Dean Elgar - 1(5)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Jasprit Bumrah - 1.1 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
 📑 Status - Day 1: 1st Session
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 1/3/2024, 1:40:56 PM
+📝 Last Updated on : 1/3/2024, 2:50:26 PM
 
 ***
 
