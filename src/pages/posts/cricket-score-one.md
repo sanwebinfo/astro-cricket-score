@@ -1,25 +1,25 @@
 ---
 title: "South Africa vs India, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 46/8 (20) - Day 1: 1st Session."
+description: "RSA 55 (23.2) - Day 1: Lunch Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA 46/8 (20)  
+🔴 Live Score - RSA 55 (23.2)  
 
-📊 Run Rate - CRR: 2.3  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Kagiso Rabada - 0(4)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Prasidh Krishna - 4 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 1: 1st Session
+📑 Status - Day 1: Lunch Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/3/2024, 3:21:00 PM
+📝 Last Updated on : 1/3/2024, 3:42:46 PM
 
 ***
 
