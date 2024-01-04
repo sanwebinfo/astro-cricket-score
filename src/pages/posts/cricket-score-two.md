@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 113/2 (45) - Day 2: 2nd Session - Australia trail by 200 runs."
+description: "AUS 116/2 (47) - Day 2: Play stopped due to bad light - Australia trail by 197 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 113/2 (45)  
+🔴 Live Score - AUS 116/2 (47)  
 
-📊 Run Rate - CRR: 2.51  
+📊 Run Rate - CRR: 2.47  
 
-✊ Current Batsman - Marnus Labuschagne - 22(57)  
+✊ Current Batsman - Steven Smith - 6(7)  
 
-✊ Current Bowler - Aamer Jamal - 7 Over 26 Run - 1 Wicket  
+✊ Current Bowler - Aamer Jamal - 8 Over 26 Run - 1 Wicket  
 
-📑 Status - Day 2: 2nd Session - Australia trail by 200 runs
+📑 Status - Day 2: Play stopped due to bad light - Australia trail by 197 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/4/2024, 8:43:05 AM
+📝 Last Updated on : 1/4/2024, 9:07:39 AM
 
 ***
 
