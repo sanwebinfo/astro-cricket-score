@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 70/0 (23.5) - Day 2: 1st Session - Australia trail by 243 runs."
+description: "AUS 113/2 (45) - Day 2: 2nd Session - Australia trail by 200 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 70/0 (23.5)  
+🔴 Live Score - AUS 113/2 (45)  
 
-📊 Run Rate - CRR: 2.94  
+📊 Run Rate - CRR: 2.51  
 
-✊ Current Batsman - Usman Khawaja - 30(80)  
+✊ Current Batsman - Marnus Labuschagne - 22(57)  
 
-✊ Current Bowler - Hasan Ali - 5.5 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Aamer Jamal - 7 Over 26 Run - 1 Wicket  
 
-📑 Status - Day 2: 1st Session - Australia trail by 243 runs
+📑 Status - Day 2: 2nd Session - Australia trail by 200 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/4/2024, 6:37:34 AM
+📝 Last Updated on : 1/4/2024, 8:43:05 AM
 
 ***
 
