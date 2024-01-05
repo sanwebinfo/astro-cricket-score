@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Pakistan, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "PAK 313 & 7/2 (3) - Day 3: 3rd Session - Pakistan lead by 21 runs."
+description: "PAK 313 & 58/2 (17.3) - Day 3: 3rd Session - Pakistan lead by 72 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PAK 313 & 7/2 (3)  
+🔴 Live Score - PAK 313 & 58/2 (17.3)  
 
-📊 Run Rate - CRR: 2.33  
+📊 Run Rate - CRR: 3.31  
 
-✊ Current Batsman - Babar Azam - 0(4)  
+✊ Current Batsman - Saim Ayub - 33(52)  
 
-✊ Current Bowler - Josh Hazlewood - 1 Over 1 Run - 1 Wicket  
+✊ Current Bowler - Nathan Lyon - 4.3 Over 13 Run - 0 Wicket  
 
-📑 Status - Day 3: 3rd Session - Pakistan lead by 21 runs
+📑 Status - Day 3: 3rd Session - Pakistan lead by 72 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/5/2024, 10:48:45 AM
+📝 Last Updated on : 1/5/2024, 11:54:21 AM
 
 ***
 
