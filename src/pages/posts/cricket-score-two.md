@@ -1,25 +1,19 @@
 ---
 title: "Australia vs Pakistan, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "PAK 313 & 113/9 (41.2) - Day 4: 1st Session - Pakistan lead by 127 runs."
+description: "Australia vs Pakistan, 3rd Test - Live Cricket Score - Australia won by 8 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PAK 313 & 113/9 (41.2)  
+✅ Australia vs Pakistan, 3rd Test - Live Cricket Score
 
-📊 Run Rate - CRR: 2.73  
-
-✊ Current Batsman - Hasan Ali - 3(5)  
-
-✊ Current Bowler - Nathan Lyon - 16.2 Over 35 Run - 2 Wicket  
-
-📑 Status - Day 4: 1st Session - Pakistan lead by 127 runs
+📑 Status - Australia won by 8 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/6/2024, 5:37:14 AM
+📝 Last Updated on : 1/6/2024, 9:12:39 AM
 
 ***
 
