@@ -1,25 +1,19 @@
 ---
 title: "India vs Afghanistan, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 72/2 (8.3) - India need 87 runs in 69 balls."
+description: "India vs Afghanistan, 1st T20I - Live Cricket Score - India won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 72/2 (8.3)  
+✅ India vs Afghanistan, 1st T20I - Live Cricket Score
 
-📊 Run Rate - CRR: 8.47  
-
-✊ Current Batsman - Tilak Varma - 26(21)  
-
-✊ Current Bowler - Azmatullah Omarzai - 0.3 Over 6 Run - 0 Wicket  
-
-📑 Status - India need 87 runs in 69 balls
+📑 Status - India won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/11/2024, 9:21:45 PM
+📝 Last Updated on : 1/11/2024, 10:10:52 PM
 
 ***
 
