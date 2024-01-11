@@ -1,25 +1,25 @@
 ---
 title: "India vs Afghanistan, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AFG 148/5 (19.3) - India opt to bowl."
+description: "IND 6/1 (1.2) - India need 153 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG 148/5 (19.3)  
+🔴 Live Score - IND 6/1 (1.2)  
 
-📊 Run Rate - CRR: 7.59  
+📊 Run Rate - CRR: 4.5  
 
-✊ Current Batsman - Karim Janat - 8(4)  
+✊ Current Batsman - Shubman Gill - 4(3)  
 
-✊ Current Bowler - Arshdeep Singh - 3.3 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Mujeeb Ur Rahman - 0.2 Over 1 Run - 0 Wicket  
 
-📑 Status - India opt to bowl
+📑 Status - India need 153 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/11/2024, 8:34:08 PM
+📝 Last Updated on : 1/11/2024, 8:53:18 PM
 
 ***
 
