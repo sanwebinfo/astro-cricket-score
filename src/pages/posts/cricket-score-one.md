@@ -1,25 +1,19 @@
 ---
 title: "India vs Afghanistan, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 75/2 (7) - India need 98 runs in 78 balls."
+description: "India vs Afghanistan, 2nd T20I - Live Cricket Score - India won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 75/2 (7)  
+✅ India vs Afghanistan, 2nd T20I - Live Cricket Score
 
-📊 Run Rate - CRR: 10.71  
-
-✊ Current Batsman - Shivam Dube - 5(5)  
-
-✊ Current Bowler - Naveen-ul-Haq - 2 Over 18 Run - 1 Wicket  
-
-📑 Status - India need 98 runs in 78 balls
+📑 Status - India won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/14/2024, 9:21:14 PM
+📝 Last Updated on : 1/14/2024, 10:04:57 PM
 
 ***
 
