@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Pakistan, 3rd Test - Live Cricket Score"
+title: "Sri Lanka vs Zimbabwe, 1st T20I - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs Pakistan, 3rd Test - Live Cricket Score - Australia won by 8 wkts."
+description: "Sri Lanka vs Zimbabwe, 1st T20I - Live Cricket Score - Date: 2024-01-14 - Time: 07:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Pakistan, 3rd Test - Live Cricket Score
+✅ Sri Lanka vs Zimbabwe, 1st T20I - Live Cricket Score
 
-📑 Status - Australia won by 8 wkts
+📑 Status - Date: 2024-01-14 - Time: 07:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/6/2024, 9:12:39 AM
+📝 Last Updated on : 1/14/2024, 5:49:52 PM
 
 ***
 
