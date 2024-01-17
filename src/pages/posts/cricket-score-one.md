@@ -1,25 +1,25 @@
 ---
 title: "India vs Afghanistan, 3rd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 212/4 (20) - Innings Break."
+description: "AFG 85/0 (10) - Afghanistan need 128 runs in 60 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 212/4 (20)  
+🔴 Live Score - AFG 85/0 (10)  
 
-📊 Run Rate - CRR: 10.6  
+📊 Run Rate - CRR: 8.5  
 
-✊ Current Batsman - Rohit Sharma - 121(69)  
+✊ Current Batsman - Ibrahim Zadran - 38(32)  
 
-✊ Current Bowler - Karim Janat - 3 Over 54 Run - 0 Wicket  
+✊ Current Bowler - Kuldeep Yadav - 1 Over 6 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Afghanistan need 128 runs in 60 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/17/2024, 8:54:08 PM
+📝 Last Updated on : 1/17/2024, 9:43:51 PM
 
 ***
 
