@@ -12,5 +12,7 @@
   "devDependencies": {
     "astro": "4.1.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "astro-font": "^0.0.72"
+  }
 }
