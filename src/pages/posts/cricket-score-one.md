@@ -1,25 +1,25 @@
 ---
 title: "India vs Afghanistan, 3rd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 154/4 (18) - India opt to bat."
+description: "IND 212/4 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 154/4 (18)  
+🔴 Live Score - IND 212/4 (20)  
 
-📊 Run Rate - CRR: 8.56  
+📊 Run Rate - CRR: 10.6  
 
-✊ Current Batsman - Rinku Singh - 44(34)  
+✊ Current Batsman - Rohit Sharma - 121(69)  
 
-✊ Current Bowler - Karim Janat - 2 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Karim Janat - 3 Over 54 Run - 0 Wicket  
 
-📑 Status - India opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/17/2024, 8:35:54 PM
+📝 Last Updated on : 1/17/2024, 8:54:08 PM
 
 ***
 
