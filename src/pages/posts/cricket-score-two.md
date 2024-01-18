@@ -1,25 +1,25 @@
 ---
 title: "Australia vs West Indies, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 59/2 (21) - Day 1: Stumps - Australia trail by 129 runs."
+description: "WI 188 & 0/1 (1.3) - Day 2: 3rd Session - West Indies trail by 95 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 59/2 (21)  
+🔴 Live Score - WI 188 & 0/1 (1.3)  
 
-📊 Run Rate - CRR: 2.81  
+📊 Run Rate - CRR: Data Not Found  
 
-✊ Current Batsman - Usman Khawaja - 30(54)  
+✊ Current Batsman - Kirk McKenzie - 0(2)  
 
-✊ Current Bowler - Gudakesh Motie - 1 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Josh Hazlewood - 0.3 Over 0 Run - 1 Wicket  
 
-📑 Status - Day 1: Stumps - Australia trail by 129 runs
+📑 Status - Day 2: 3rd Session - West Indies trail by 95 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/17/2024, 8:56:32 PM
+📝 Last Updated on : 1/18/2024, 10:47:56 AM
 
 ***
 
