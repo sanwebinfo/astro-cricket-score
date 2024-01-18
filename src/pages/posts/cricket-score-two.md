@@ -1,25 +1,25 @@
 ---
 title: "Australia vs West Indies, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "WI 188 & 0/1 (1.3) - Day 2: 3rd Session - West Indies trail by 95 runs."
+description: "WI 188 & 73/6 (22.5) - Day 2: Stumps - West Indies trail by 22 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - WI 188 & 0/1 (1.3)  
+🔴 Live Score - WI 188 & 73/6 (22.5)  
 
-📊 Run Rate - CRR: Data Not Found  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Kirk McKenzie - 0(2)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Josh Hazlewood - 0.3 Over 0 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: 3rd Session - West Indies trail by 95 runs
+📑 Status - Day 2: Stumps - West Indies trail by 22 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/18/2024, 10:47:56 AM
+📝 Last Updated on : 1/18/2024, 9:13:52 PM
 
 ***
 
