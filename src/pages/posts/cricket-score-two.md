@@ -1,19 +1,19 @@
 ---
-title: "Australia vs West Indies, 1st Test - Live Cricket Score"
+title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs West Indies, 1st Test - Live Cricket Score - Australia won by 10 wkts."
+description: "Australia vs West Indies, 2nd Test - Live Cricket Score - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs West Indies, 1st Test - Live Cricket Score
+✅ Australia vs West Indies, 2nd Test - Live Cricket Score
 
-📑 Status - Australia won by 10 wkts
+📑 Status - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/19/2024, 9:30:35 AM
+📝 Last Updated on : 1/21/2024, 7:33:02 PM
 
 ***
 
