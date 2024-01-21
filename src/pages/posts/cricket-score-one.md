@@ -1,19 +1,19 @@
 ---
-title: "India vs Afghanistan, 3rd T20I - Live Cricket Score"
+title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Afghanistan, 3rd T20I - Live Cricket Score - Match tied and Super Over tied (India won the 2nd Super Over)."
+description: "India vs England, 1st Test - Live Cricket Score - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Afghanistan, 3rd T20I - Live Cricket Score
+✅ India vs England, 1st Test - Live Cricket Score
 
-📑 Status - Match tied and Super Over tied (India won the 2nd Super Over)
+📑 Status - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/18/2024, 10:44:30 AM
+📝 Last Updated on : 1/21/2024, 7:30:44 PM
 
 ***
 
