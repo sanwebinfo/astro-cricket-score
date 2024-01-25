@@ -1,19 +1,25 @@
 ---
 title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs West Indies, 2nd Test - Live Cricket Score - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)."
+description: "WI 104/5 (35) - Day 1: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Australia vs West Indies, 2nd Test - Live Cricket Score
+🔴 Live Score - WI 104/5 (35)  
 
-📑 Status - Date: 2024-01-25 - Time: 09:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 2.97  
+
+✊ Current Batsman - Joshua Da Silva - 21(27)  
+
+✊ Current Bowler - Nathan Lyon - 5 Over 20 Run - 0 Wicket  
+
+📑 Status - Day 1: 2nd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/21/2024, 7:33:02 PM
+📝 Last Updated on : 1/25/2024, 12:56:19 PM
 
 ***
 
