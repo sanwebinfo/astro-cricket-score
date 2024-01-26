@@ -1,25 +1,25 @@
 ---
 title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "WI 311 & 9/0 (6) - Day 2: 3rd Session - West Indies lead by 31 runs."
+description: "WI 311 & 13/1 (7.3) - Day 2: Stumps - West Indies lead by 35 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - WI 311 & 9/0 (6)  
+🔴 Live Score - WI 311 & 13/1 (7.3)  
 
-📊 Run Rate - CRR: 1.5  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Kraigg Brathwaite - 3(14)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Mitchell Starc - 3 Over 6 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: 3rd Session - West Indies lead by 31 runs
+📑 Status - Day 2: Stumps - West Indies lead by 35 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/26/2024, 4:55:23 PM
+📝 Last Updated on : 1/26/2024, 5:41:20 PM
 
 ***
 
