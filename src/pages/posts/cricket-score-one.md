@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 119/1 (23) - Day 1: Stumps - India trail by 127 runs."
+description: "IND 149/2 (31) - Day 2: 1st Session - India trail by 97 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 119/1 (23)  
+🔴 Live Score - IND 149/2 (31)  
 
-📊 Run Rate - CRR: 5.17  
+📊 Run Rate - CRR: 4.81  
 
-✊ Current Batsman - Yashasvi Jaiswal - 76(70)  
+✊ Current Batsman - KL Rahul - 21(30)  
 
-✊ Current Bowler - Rehan Ahmed - 3 Over 22 Run - 0 Wicket  
+✊ Current Bowler - Jack Leach - 9 Over 24 Run - 1 Wicket  
 
-📑 Status - Day 1: Stumps - India trail by 127 runs
+📑 Status - Day 2: 1st Session - India trail by 97 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/25/2024, 5:11:19 PM
+📝 Last Updated on : 1/26/2024, 10:04:53 AM
 
 ***
 
