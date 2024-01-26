@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 222/3 (51) - Day 2: 2nd Session - India trail by 24 runs."
+description: "IND 268/4 (59.2) - Day 2: 2nd Session - India lead by 22 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 222/3 (51)  
+🔴 Live Score - IND 268/4 (59.2)  
 
-📊 Run Rate - CRR: 4.35  
+📊 Run Rate - CRR: 4.52  
 
-✊ Current Batsman - Shreyas Iyer - 34(57)  
+✊ Current Batsman - Ravindra Jadeja - 17(20)  
 
-✊ Current Bowler - Joe Root - 6 Over 26 Run - 1 Wicket  
+✊ Current Bowler - Jack Leach - 13.2 Over 41 Run - 1 Wicket  
 
-📑 Status - Day 2: 2nd Session - India trail by 24 runs
+📑 Status - Day 2: 2nd Session - India lead by 22 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/26/2024, 12:17:09 PM
+📝 Last Updated on : 1/26/2024, 12:57:07 PM
 
 ***
 
