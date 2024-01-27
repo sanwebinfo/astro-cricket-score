@@ -1,25 +1,25 @@
 ---
 title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "WI 311 & 13/1 (7.3) - Day 2: Stumps - West Indies lead by 35 runs."
+description: "WI 311 & 86/3 (25.4) - Day 3: 1st Session - West Indies lead by 108 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - WI 311 & 13/1 (7.3)  
+🔴 Live Score - WI 311 & 86/3 (25.4)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.35  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Kavem Hodge - 0(2)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Nathan Lyon - 0.4 Over 1 Run - 1 Wicket  
 
-📑 Status - Day 2: Stumps - West Indies lead by 35 runs
+📑 Status - Day 3: 1st Session - West Indies lead by 108 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/26/2024, 5:41:20 PM
+📝 Last Updated on : 1/27/2024, 11:03:48 AM
 
 ***
 
