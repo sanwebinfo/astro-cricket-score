@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 246 & 10/0 (3.3) - Day 3: 1st Session - England trail by 180 runs."
+description: "ENG 246 & 120/3 (23) - Day 3: 2nd Session - England trail by 70 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 246 & 10/0 (3.3)  
+🔴 Live Score - ENG 246 & 120/3 (23)  
 
-📊 Run Rate - CRR: 2.86  
+📊 Run Rate - CRR: 5.22  
 
-✊ Current Batsman - Ben Duckett - 1(6)  
+✊ Current Batsman - Jonny Bairstow - 2(9)  
 
-✊ Current Bowler - Ravichandran Ashwin - 1.3 Over 6 Run - 0 Wicket  
+✊ Current Bowler - Ravindra Jadeja - 1 Over 5 Run - 0 Wicket  
 
-📑 Status - Day 3: 1st Session - England trail by 180 runs
+📑 Status - Day 3: 2nd Session - England trail by 70 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/27/2024, 10:49:18 AM
+📝 Last Updated on : 1/27/2024, 12:59:51 PM
 
 ***
 
