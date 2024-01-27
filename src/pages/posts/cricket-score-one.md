@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 436/9 (120) - Day 3: 1st Session - India lead by 190 runs."
+description: "ENG 246 & 10/0 (3.3) - Day 3: 1st Session - England trail by 180 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 436/9 (120)  
+🔴 Live Score - ENG 246 & 10/0 (3.3)  
 
-📊 Run Rate - CRR: 3.63  
+📊 Run Rate - CRR: 2.86  
 
-✊ Current Batsman - Axar Patel - 44(94)  
+✊ Current Batsman - Ben Duckett - 1(6)  
 
-✊ Current Bowler - Jack Leach - 26 Over 63 Run - 1 Wicket  
+✊ Current Bowler - Ravichandran Ashwin - 1.3 Over 6 Run - 0 Wicket  
 
-📑 Status - Day 3: 1st Session - India lead by 190 runs
+📑 Status - Day 3: 1st Session - England trail by 180 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/27/2024, 10:20:27 AM
+📝 Last Updated on : 1/27/2024, 10:49:18 AM
 
 ***
 
