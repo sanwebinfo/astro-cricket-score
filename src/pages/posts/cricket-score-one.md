@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 246 & 316/6 (77) - Day 3: Stumps - England lead by 126 runs."
+description: "IND 436 & 44/2 (13.1) - Day 4: 2nd Session - India need 187 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 246 & 316/6 (77)  
+🔴 Live Score - IND 436 & 44/2 (13.1)  
 
-📊 Run Rate - CRR: 4.1  
+📊 Run Rate - CRR: 3.34  
 
-✊ Current Batsman - Rehan Ahmed - 16(31)  
+✊ Current Batsman - KL Rahul - 0(1)  
 
-✊ Current Bowler - Ravichandran Ashwin - 21 Over 93 Run - 2 Wicket  
+✊ Current Bowler - Tom Hartley - 5.1 Over 12 Run - 2 Wicket  
 
-📑 Status - Day 3: Stumps - England lead by 126 runs
+📑 Status - Day 4: 2nd Session - India need 187 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/27/2024, 5:16:37 PM
+📝 Last Updated on : 1/28/2024, 12:59:22 PM
 
 ***
 
