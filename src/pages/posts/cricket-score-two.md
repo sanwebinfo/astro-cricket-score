@@ -1,25 +1,25 @@
 ---
 title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 289/9 & 60/2 (19) - Day 3: Stumps - Australia need 156 runs."
+description: "AUS 289/9 & 206/9 (50.3) - Day 4: 2nd Session - Australia need 10 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 289/9 & 60/2 (19)  
+🔴 Live Score - AUS 289/9 & 206/9 (50.3)  
 
-📊 Run Rate - CRR: 3.16  
+📊 Run Rate - CRR: 4.08  
 
-✊ Current Batsman - Steven Smith - 33(56)  
+✊ Current Batsman - Steven Smith - 90(145)  
 
-✊ Current Bowler - Justin Greaves - 7 Over 23 Run - 1 Wicket  
+✊ Current Bowler - Shamar Joseph - 11.3 Over 67 Run - 6 Wicket  
 
-📑 Status - Day 3: Stumps - Australia need 156 runs
+📑 Status - Day 4: 2nd Session - Australia need 10 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/27/2024, 5:59:42 PM
+📝 Last Updated on : 1/28/2024, 12:51:12 PM
 
 ***
 
