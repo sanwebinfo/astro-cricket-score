@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 436 & 44/2 (13.1) - Day 4: 2nd Session - India need 187 runs."
+description: "IND 436 & 95/3 (28) - Day 4: 2nd Session - India need 136 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 436 & 44/2 (13.1)  
+🔴 Live Score - IND 436 & 95/3 (28)  
 
-📊 Run Rate - CRR: 3.34  
+📊 Run Rate - CRR: 3.39  
 
-✊ Current Batsman - KL Rahul - 0(1)  
+✊ Current Batsman - KL Rahul - 21(35)  
 
-✊ Current Bowler - Tom Hartley - 5.1 Over 12 Run - 2 Wicket  
+✊ Current Bowler - Joe Root - 8 Over 23 Run - 0 Wicket  
 
-📑 Status - Day 4: 2nd Session - India need 187 runs
+📑 Status - Day 4: 2nd Session - India need 136 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/28/2024, 12:59:22 PM
+📝 Last Updated on : 1/28/2024, 2:09:55 PM
 
 ***
 
