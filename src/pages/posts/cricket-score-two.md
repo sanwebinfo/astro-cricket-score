@@ -1,25 +1,19 @@
 ---
 title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 289/9 & 206/9 (50.3) - Day 4: 2nd Session - Australia need 10 runs."
+description: "Australia vs West Indies, 2nd Test - Live Cricket Score - West Indies won by 8 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AUS 289/9 & 206/9 (50.3)  
+✅ Australia vs West Indies, 2nd Test - Live Cricket Score
 
-📊 Run Rate - CRR: 4.08  
-
-✊ Current Batsman - Steven Smith - 90(145)  
-
-✊ Current Bowler - Shamar Joseph - 11.3 Over 67 Run - 6 Wicket  
-
-📑 Status - Day 4: 2nd Session - Australia need 10 runs
+📑 Status - West Indies won by 8 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/28/2024, 12:51:12 PM
+📝 Last Updated on : 1/28/2024, 1:30:02 PM
 
 ***
 
