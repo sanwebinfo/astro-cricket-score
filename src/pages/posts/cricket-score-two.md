@@ -1,19 +1,19 @@
 ---
-title: "Australia vs West Indies, 2nd Test - Live Cricket Score"
+title: "Australia vs West Indies, 1st ODI - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs West Indies, 2nd Test - Live Cricket Score - West Indies won by 8 runs."
+description: "Australia vs West Indies, 1st ODI - Live Cricket Score - Date: 2024-02-02 - Time: 09:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs West Indies, 2nd Test - Live Cricket Score
+✅ Australia vs West Indies, 1st ODI - Live Cricket Score
 
-📑 Status - West Indies won by 8 runs
+📑 Status - Date: 2024-02-02 - Time: 09:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/28/2024, 1:30:02 PM
+📝 Last Updated on : 2/1/2024, 6:19:13 PM
 
 ***
 
