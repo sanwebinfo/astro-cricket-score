@@ -1,19 +1,19 @@
 ---
-title: "India vs England, 1st Test - Live Cricket Score"
+title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 1st Test - Live Cricket Score - England won by 28 runs."
+description: "India vs England, 2nd Test - Live Cricket Score - Date: 2024-02-02 - Time: 09:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs England, 1st Test - Live Cricket Score
+✅ India vs England, 2nd Test - Live Cricket Score
 
-📑 Status - England won by 28 runs
+📑 Status - Date: 2024-02-02 - Time: 09:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 1/28/2024, 5:57:42 PM
+📝 Last Updated on : 2/1/2024, 6:16:36 PM
 
 ***
 
