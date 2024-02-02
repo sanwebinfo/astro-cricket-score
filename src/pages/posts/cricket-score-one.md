@@ -1,19 +1,25 @@
 ---
 title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 2nd Test - Live Cricket Score - Date: 2024-02-02 - Time: 09:30:00 AM (Indian Local Time)."
+description: "IND 5/0 (1.1) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs England, 2nd Test - Live Cricket Score
+🔴 Live Score - IND 5/0 (1.1)  
 
-📑 Status - Date: 2024-02-02 - Time: 09:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 4.29  
+
+✊ Current Batsman - Yashasvi Jaiswal - 5(7)  
+
+✊ Current Bowler - Joe Root - 0.1 Over 4 Run - 0 Wicket  
+
+📑 Status - Day 1: 1st Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/1/2024, 6:16:36 PM
+📝 Last Updated on : 2/2/2024, 9:38:09 AM
 
 ***
 
