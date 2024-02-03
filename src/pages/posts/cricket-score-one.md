@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 5/0 (1.3) - Day 2: 1st Session - England trail by 391 runs."
+description: "IND 396 & 28/0 (5) - Day 2: Stumps - India lead by 171 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 5/0 (1.3)  
+🔴 Live Score - IND 396 & 28/0 (5)  
 
-📊 Run Rate - CRR: 3.33  
+📊 Run Rate - CRR: 5.6  
 
-✊ Current Batsman - Zak Crawley - 0(7)  
+✊ Current Batsman - Rohit Sharma - 13(13)  
 
-✊ Current Bowler - Mukesh Kumar - 0.3 Over 5 Run - 0 Wicket  
+✊ Current Bowler - Rehan Ahmed - 1 Over 5 Run - 0 Wicket  
 
-📑 Status - Day 2: 1st Session - England trail by 391 runs
+📑 Status - Day 2: Stumps - India lead by 171 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/3/2024, 11:16:28 AM
+📝 Last Updated on : 2/3/2024, 5:29:25 PM
 
 ***
 
