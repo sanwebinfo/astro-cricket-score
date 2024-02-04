@@ -1,25 +1,25 @@
 ---
 title: "Sri Lanka vs Afghanistan, Only Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AFG 198 & 39/0 (18.1) - Day 3: 2nd Session - Afghanistan trail by 202 runs."
+description: "AFG 198 & 199/1 (75) - Day 3: Stumps - Afghanistan trail by 42 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG 198 & 39/0 (18.1)  
+🔴 Live Score - AFG 198 & 199/1 (75)  
 
-📊 Run Rate - CRR: 2.15  
+📊 Run Rate - CRR: 2.65  
 
-✊ Current Batsman - Ibrahim Zadran - 24(62)  
+✊ Current Batsman - Ibrahim Zadran - 101(217)  
 
-✊ Current Bowler - Asitha Fernando - 5.1 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Asitha Fernando - 13 Over 35 Run - 1 Wicket  
 
-📑 Status - Day 3: 2nd Session - Afghanistan trail by 202 runs
+📑 Status - Day 3: Stumps - Afghanistan trail by 42 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/4/2024, 1:07:05 PM
+📝 Last Updated on : 2/4/2024, 11:01:44 PM
 
 ***
 
