@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 396 & 171/4 (42.5) - Day 3: 2nd Session - India lead by 314 runs."
+description: "ENG 253 & 67/1 (14) - Day 3: Stumps - England need 332 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 396 & 171/4 (42.5)  
+🔴 Live Score - ENG 253 & 67/1 (14)  
 
-📊 Run Rate - CRR: 3.99  
+📊 Run Rate - CRR: 4.79  
 
-✊ Current Batsman - Shubman Gill - 85(101)  
+✊ Current Batsman - Zak Crawley - 29(50)  
 
-✊ Current Bowler - Rehan Ahmed - 11.5 Over 54 Run - 1 Wicket  
+✊ Current Bowler - Axar Patel - 1 Over 10 Run - 0 Wicket  
 
-📑 Status - Day 3: 2nd Session - India lead by 314 runs
+📑 Status - Day 3: Stumps - England need 332 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/4/2024, 12:46:08 PM
+📝 Last Updated on : 2/4/2024, 6:55:17 PM
 
 ***
 
