@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 253 & 67/1 (14) - Day 3: Stumps - England need 332 runs."
+description: "ENG 253 & 105/2 (23) - Day 4: 1st Session - England need 294 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 253 & 67/1 (14)  
+🔴 Live Score - ENG 253 & 105/2 (23)  
 
-📊 Run Rate - CRR: 4.79  
+📊 Run Rate - CRR: 4.57  
 
-✊ Current Batsman - Zak Crawley - 29(50)  
+✊ Current Batsman - Ollie Pope - 4(1)  
 
-✊ Current Bowler - Axar Patel - 1 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Axar Patel - 5 Over 30 Run - 1 Wicket  
 
-📑 Status - Day 3: Stumps - England need 332 runs
+📑 Status - Day 4: 1st Session - England need 294 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/4/2024, 6:55:17 PM
+📝 Last Updated on : 2/5/2024, 10:10:03 AM
 
 ***
 
