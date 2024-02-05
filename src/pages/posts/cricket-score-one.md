@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 253 & 105/2 (23) - Day 4: 1st Session - England need 294 runs."
+description: "ENG 253 & 157/4 (33.1) - Day 4: 1st Session - England need 242 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 253 & 105/2 (23)  
+🔴 Live Score - ENG 253 & 157/4 (33.1)  
 
-📊 Run Rate - CRR: 4.57  
+📊 Run Rate - CRR: 4.73  
 
-✊ Current Batsman - Ollie Pope - 4(1)  
+✊ Current Batsman - Jonny Bairstow - 1(7)  
 
-✊ Current Bowler - Axar Patel - 5 Over 30 Run - 1 Wicket  
+✊ Current Bowler - Axar Patel - 10.1 Over 65 Run - 1 Wicket  
 
-📑 Status - Day 4: 1st Session - England need 294 runs
+📑 Status - Day 4: 1st Session - England need 242 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/5/2024, 10:10:03 AM
+📝 Last Updated on : 2/5/2024, 10:50:14 AM
 
 ***
 
