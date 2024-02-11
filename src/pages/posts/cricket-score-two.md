@@ -1,19 +1,19 @@
 ---
-title: "Sri Lanka vs Afghanistan, Only Test - Live Cricket Score"
+title: "Australia vs West Indies, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Sri Lanka vs Afghanistan, Only Test - Live Cricket Score - Sri Lanka won by 10 wkts."
+description: "Australia vs West Indies, 2nd T20I - Live Cricket Score - Australia won by 34 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sri Lanka vs Afghanistan, Only Test - Live Cricket Score
+✅ Australia vs West Indies, 2nd T20I - Live Cricket Score
 
-📑 Status - Sri Lanka won by 10 wkts
+📑 Status - Australia won by 34 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/5/2024, 3:42:46 PM
+📝 Last Updated on : 2/11/2024, 10:29:01 PM
 
 ***
 
