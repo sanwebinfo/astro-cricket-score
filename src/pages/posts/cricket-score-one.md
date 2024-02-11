@@ -1,19 +1,19 @@
 ---
-title: "India vs England, 2nd Test - Live Cricket Score"
+title: "India U19 vs Australia U19, Final - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 2nd Test - Live Cricket Score - India won by 106 runs."
+description: "India U19 vs Australia U19, Final - Live Cricket Score - Date: 2024-02-11 - Time: 01:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs England, 2nd Test - Live Cricket Score
+✅ India U19 vs Australia U19, Final - Live Cricket Score
 
-📑 Status - India won by 106 runs
+📑 Status - Date: 2024-02-11 - Time: 01:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/5/2024, 2:18:26 PM
+📝 Last Updated on : 2/11/2024, 8:52:49 AM
 
 ***
 
