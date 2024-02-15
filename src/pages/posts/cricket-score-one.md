@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 185/3 (52) - Day 1: Tea Break."
+description: "IND 326/5 (86) - Day 1: Stumps."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 185/3 (52)  
+🔴 Live Score - IND 326/5 (86)  
 
-📊 Run Rate - CRR: 3.56  
+📊 Run Rate - CRR: 3.79  
 
-✊ Current Batsman - Rohit Sharma - 97(154)  
+✊ Current Batsman - Kuldeep Yadav - 1(10)  
 
-✊ Current Bowler - Joe Root - 7 Over 36 Run - 0 Wicket  
+✊ Current Bowler - James Anderson - 19 Over 51 Run - 0 Wicket  
 
-📑 Status - Day 1: Tea Break
+📑 Status - Day 1: Stumps
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/15/2024, 2:27:27 PM
+📝 Last Updated on : 2/15/2024, 6:16:09 PM
 
 ***
 
