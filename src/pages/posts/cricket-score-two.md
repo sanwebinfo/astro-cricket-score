@@ -1,19 +1,25 @@
 ---
-title: "Australia vs West Indies, 2nd T20I - Live Cricket Score"
+title: "New Zealand vs South Africa, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs West Indies, 2nd T20I - Live Cricket Score - Australia won by 34 runs."
+description: "NZ 211 & 40/1 (13.5) - Day 3: Stumps - New Zealand need 227 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Australia vs West Indies, 2nd T20I - Live Cricket Score
+🔴 Live Score - NZ 211 & 40/1 (13.5)  
 
-📑 Status - Australia won by 34 runs
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Day 3: Stumps - New Zealand need 227 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/11/2024, 10:29:01 PM
+📝 Last Updated on : 2/15/2024, 6:30:56 PM
 
 ***
 
