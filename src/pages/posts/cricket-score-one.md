@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 365/7 (104.5) - Day 2: 1st Session."
+description: "IND 394/7 (115) - Day 2: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 365/7 (104.5)  
+🔴 Live Score - IND 394/7 (115)  
 
-📊 Run Rate - CRR: 3.48  
+📊 Run Rate - CRR: 3.43  
 
-✊ Current Batsman - Ravichandran Ashwin - 22(50)  
+✊ Current Batsman - Ravichandran Ashwin - 30(71)  
 
-✊ Current Bowler - Tom Hartley - 27.5 Over 84 Run - 1 Wicket  
+✊ Current Bowler - Mark Wood - 24 Over 99 Run - 3 Wicket  
 
-📑 Status - Day 2: 1st Session
+📑 Status - Day 2: 2nd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/16/2024, 10:54:13 AM
+📝 Last Updated on : 2/16/2024, 12:24:10 PM
 
 ***
 
