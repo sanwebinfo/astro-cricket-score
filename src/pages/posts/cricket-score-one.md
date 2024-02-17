@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 238/4 (44.2) - Day 3: 1st Session - England trail by 207 runs."
+description: "IND 445 & 12/0 (3.2) - Day 3: 2nd Session - India lead by 138 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 238/4 (44.2)  
+🔴 Live Score - IND 445 & 12/0 (3.2)  
 
-📊 Run Rate - CRR: 5.37  
+📊 Run Rate - CRR: 3.6  
 
-✊ Current Batsman - Ben Duckett - 149(137)  
+✊ Current Batsman - Rohit Sharma - 9(8)  
 
-✊ Current Bowler - Kuldeep Yadav - 10.2 Over 54 Run - 1 Wicket  
+✊ Current Bowler - Joe Root - 1.2 Over 0 Run - 0 Wicket  
 
-📑 Status - Day 3: 1st Session - England trail by 207 runs
+📑 Status - Day 3: 2nd Session - India lead by 138 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/17/2024, 10:15:38 AM
+📝 Last Updated on : 2/17/2024, 1:17:30 PM
 
 ***
 
