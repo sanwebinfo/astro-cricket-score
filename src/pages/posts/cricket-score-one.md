@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 445 & 196/2 (51) - Day 3: Stumps - India lead by 322 runs."
+description: "IND 445 & 256/3 (70) - Day 4: 1st Session - India lead by 382 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 445 & 196/2 (51)  
+🔴 Live Score - IND 445 & 256/3 (70)  
 
-📊 Run Rate - CRR: 3.84  
+📊 Run Rate - CRR: 3.66  
 
-✊ Current Batsman - Shubman Gill - 65(120)  
+✊ Current Batsman - Yashasvi Jaiswal - 113(146)  
 
-✊ Current Bowler - Rehan Ahmed - 8 Over 31 Run - 0 Wicket  
+✊ Current Bowler - Joe Root - 17 Over 55 Run - 1 Wicket  
 
-📑 Status - Day 3: Stumps - India lead by 322 runs
+📑 Status - Day 4: 1st Session - India lead by 382 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/17/2024, 5:37:21 PM
+📝 Last Updated on : 2/18/2024, 10:49:34 AM
 
 ***
 
