@@ -1,25 +1,19 @@
 ---
-title: "New Zealand vs South Africa, 2nd Test - Live Cricket Score"
+title: "New Zealand vs Australia, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-two"
-description: "NZ 211 & 40/1 (13.5) - Day 3: Stumps - New Zealand need 227 runs."
+description: "New Zealand vs Australia, 2nd T20I - Live Cricket Score - Date: 2024-02-23 - Time: 11:40:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NZ 211 & 40/1 (13.5)  
+✅ New Zealand vs Australia, 2nd T20I - Live Cricket Score
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
-
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
-
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
-
-📑 Status - Day 3: Stumps - New Zealand need 227 runs
+📑 Status - Date: 2024-02-23 - Time: 11:40:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/15/2024, 6:30:56 PM
+📝 Last Updated on : 2/22/2024, 11:26:33 PM
 
 ***
 
