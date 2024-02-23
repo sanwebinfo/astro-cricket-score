@@ -1,19 +1,25 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 4th Test - Live Cricket Score - Date: 2024-02-23 - Time: 09:30:00 AM (Indian Local Time)."
+description: "ENG 9/0 (4.1) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs England, 4th Test - Live Cricket Score
+🔴 Live Score - ENG 9/0 (4.1)  
 
-📑 Status - Date: 2024-02-23 - Time: 09:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 2.16  
+
+✊ Current Batsman - Zak Crawley - 5(18)  
+
+✊ Current Bowler - Mohammed Siraj - 2.1 Over 3 Run - 0 Wicket  
+
+📑 Status - Day 1: 1st Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/22/2024, 11:10:00 PM
+📝 Last Updated on : 2/23/2024, 9:50:46 AM
 
 ***
 
