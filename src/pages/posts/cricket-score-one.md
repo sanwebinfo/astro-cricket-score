@@ -1,17 +1,17 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 9/0 (4.1) - Day 1: 1st Session."
+description: "ENG 63/3 (13.4) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 9/0 (4.1)  
+🔴 Live Score - ENG 63/3 (13.4)  
 
-📊 Run Rate - CRR: 2.16  
+📊 Run Rate - CRR: 4.61  
 
-✊ Current Batsman - Zak Crawley - 5(18)  
+✊ Current Batsman - Jonny Bairstow - 3(6)  
 
-✊ Current Bowler - Mohammed Siraj - 2.1 Over 3 Run - 0 Wicket  
+✊ Current Bowler - Akash Deep - 6.4 Over 23 Run - 3 Wicket  
 
 📑 Status - Day 1: 1st Session
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 2/23/2024, 9:50:46 AM
+📝 Last Updated on : 2/23/2024, 10:43:12 AM
 
 ***
 
