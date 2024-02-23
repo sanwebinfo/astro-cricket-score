@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 251/7 (77) - Day 1: 3rd Session."
+description: "ENG 302/7 (90) - Day 1: Stumps."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 251/7 (77)  
+🔴 Live Score - ENG 302/7 (90)  
 
-📊 Run Rate - CRR: 3.26  
+📊 Run Rate - CRR: 3.36  
 
-✊ Current Batsman - Joe Root - 82(197)  
+✊ Current Batsman - Ollie Robinson - 31(60)  
 
-✊ Current Bowler - Mohammed Siraj - 11 Over 52 Run - 2 Wicket  
+✊ Current Bowler - Yashasvi Jaiswal - 1 Over 6 Run - 0 Wicket  
 
-📑 Status - Day 1: 3rd Session
+📑 Status - Day 1: Stumps
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/23/2024, 3:35:53 PM
+📝 Last Updated on : 2/23/2024, 4:39:24 PM
 
 ***
 
