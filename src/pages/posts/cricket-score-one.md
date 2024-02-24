@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 131/4 (38) - Day 2: Tea Break - India trail by 222 runs."
+description: "IND 219/7 (73) - Day 2: Stumps - India trail by 134 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 131/4 (38)  
+🔴 Live Score - IND 219/7 (73)  
 
-📊 Run Rate - CRR: 3.45  
+📊 Run Rate - CRR: 3  
 
-✊ Current Batsman - Yashasvi Jaiswal - 54(96)  
+✊ Current Batsman - Kuldeep Yadav - 17(72)  
 
-✊ Current Bowler - Tom Hartley - 4 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Tom Hartley - 19 Over 47 Run - 2 Wicket  
 
-📑 Status - Day 2: Tea Break - India trail by 222 runs
+📑 Status - Day 2: Stumps - India trail by 134 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/24/2024, 2:21:14 PM
+📝 Last Updated on : 2/24/2024, 5:54:40 PM
 
 ***
 
