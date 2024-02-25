@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 219/7 (73) - Day 2: Stumps - India trail by 134 runs."
+description: "ENG 353 & 108/3 (26.4) - Day 3: 2nd Session - England lead by 154 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 219/7 (73)  
+🔴 Live Score - ENG 353 & 108/3 (26.4)  
 
-📊 Run Rate - CRR: 3  
+📊 Run Rate - CRR: 4.05  
 
-✊ Current Batsman - Kuldeep Yadav - 17(72)  
+✊ Current Batsman - Zak Crawley - 58(82)  
 
-✊ Current Bowler - Tom Hartley - 19 Over 47 Run - 2 Wicket  
+✊ Current Bowler - Kuldeep Yadav - 1.4 Over 4 Run - 0 Wicket  
 
-📑 Status - Day 2: Stumps - India trail by 134 runs
+📑 Status - Day 3: 2nd Session - England lead by 154 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/24/2024, 5:54:40 PM
+📝 Last Updated on : 2/25/2024, 1:49:12 PM
 
 ***
 
