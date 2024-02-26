@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 353 & 120/5 (33) - Day 3: Tea Break - England lead by 166 runs."
+description: "IND 307 & 82/0 (16) - Day 4: 1st Session - India need 110 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 353 & 120/5 (33)  
+🔴 Live Score - IND 307 & 82/0 (16)  
 
-📊 Run Rate - CRR: 3.64  
+📊 Run Rate - CRR: 5.12  
 
-✊ Current Batsman - Jonny Bairstow - 30(41)  
+✊ Current Batsman - Rohit Sharma - 45(55)  
 
-✊ Current Bowler - Kuldeep Yadav - 5 Over 10 Run - 2 Wicket  
+✊ Current Bowler - Tom Hartley - 4 Over 27 Run - 0 Wicket  
 
-📑 Status - Day 3: Tea Break - England lead by 166 runs
+📑 Status - Day 4: 1st Session - India need 110 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/25/2024, 2:20:45 PM
+📝 Last Updated on : 2/26/2024, 10:08:33 AM
 
 ***
 
