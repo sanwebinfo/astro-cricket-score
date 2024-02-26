@@ -1,25 +1,19 @@
 ---
 title: "India vs England, 4th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 307 & 82/0 (16) - Day 4: 1st Session - India need 110 runs."
+description: "India vs England, 4th Test - Live Cricket Score - India won by 5 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 307 & 82/0 (16)  
+✅ India vs England, 4th Test - Live Cricket Score
 
-📊 Run Rate - CRR: 5.12  
-
-✊ Current Batsman - Rohit Sharma - 45(55)  
-
-✊ Current Bowler - Tom Hartley - 4 Over 27 Run - 0 Wicket  
-
-📑 Status - Day 4: 1st Session - India need 110 runs
+📑 Status - India won by 5 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/26/2024, 10:08:33 AM
+📝 Last Updated on : 2/26/2024, 1:52:44 PM
 
 ***
 
