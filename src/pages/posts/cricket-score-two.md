@@ -1,19 +1,19 @@
 ---
-title: "New Zealand vs Australia, 2nd T20I - Live Cricket Score"
+title: "New Zealand vs Australia, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "New Zealand vs Australia, 2nd T20I - Live Cricket Score - Australia won by 72 runs."
+description: "New Zealand vs Australia, 2nd Test - Live Cricket Score - Date: 2024-03-08 - Time: 03:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ New Zealand vs Australia, 2nd T20I - Live Cricket Score
+✅ New Zealand vs Australia, 2nd Test - Live Cricket Score
 
-📑 Status - Australia won by 72 runs
+📑 Status - Date: 2024-03-08 - Time: 03:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/23/2024, 5:28:38 PM
+📝 Last Updated on : 3/6/2024, 8:40:50 PM
 
 ***
 
