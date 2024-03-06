@@ -1,19 +1,19 @@
 ---
-title: "India vs England, 4th Test - Live Cricket Score"
+title: "India vs England, 5th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 4th Test - Live Cricket Score - India won by 5 wkts."
+description: "India vs England, 5th Test - Live Cricket Score - Date: 2024-03-07 - Time: 09:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs England, 4th Test - Live Cricket Score
+✅ India vs England, 5th Test - Live Cricket Score
 
-📑 Status - India won by 5 wkts
+📑 Status - Date: 2024-03-07 - Time: 09:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 2/26/2024, 1:52:44 PM
+📝 Last Updated on : 3/6/2024, 8:37:04 PM
 
 ***
 
