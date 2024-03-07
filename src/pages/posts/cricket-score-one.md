@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 5th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 6/0 (2.1) - Day 1: 3rd Session - India trail by 212 runs."
+description: "IND 135/1 (30) - Day 1: Stumps - India trail by 83 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 6/0 (2.1)  
+🔴 Live Score - IND 135/1 (30)  
 
-📊 Run Rate - CRR: 2.77  
+📊 Run Rate - CRR: 4.5  
 
-✊ Current Batsman - Yashasvi Jaiswal - 2(6)  
+✊ Current Batsman - Rohit Sharma - 52(83)  
 
-✊ Current Bowler - James Anderson - 1.1 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Tom Hartley - 12 Over 46 Run - 0 Wicket  
 
-📑 Status - Day 1: 3rd Session - India trail by 212 runs
+📑 Status - Day 1: Stumps - India trail by 83 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/7/2024, 3:06:28 PM
+📝 Last Updated on : 3/7/2024, 5:37:44 PM
 
 ***
 
