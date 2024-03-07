@@ -1,17 +1,17 @@
 ---
 title: "India vs England, 5th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 3/0 (1.3) - Day 1: 1st Session."
+description: "ENG 12/0 (4.5) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 3/0 (1.3)  
+🔴 Live Score - ENG 12/0 (4.5)  
 
-📊 Run Rate - CRR: 2  
+📊 Run Rate - CRR: 2.48  
 
-✊ Current Batsman - Zak Crawley - 3(9)  
+✊ Current Batsman - Zak Crawley - 7(14)  
 
-✊ Current Bowler - Mohammed Siraj - 0.3 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 2.5 Over 6 Run - 0 Wicket  
 
 📑 Status - Day 1: 1st Session
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 3/7/2024, 9:36:47 AM
+📝 Last Updated on : 3/7/2024, 9:57:26 AM
 
 ***
 
