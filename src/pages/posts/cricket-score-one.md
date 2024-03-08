@@ -1,25 +1,25 @@
 ---
 title: "India vs England, 5th Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 264/1 (60) - Day 2: Lunch Break - India lead by 46 runs."
+description: "IND 356/3 (79.3) - Day 2: 2nd Session - India lead by 138 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 264/1 (60)  
+🔴 Live Score - IND 356/3 (79.3)  
 
-📊 Run Rate - CRR: 4.4  
+📊 Run Rate - CRR: 4.48  
 
-✊ Current Batsman - Shubman Gill - 101(142)  
+✊ Current Batsman - Devdutt Padikkal - 37(59)  
 
-✊ Current Bowler - Tom Hartley - 21 Over 69 Run - 0 Wicket  
+✊ Current Bowler - Joe Root - 0.3 Over 0 Run - 0 Wicket  
 
-📑 Status - Day 2: Lunch Break - India lead by 46 runs
+📑 Status - Day 2: 2nd Session - India lead by 138 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/8/2024, 12:02:20 PM
+📝 Last Updated on : 3/8/2024, 2:00:04 PM
 
 ***
 
