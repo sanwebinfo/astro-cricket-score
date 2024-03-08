@@ -1,19 +1,25 @@
 ---
 title: "New Zealand vs Australia, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "New Zealand vs Australia, 2nd Test - Live Cricket Score - Date: 2024-03-08 - Time: 03:30:00 AM (Indian Local Time)."
+description: "AUS 124/4 (36) - Day 1: Stumps - Australia trail by 38 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ New Zealand vs Australia, 2nd Test - Live Cricket Score
+🔴 Live Score - AUS 124/4 (36)  
 
-📑 Status - Date: 2024-03-08 - Time: 03:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 3.44  
+
+✊ Current Batsman - Marnus Labuschagne - 45(80)  
+
+✊ Current Bowler - Ben Sears - 11 Over 38 Run - 1 Wicket  
+
+📑 Status - Day 1: Stumps - Australia trail by 38 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/6/2024, 8:40:50 PM
+📝 Last Updated on : 3/8/2024, 11:33:22 AM
 
 ***
 
