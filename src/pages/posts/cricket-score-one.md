@@ -1,19 +1,25 @@
 ---
 title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)."
+description: "RCB 43/3 (6.1) - Royal Challengers Bengaluru opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score
+🔴 Live Score - RCB 43/3 (6.1)  
 
-📑 Status - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6.97  
+
+✊ Current Batsman - Cameron Green - 0(3)  
+
+✊ Current Bowler - Ravindra Jadeja - 0.1 Over 1 Run - 0 Wicket  
+
+📑 Status - Royal Challengers Bengaluru opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/22/2024, 1:24:23 PM
+📝 Last Updated on : 3/22/2024, 8:33:54 PM
 
 ***
 
