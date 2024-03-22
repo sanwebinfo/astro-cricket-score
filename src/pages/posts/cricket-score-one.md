@@ -1,19 +1,19 @@
 ---
-title: "India vs England, 5th Test - Live Cricket Score"
+title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs England, 5th Test - Live Cricket Score - India won by an innings and 64 runs."
+description: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs England, 5th Test - Live Cricket Score
+✅ Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score
 
-📑 Status - India won by an innings and 64 runs
+📑 Status - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/9/2024, 2:08:42 PM
+📝 Last Updated on : 3/22/2024, 1:24:23 PM
 
 ***
 
