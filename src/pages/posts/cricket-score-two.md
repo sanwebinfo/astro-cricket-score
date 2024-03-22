@@ -1,25 +1,19 @@
 ---
-title: "New Zealand vs Australia, 2nd Test - Live Cricket Score"
+title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 124/4 (36) - Day 1: Stumps - Australia trail by 38 runs."
+description: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AUS 124/4 (36)  
+✅ Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score
 
-📊 Run Rate - CRR: 3.44  
-
-✊ Current Batsman - Marnus Labuschagne - 45(80)  
-
-✊ Current Bowler - Ben Sears - 11 Over 38 Run - 1 Wicket  
-
-📑 Status - Day 1: Stumps - Australia trail by 38 runs
+📑 Status - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/8/2024, 11:33:22 AM
+📝 Last Updated on : 3/22/2024, 1:33:37 PM
 
 ***
 
