@@ -1,19 +1,19 @@
 ---
-title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)."
+description: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score - Date: 2024-03-23 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score
+✅ Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score
 
-📑 Status - Date: 2024-03-22 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2024-03-23 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/22/2024, 1:33:37 PM
+📝 Last Updated on : 3/22/2024, 1:39:50 PM
 
 ***
 
