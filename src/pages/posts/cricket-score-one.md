@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 165/5 (19) - Royal Challengers Bengaluru opt to bat."
+description: "CSK 45/1 (4.3) - Chennai Super Kings need 129 runs in 93 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 165/5 (19)  
+🔴 Live Score - CSK 45/1 (4.3)  
 
-📊 Run Rate - CRR: 8.68  
+📊 Run Rate - CRR: 10  
 
-✊ Current Batsman - Dinesh Karthik - 34(21)  
+✊ Current Batsman - Ajinkya Rahane - 0(1)  
 
-✊ Current Bowler - Tushar Deshpande - 3 Over 39 Run - 0 Wicket  
+✊ Current Bowler - Alzarri Joseph - 0.3 Over 7 Run - 0 Wicket  
 
-📑 Status - Royal Challengers Bengaluru opt to bat
+📑 Status - Chennai Super Kings need 129 runs in 93 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/22/2024, 9:38:56 PM
+📝 Last Updated on : 3/22/2024, 10:37:40 PM
 
 ***
 
