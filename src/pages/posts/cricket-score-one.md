@@ -1,17 +1,17 @@
 ---
 title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 43/3 (6.1) - Royal Challengers Bengaluru opt to bat."
+description: "RCB 116/5 (16) - Royal Challengers Bengaluru opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 43/3 (6.1)  
+🔴 Live Score - RCB 116/5 (16)  
 
-📊 Run Rate - CRR: 6.97  
+📊 Run Rate - CRR: 7.25  
 
-✊ Current Batsman - Cameron Green - 0(3)  
+✊ Current Batsman - Anuj Rawat - 20(13)  
 
-✊ Current Bowler - Ravindra Jadeja - 0.1 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Deepak Chahar - 4 Over 37 Run - 1 Wicket  
 
 📑 Status - Royal Challengers Bengaluru opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 3/22/2024, 8:33:54 PM
+📝 Last Updated on : 3/22/2024, 9:15:43 PM
 
 ***
 
