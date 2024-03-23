@@ -1,19 +1,19 @@
 ---
-title: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score"
+title: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score - Chennai Super Kings won by 6 wkts."
+description: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score - Date: 2024-03-23 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Chennai Super Kings vs Royal Challengers Bengaluru, 1st Match - Live Cricket Score
+✅ Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score
 
-📑 Status - Chennai Super Kings won by 6 wkts
+📑 Status - Date: 2024-03-23 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/23/2024, 8:24:59 AM
+📝 Last Updated on : 3/23/2024, 9:08:32 AM
 
 ***
 
