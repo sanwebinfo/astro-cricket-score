@@ -1,25 +1,25 @@
 ---
 title: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 61/4 (8) - Lucknow Super Giants need 133 runs in 72 balls."
+description: "LSG 76/4 (10) - Lucknow Super Giants need 118 runs in 60 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 61/4 (8)  
+🔴 Live Score - LSG 76/4 (10)  
 
-📊 Run Rate - CRR: 7.62  
+📊 Run Rate - CRR: 7.6  
 
-✊ Current Batsman - KL Rahul - 20(19)  
+✊ Current Batsman - Nicholas Pooran - 10(9)  
 
-✊ Current Bowler - Avesh Khan - 1 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Avesh Khan - 2 Over 15 Run - 0 Wicket  
 
-📑 Status - Lucknow Super Giants need 133 runs in 72 balls
+📑 Status - Lucknow Super Giants need 118 runs in 60 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/24/2024, 6:22:45 PM
+📝 Last Updated on : 3/24/2024, 6:31:27 PM
 
 ***
 
