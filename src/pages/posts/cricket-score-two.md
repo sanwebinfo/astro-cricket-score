@@ -1,19 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score"
+title: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score - Kolkata Knight Riders won by 4 runs."
+description: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score - Date: 2024-03-24 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score
+✅ Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 4 runs
+📑 Status - Date: 2024-03-24 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/24/2024, 6:14:55 AM
+📝 Last Updated on : 3/24/2024, 11:05:25 AM
 
 ***
 
