@@ -1,19 +1,25 @@
 ---
 title: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score - Date: 2024-03-24 - Time: 03:30:00 PM (Indian Local Time)."
+description: "LSG 27/3 (4.3) - Lucknow Super Giants need 167 runs in 93 balls."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score
+🔴 Live Score - LSG 27/3 (4.3)  
 
-📑 Status - Date: 2024-03-24 - Time: 03:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6  
+
+✊ Current Batsman - KL Rahul - 2(8)  
+
+✊ Current Bowler - Trent Boult - 2.3 Over 10 Run - 2 Wicket  
+
+📑 Status - Lucknow Super Giants need 167 runs in 93 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/24/2024, 11:02:54 AM
+📝 Last Updated on : 3/24/2024, 6:06:25 PM
 
 ***
 
