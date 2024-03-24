@@ -1,17 +1,17 @@
 ---
 title: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "GT 64/2 (7.4) - Mumbai Indians opt to bowl."
+description: "GT 130/3 (15.2) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 64/2 (7.4)  
+🔴 Live Score - GT 130/3 (15.2)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 8.48  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - David Miller - 10(8)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Gerald Coetzee - 2.2 Over 17 Run - 1 Wicket  
 
 📑 Status - Mumbai Indians opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 3/24/2024, 8:08:39 PM
+📝 Last Updated on : 3/24/2024, 8:48:37 PM
 
 ***
 
