@@ -1,19 +1,19 @@
 ---
-title: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score"
+title: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score - Punjab Kings won by 4 wkts."
+description: "Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score - Date: 2024-03-24 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Punjab Kings vs Delhi Capitals, 2nd Match - Live Cricket Score
+✅ Rajasthan Royals vs Lucknow Super Giants, 4th Match - Live Cricket Score
 
-📑 Status - Punjab Kings won by 4 wkts
+📑 Status - Date: 2024-03-24 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/23/2024, 7:29:30 PM
+📝 Last Updated on : 3/24/2024, 11:02:54 AM
 
 ***
 
