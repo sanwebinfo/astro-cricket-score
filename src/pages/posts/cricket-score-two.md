@@ -1,25 +1,25 @@
 ---
 title: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "GT 130/3 (15.2) - Mumbai Indians opt to bowl."
+description: "MI 113/3 (13.1) - Mumbai Indians need 56 runs in 41 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 130/3 (15.2)  
+🔴 Live Score - MI 113/3 (13.1)  
 
-📊 Run Rate - CRR: 8.48  
+📊 Run Rate - CRR: 8.58  
 
-✊ Current Batsman - David Miller - 10(8)  
+✊ Current Batsman - Dewald Brevis - 43(31)  
 
-✊ Current Bowler - Gerald Coetzee - 2.2 Over 17 Run - 1 Wicket  
+✊ Current Bowler - Mohit Sharma - 1.1 Over 11 Run - 0 Wicket  
 
-📑 Status - Mumbai Indians opt to bowl
+📑 Status - Mumbai Indians need 56 runs in 41 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/24/2024, 8:48:37 PM
+📝 Last Updated on : 3/24/2024, 10:39:19 PM
 
 ***
 
