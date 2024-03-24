@@ -1,19 +1,25 @@
 ---
 title: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score - Date: 2024-03-24 - Time: 07:30:00 PM (Indian Local Time)."
+description: "GT 64/2 (7.4) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Gujarat Titans vs Mumbai Indians, 5th Match - Live Cricket Score
+🔴 Live Score - GT 64/2 (7.4)  
 
-📑 Status - Date: 2024-03-24 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Mumbai Indians opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/24/2024, 11:05:25 AM
+📝 Last Updated on : 3/24/2024, 8:08:39 PM
 
 ***
 
