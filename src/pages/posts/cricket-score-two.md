@@ -1,19 +1,19 @@
 ---
 title: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score - Date: 2024-03-23 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score - Kolkata Knight Riders won by 4 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Kolkata Knight Riders vs Sunrisers Hyderabad, 3rd Match - Live Cricket Score
 
-📑 Status - Date: 2024-03-23 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Kolkata Knight Riders won by 4 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/22/2024, 1:39:50 PM
+📝 Last Updated on : 3/24/2024, 6:14:55 AM
 
 ***
 
