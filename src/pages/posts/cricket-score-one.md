@@ -1,19 +1,25 @@
 ---
 title: "Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score - Date: 2024-03-26 - Time: 07:30:00 PM (Indian Local Time)."
+description: "CSK 52/0 (4.4) - Gujarat Titans opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score
+🔴 Live Score - CSK 52/0 (4.4)  
 
-📑 Status - Date: 2024-03-26 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 11.14  
+
+✊ Current Batsman - Rachin Ravindra - 37(16)  
+
+✊ Current Bowler - Azmatullah Omarzai - 2.4 Over 24 Run - 0 Wicket  
+
+📑 Status - Gujarat Titans opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/26/2024, 10:43:30 AM
+📝 Last Updated on : 3/26/2024, 7:55:17 PM
 
 ***
 
