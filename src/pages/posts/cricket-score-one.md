@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CSK 92/1 (9) - Gujarat Titans opt to bowl."
+description: "GT 41/2 (5.2) - Gujarat Titans need 166 runs in 88 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - CSK 92/1 (9)  
+🔴 Live Score - GT 41/2 (5.2)  
 
-📊 Run Rate - CRR: 10.22  
+📊 Run Rate - CRR: 7.69  
 
-✊ Current Batsman - Ruturaj Gaikwad - 31(24)  
+✊ Current Batsman - Vijay Shankar - 7(5)  
 
-✊ Current Bowler - Rashid Khan - 2 Over 21 Run - 1 Wicket  
+✊ Current Bowler - Tushar Deshpande - 1.2 Over 10 Run - 0 Wicket  
 
-📑 Status - Gujarat Titans opt to bowl
+📑 Status - Gujarat Titans need 166 runs in 88 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/26/2024, 8:20:32 PM
+📝 Last Updated on : 3/26/2024, 10:09:02 PM
 
 ***
 
