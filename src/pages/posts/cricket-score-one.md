@@ -1,19 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score - Date: 2024-03-27 - Time: 07:30:00 PM (Indian Local Time)."
+description: "SRH 128/2 (9) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score
+🔴 Live Score - SRH 128/2 (9)  
 
-📑 Status - Date: 2024-03-27 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 14.22  
+
+✊ Current Batsman - Abhishek Sharma - 34(13)  
+
+✊ Current Bowler - Gerald Coetzee - 2 Over 34 Run - 1 Wicket  
+
+📑 Status - Mumbai Indians opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/27/2024, 6:26:15 PM
+📝 Last Updated on : 3/27/2024, 8:24:54 PM
 
 ***
 
