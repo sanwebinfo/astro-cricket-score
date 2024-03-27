@@ -1,19 +1,19 @@
 ---
-title: "Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score - Chennai Super Kings won by 63 runs."
+description: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score - Date: 2024-03-27 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Chennai Super Kings vs Gujarat Titans, 7th Match - Live Cricket Score
+✅ Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score
 
-📑 Status - Chennai Super Kings won by 63 runs
+📑 Status - Date: 2024-03-27 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/27/2024, 4:40:56 AM
+📝 Last Updated on : 3/27/2024, 6:26:15 PM
 
 ***
 
