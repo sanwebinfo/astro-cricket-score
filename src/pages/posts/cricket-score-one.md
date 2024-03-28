@@ -1,19 +1,25 @@
 ---
 title: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score - Date: 2024-03-28 - Time: 07:30:00 PM (Indian Local Time)."
+description: "RR 31/2 (5.5) - Delhi Capitals opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score
+🔴 Live Score - RR 31/2 (5.5)  
 
-📑 Status - Date: 2024-03-28 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 5.31  
+
+✊ Current Batsman - Riyan Parag - 0(3)  
+
+✊ Current Bowler - Khaleel Ahmed - 2.5 Over 9 Run - 1 Wicket  
+
+📑 Status - Delhi Capitals opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/28/2024, 5:26:25 PM
+📝 Last Updated on : 3/28/2024, 8:09:03 PM
 
 ***
 
