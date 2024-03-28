@@ -1,25 +1,25 @@
 ---
 title: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 117/4 (14.3) - Delhi Capitals need 69 runs in 33 balls."
+description: "DC 173/5 (20) - Rajasthan Royals won by 12 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - DC 117/4 (14.3)  
+🔴 Live Score - DC 173/5 (20)  
 
-📊 Run Rate - CRR: 8.07  
+📊 Run Rate - CRR: 8.65  
 
-✊ Current Batsman - Abishek Porel - 5(5)  
+✊ Current Batsman - Axar Patel - 15(13)  
 
-✊ Current Bowler - Sandeep Sharma - 2.3 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Sandeep Sharma - 4 Over 36 Run - 0 Wicket  
 
-📑 Status - Delhi Capitals need 69 runs in 33 balls
+📑 Status - Rajasthan Royals won by 12 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/28/2024, 10:56:36 PM
+📝 Last Updated on : 3/28/2024, 11:28:40 PM
 
 ***
 
