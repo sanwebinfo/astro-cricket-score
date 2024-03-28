@@ -1,19 +1,19 @@
 ---
-title: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score - Sunrisers Hyderabad won by 31 runs."
+description: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score - Date: 2024-03-28 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sunrisers Hyderabad vs Mumbai Indians, 8th Match - Live Cricket Score
+✅ Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score
 
-📑 Status - Sunrisers Hyderabad won by 31 runs
+📑 Status - Date: 2024-03-28 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/28/2024, 7:35:34 AM
+📝 Last Updated on : 3/28/2024, 5:26:25 PM
 
 ***
 
