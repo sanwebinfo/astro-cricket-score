@@ -1,25 +1,25 @@
 ---
 title: "Royal Challengers Bengaluru vs Kolkata Knight Riders, 10th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 85/2 (10.2) - Kolkata Knight Riders opt to bowl."
+description: "KKR 54/0 (4.1) - Kolkata Knight Riders need 129 runs in 95 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 85/2 (10.2)  
+🔴 Live Score - KKR 54/0 (4.1)  
 
-📊 Run Rate - CRR: 8.23  
+📊 Run Rate - CRR: 12.96  
 
-✊ Current Batsman - Virat Kohli - 42(33)  
+✊ Current Batsman - Sunil Narine - 22(11)  
 
-✊ Current Bowler - Andre Russell - 1.2 Over 8 Run - 1 Wicket  
+✊ Current Bowler - Mohammed Siraj - 1.1 Over 19 Run - 0 Wicket  
 
-📑 Status - Kolkata Knight Riders opt to bowl
+📑 Status - Kolkata Knight Riders need 129 runs in 95 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/29/2024, 8:17:58 PM
+📝 Last Updated on : 3/29/2024, 9:42:58 PM
 
 ***
 
