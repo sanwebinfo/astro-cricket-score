@@ -1,25 +1,19 @@
 ---
-title: "Rajasthan Royals vs Delhi Capitals, 9th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Kolkata Knight Riders, 10th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 173/5 (20) - Rajasthan Royals won by 12 runs."
+description: "Royal Challengers Bengaluru vs Kolkata Knight Riders, 10th Match - Live Cricket Score - Date: 2024-03-29 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - DC 173/5 (20)  
+✅ Royal Challengers Bengaluru vs Kolkata Knight Riders, 10th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 8.65  
-
-✊ Current Batsman - Axar Patel - 15(13)  
-
-✊ Current Bowler - Sandeep Sharma - 4 Over 36 Run - 0 Wicket  
-
-📑 Status - Rajasthan Royals won by 12 runs
+📑 Status - Date: 2024-03-29 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/28/2024, 11:28:40 PM
+📝 Last Updated on : 3/29/2024, 1:23:05 PM
 
 ***
 
