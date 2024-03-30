@@ -1,25 +1,25 @@
 ---
 title: "Lucknow Super Giants vs Punjab Kings, 11th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 46/2 (5.3) - Lucknow Super Giants opt to bat."
+description: "PBKS 61/0 (6.1) - Punjab Kings need 139 runs in 83 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 46/2 (5.3)  
+🔴 Live Score - PBKS 61/0 (6.1)  
 
-📊 Run Rate - CRR: 8.36  
+📊 Run Rate - CRR: 9.89  
 
-✊ Current Batsman - Quinton de Kock - 20(17)  
+✊ Current Batsman - Jonny Bairstow - 20(12)  
 
-✊ Current Bowler - Sam Curran - 1.3 Over 6 Run - 1 Wicket  
+✊ Current Bowler - Krunal Pandya - 0.1 Over 0 Run - 0 Wicket  
 
-📑 Status - Lucknow Super Giants opt to bat
+📑 Status - Punjab Kings need 139 runs in 83 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/30/2024, 8:02:37 PM
+📝 Last Updated on : 3/30/2024, 10:10:25 PM
 
 ***
 
