@@ -1,19 +1,25 @@
 ---
-title: "Lucknow Super Giants vs Punjab Kings, 11th Match - Live Cricket Score"
+title: "Gujarat Titans vs Sunrisers Hyderabad, 12th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Lucknow Super Giants vs Punjab Kings, 11th Match - Live Cricket Score - Lucknow Super Giants won by 21 runs."
+description: "SRH 140/5 (17.4) - Sunrisers Hyderabad opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Lucknow Super Giants vs Punjab Kings, 11th Match - Live Cricket Score
+🔴 Live Score - SRH 140/5 (17.4)  
 
-📑 Status - Lucknow Super Giants won by 21 runs
+📊 Run Rate - CRR: 7.92  
+
+✊ Current Batsman - Abdul Samad - 16(8)  
+
+✊ Current Bowler - Mohit Sharma - 2.4 Over 15 Run - 1 Wicket  
+
+📑 Status - Sunrisers Hyderabad opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/31/2024, 5:40:34 AM
+📝 Last Updated on : 3/31/2024, 4:54:46 PM
 
 ***
 
