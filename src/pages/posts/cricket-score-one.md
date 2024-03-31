@@ -1,25 +1,19 @@
 ---
 title: "Gujarat Titans vs Sunrisers Hyderabad, 12th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 140/5 (17.4) - Sunrisers Hyderabad opt to bat."
+description: "Gujarat Titans vs Sunrisers Hyderabad, 12th Match - Live Cricket Score - Gujarat Titans won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - SRH 140/5 (17.4)  
+✅ Gujarat Titans vs Sunrisers Hyderabad, 12th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 7.92  
-
-✊ Current Batsman - Abdul Samad - 16(8)  
-
-✊ Current Bowler - Mohit Sharma - 2.4 Over 15 Run - 1 Wicket  
-
-📑 Status - Sunrisers Hyderabad opt to bat
+📑 Status - Gujarat Titans won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/31/2024, 4:54:46 PM
+📝 Last Updated on : 3/31/2024, 7:04:38 PM
 
 ***
 
