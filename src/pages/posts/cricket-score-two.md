@@ -1,25 +1,19 @@
 ---
 title: "Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "CSK 58/2 (9) - Chennai Super Kings need 134 runs in 66 balls."
+description: "Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score - Delhi Capitals won by 20 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - CSK 58/2 (9)  
+✅ Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 6.44  
-
-✊ Current Batsman - Daryl Mitchell - 24(20)  
-
-✊ Current Bowler - Rasikh Dar Salam - 1 Over 8 Run - 0 Wicket  
-
-📑 Status - Chennai Super Kings need 134 runs in 66 balls
+📑 Status - Delhi Capitals won by 20 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 3/31/2024, 10:15:42 PM
+📝 Last Updated on : 4/1/2024, 8:48:52 AM
 
 ***
 
