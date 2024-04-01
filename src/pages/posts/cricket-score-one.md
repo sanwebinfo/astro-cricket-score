@@ -1,17 +1,17 @@
 ---
 title: "Mumbai Indians vs Rajasthan Royals, 14th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 76/4 (9.1) - Rajasthan Royals opt to bowl."
+description: "MI 109/7 (15.3) - Rajasthan Royals opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 76/4 (9.1)  
+🔴 Live Score - MI 109/7 (15.3)  
 
-📊 Run Rate - CRR: 8.29  
+📊 Run Rate - CRR: 7.03  
 
-✊ Current Batsman - Hardik Pandya - 34(19)  
+✊ Current Batsman - Tim David - 15(15)  
 
-✊ Current Bowler - Yuzvendra Chahal - 1.1 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Trent Boult - 3.3 Over 21 Run - 3 Wicket  
 
 📑 Status - Rajasthan Royals opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 4/1/2024, 8:22:35 PM
+📝 Last Updated on : 4/1/2024, 9:01:10 PM
 
 ***
 
