@@ -1,25 +1,25 @@
 ---
-title: "Mumbai Indians vs Rajasthan Royals, 14th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Lucknow Super Giants, 15th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 96/4 (13.3) - Rajasthan Royals need 30 runs in 39 balls."
+description: "LSG 80/2 (9.2) - Royal Challengers Bengaluru opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RR 96/4 (13.3)  
+🔴 Live Score - LSG 80/2 (9.2)  
 
-📊 Run Rate - CRR: 7.11  
+📊 Run Rate - CRR: 8.57  
 
-✊ Current Batsman - Riyan Parag - 26(30)  
+✊ Current Batsman - Quinton de Kock - 44(29)  
 
-✊ Current Bowler - Jasprit Bumrah - 3.3 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Mayank Dagar - 0.2 Over 7 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals need 30 runs in 39 balls
+📑 Status - Royal Challengers Bengaluru opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/1/2024, 10:49:13 PM
+📝 Last Updated on : 4/2/2024, 8:18:42 PM
 
 ***
 
