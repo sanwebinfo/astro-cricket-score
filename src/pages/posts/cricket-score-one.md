@@ -1,19 +1,25 @@
 ---
 title: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score - Date: 2024-04-03 - Time: 07:30:00 PM (Indian Local Time)."
+description: "KKR 60/0 (4.2) - Kolkata Knight Riders opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score
+🔴 Live Score - KKR 60/0 (4.2)  
 
-📑 Status - Date: 2024-04-03 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 13.85  
+
+✊ Current Batsman - Philip Salt - 18(11)  
+
+✊ Current Bowler - Anrich Nortje - 0.2 Over 2 Run - 0 Wicket  
+
+📑 Status - Kolkata Knight Riders opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/3/2024, 6:23:10 PM
+📝 Last Updated on : 4/3/2024, 7:59:38 PM
 
 ***
 
