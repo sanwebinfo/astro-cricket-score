@@ -1,17 +1,17 @@
 ---
 title: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 60/0 (4.2) - Kolkata Knight Riders opt to bat."
+description: "KKR 183/3 (14.2) - Kolkata Knight Riders opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 60/0 (4.2)  
+🔴 Live Score - KKR 183/3 (14.2)  
 
-📊 Run Rate - CRR: 13.85  
+📊 Run Rate - CRR: 12.77  
 
-✊ Current Batsman - Philip Salt - 18(11)  
+✊ Current Batsman - Shreyas Iyer - 3(4)  
 
-✊ Current Bowler - Anrich Nortje - 0.2 Over 2 Run - 0 Wicket  
+✊ Current Bowler - Rasikh Dar Salam - 2.2 Over 35 Run - 0 Wicket  
 
 📑 Status - Kolkata Knight Riders opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 4/3/2024, 7:59:38 PM
+📝 Last Updated on : 4/3/2024, 8:47:54 PM
 
 ***
 
