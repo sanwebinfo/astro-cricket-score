@@ -1,19 +1,19 @@
 ---
-title: "Royal Challengers Bengaluru vs Lucknow Super Giants, 15th Match - Live Cricket Score"
+title: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Royal Challengers Bengaluru vs Lucknow Super Giants, 15th Match - Live Cricket Score - Lucknow Super Giants won by 28 runs."
+description: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score - Date: 2024-04-03 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Royal Challengers Bengaluru vs Lucknow Super Giants, 15th Match - Live Cricket Score
+✅ Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score
 
-📑 Status - Lucknow Super Giants won by 28 runs
+📑 Status - Date: 2024-04-03 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/2/2024, 11:16:59 PM
+📝 Last Updated on : 4/3/2024, 6:23:10 PM
 
 ***
 
