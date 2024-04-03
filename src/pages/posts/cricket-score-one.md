@@ -1,25 +1,19 @@
 ---
 title: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 68/4 (7.4) - Delhi Capitals need 205 runs in 74 balls."
+description: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score - Kolkata Knight Riders won by 106 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - DC 68/4 (7.4)  
+✅ Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 8.87  
-
-✊ Current Batsman - Rishabh Pant - 21(7)  
-
-✊ Current Bowler - Sunil Narine - 0.4 Over 3 Run - 0 Wicket  
-
-📑 Status - Delhi Capitals need 205 runs in 74 balls
+📑 Status - Kolkata Knight Riders won by 106 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/3/2024, 10:29:39 PM
+📝 Last Updated on : 4/3/2024, 11:26:48 PM
 
 ***
 
