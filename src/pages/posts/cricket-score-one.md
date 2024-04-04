@@ -1,19 +1,25 @@
 ---
-title: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score"
+title: "Gujarat Titans vs Punjab Kings, 17th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score - Kolkata Knight Riders won by 106 runs."
+description: "GT 64/1 (7.4) - Punjab Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Kolkata Knight Riders, 16th Match - Live Cricket Score
+🔴 Live Score - GT 64/1 (7.4)  
 
-📑 Status - Kolkata Knight Riders won by 106 runs
+📊 Run Rate - CRR: 8.35  
+
+✊ Current Batsman - Kane Williamson - 21(18)  
+
+✊ Current Bowler - Harshal Patel - 0.4 Over 7 Run - 0 Wicket  
+
+📑 Status - Punjab Kings opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/3/2024, 11:26:48 PM
+📝 Last Updated on : 4/4/2024, 8:09:50 PM
 
 ***
 
