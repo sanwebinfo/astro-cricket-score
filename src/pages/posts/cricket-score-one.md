@@ -1,25 +1,19 @@
 ---
 title: "Gujarat Titans vs Punjab Kings, 17th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 64/1 (7.4) - Punjab Kings opt to bowl."
+description: "Gujarat Titans vs Punjab Kings, 17th Match - Live Cricket Score - Punjab Kings won by 3 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - GT 64/1 (7.4)  
+✅ Gujarat Titans vs Punjab Kings, 17th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 8.35  
-
-✊ Current Batsman - Kane Williamson - 21(18)  
-
-✊ Current Bowler - Harshal Patel - 0.4 Over 7 Run - 0 Wicket  
-
-📑 Status - Punjab Kings opt to bowl
+📑 Status - Punjab Kings won by 3 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/4/2024, 8:09:50 PM
+📝 Last Updated on : 4/5/2024, 5:37:43 AM
 
 ***
 
