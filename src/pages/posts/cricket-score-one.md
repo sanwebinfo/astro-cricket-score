@@ -1,25 +1,19 @@
 ---
 title: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 148/2 (14.4) - Rajasthan Royals need 36 runs in 32 balls."
+description: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score - Rajasthan Royals won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RR 148/2 (14.4)  
+✅ Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
-
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
-
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
-
-📑 Status - Rajasthan Royals need 36 runs in 32 balls
+📑 Status - Rajasthan Royals won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/6/2024, 10:39:29 PM
+📝 Last Updated on : 4/7/2024, 5:22:43 AM
 
 ***
 
