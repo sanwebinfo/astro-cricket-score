@@ -1,19 +1,19 @@
 ---
-title: "Sunrisers Hyderabad vs Chennai Super Kings, 18th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Chennai Super Kings, 18th Match - Live Cricket Score - Sunrisers Hyderabad won by 6 wkts."
+description: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score - Date: 2024-04-06 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sunrisers Hyderabad vs Chennai Super Kings, 18th Match - Live Cricket Score
+✅ Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score
 
-📑 Status - Sunrisers Hyderabad won by 6 wkts
+📑 Status - Date: 2024-04-06 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/5/2024, 11:01:15 PM
+📝 Last Updated on : 4/6/2024, 6:04:48 PM
 
 ***
 
