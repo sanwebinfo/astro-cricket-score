@@ -1,25 +1,25 @@
 ---
 title: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 61/0 (7.2) - Rajasthan Royals opt to bowl."
+description: "RR 148/2 (14.4) - Rajasthan Royals need 36 runs in 32 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 61/0 (7.2)  
+🔴 Live Score - RR 148/2 (14.4)  
 
-📊 Run Rate - CRR: 8.32  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Faf du Plessis - 17(15)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Yuzvendra Chahal - 0.2 Over 1 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Rajasthan Royals need 36 runs in 32 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/6/2024, 8:04:10 PM
+📝 Last Updated on : 4/6/2024, 10:39:29 PM
 
 ***
 
