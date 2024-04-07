@@ -1,19 +1,25 @@
 ---
-title: "Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Gujarat Titans, 21st Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score - Delhi Capitals won by 20 runs."
+description: "GT 80/5 (12.1) - Gujarat Titans need 84 runs in 47 balls."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Chennai Super Kings, 13th Match - Live Cricket Score
+🔴 Live Score - GT 80/5 (12.1)  
 
-📑 Status - Delhi Capitals won by 20 runs
+📊 Run Rate - CRR: 6.58  
+
+✊ Current Batsman - Rahul Tewatia - 0(0)  
+
+✊ Current Bowler - Krunal Pandya - 3.1 Over 9 Run - 3 Wicket  
+
+📑 Status - Gujarat Titans need 84 runs in 47 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/1/2024, 8:48:52 AM
+📝 Last Updated on : 4/7/2024, 10:30:56 PM
 
 ***
 
