@@ -1,19 +1,19 @@
 ---
-title: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score"
+title: "Mumbai Indians vs Delhi Capitals, 20th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score - Rajasthan Royals won by 6 wkts."
+description: "Mumbai Indians vs Delhi Capitals, 20th Match - Live Cricket Score - Date: 2024-04-07 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Rajasthan Royals vs Royal Challengers Bengaluru, 19th Match - Live Cricket Score
+✅ Mumbai Indians vs Delhi Capitals, 20th Match - Live Cricket Score
 
-📑 Status - Rajasthan Royals won by 6 wkts
+📑 Status - Date: 2024-04-07 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/7/2024, 5:22:43 AM
+📝 Last Updated on : 4/7/2024, 10:49:17 AM
 
 ***
 
