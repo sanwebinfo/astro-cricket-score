@@ -752,10 +752,10 @@ array-iterate@^2.0.0:
   resolved "https://registry.yarnpkg.com/array-iterate/-/array-iterate-2.0.1.tgz#6efd43f8295b3fee06251d3d62ead4bd9805dd24"
   integrity sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==
 
-astro-font@^0.0.78:
-  version "0.0.78"
-  resolved "https://registry.yarnpkg.com/astro-font/-/astro-font-0.0.78.tgz#846c7f761b6993db6ae80a15eb746abe3e8f20ca"
-  integrity sha512-4Wz1aTZRUsae1C6hbS/6eahsVlSlq8pNa6sbPUJLjU3XEf1pTBVuk+VRwtxE4uI4D1M7YgG8vYMC+HYXtarbyw==
+astro-font@^0.0.80:
+  version "0.0.80"
+  resolved "https://registry.yarnpkg.com/astro-font/-/astro-font-0.0.80.tgz#bb3f664c403f8334038824b9720a661d2cfc2ede"
+  integrity sha512-RjUANXSNdt0Yp2Tpyn7woBg67hCX2Gy1OiiA7B0NX501LcrzvFHoX98CoBgJC5af3tj3fznfLqqBmMr7wu6+fQ==
 
 astro@4.5.16:
   version "4.5.16"
