@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 137/9 (20) - Innings Break."
+description: "CSK 115/2 (15) - Date: 2024-04-08 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 137/9 (20)  
+🔴 Live Score - CSK 115/2 (15)  
 
-📊 Run Rate - CRR: 6.85  
+📊 Run Rate - CRR: 7.67  
 
-✊ Current Batsman - Anukul Roy - 3(3)  
+✊ Current Batsman - Ruturaj Gaikwad - 60(54)  
 
-✊ Current Bowler - Mustafizur Rahman - 4 Over 22 Run - 2 Wicket  
+✊ Current Bowler - Sunil Narine - 4 Over 30 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Date: 2024-04-08 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/8/2024, 9:29:38 PM
+📝 Last Updated on : 4/8/2024, 10:47:19 PM
 
 ***
 
