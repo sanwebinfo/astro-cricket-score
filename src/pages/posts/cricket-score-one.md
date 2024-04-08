@@ -1,25 +1,19 @@
 ---
 title: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CSK 115/2 (15) - Date: 2024-04-08 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score - Chennai Super Kings won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - CSK 115/2 (15)  
+✅ Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score
 
-📊 Run Rate - CRR: 7.67  
-
-✊ Current Batsman - Ruturaj Gaikwad - 60(54)  
-
-✊ Current Bowler - Sunil Narine - 4 Over 30 Run - 1 Wicket  
-
-📑 Status - Date: 2024-04-08 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Chennai Super Kings won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/8/2024, 10:47:19 PM
+📝 Last Updated on : 4/8/2024, 11:13:18 PM
 
 ***
 
