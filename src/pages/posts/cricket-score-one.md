@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 15/1 (2.3) - Chennai Super Kings opt to bowl."
+description: "KKR 137/9 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 15/1 (2.3)  
+🔴 Live Score - KKR 137/9 (20)  
 
-📊 Run Rate - CRR: 6  
+📊 Run Rate - CRR: 6.85  
 
-✊ Current Batsman - Sunil Narine - 5(7)  
+✊ Current Batsman - Anukul Roy - 3(3)  
 
-✊ Current Bowler - Tushar Deshpande - 1.3 Over 5 Run - 1 Wicket  
+✊ Current Bowler - Mustafizur Rahman - 4 Over 22 Run - 2 Wicket  
 
-📑 Status - Chennai Super Kings opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/8/2024, 7:42:19 PM
+📝 Last Updated on : 4/8/2024, 9:29:38 PM
 
 ***
 
