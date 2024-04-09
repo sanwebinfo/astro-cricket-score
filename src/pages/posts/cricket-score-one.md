@@ -1,19 +1,25 @@
 ---
-title: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score"
+title: "Punjab Kings vs Sunrisers Hyderabad, 23rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score - Chennai Super Kings won by 7 wkts."
+description: "SRH 28/2 (4) - Punjab Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Chennai Super Kings vs Kolkata Knight Riders, 22nd Match - Live Cricket Score
+🔴 Live Score - SRH 28/2 (4)  
 
-📑 Status - Chennai Super Kings won by 7 wkts
+📊 Run Rate - CRR: 7  
+
+✊ Current Batsman - Abhishek Sharma - 6(5)  
+
+✊ Current Bowler - Kagiso Rabada - 2 Over 20 Run - 0 Wicket  
+
+📑 Status - Punjab Kings opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/8/2024, 11:13:18 PM
+📝 Last Updated on : 4/9/2024, 7:51:57 PM
 
 ***
 
