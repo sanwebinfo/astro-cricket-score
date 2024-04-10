@@ -1,19 +1,19 @@
 ---
-title: "Punjab Kings vs Sunrisers Hyderabad, 23rd Match - Live Cricket Score"
+title: "Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Punjab Kings vs Sunrisers Hyderabad, 23rd Match - Live Cricket Score - Sunrisers Hyderabad won by 2 runs."
+description: "Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score - Date: 2024-04-10 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Punjab Kings vs Sunrisers Hyderabad, 23rd Match - Live Cricket Score
+✅ Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score
 
-📑 Status - Sunrisers Hyderabad won by 2 runs
+📑 Status - Date: 2024-04-10 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/10/2024, 7:46:35 AM
+📝 Last Updated on : 4/10/2024, 12:49:35 PM
 
 ***
 
