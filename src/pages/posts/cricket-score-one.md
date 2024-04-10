@@ -1,19 +1,25 @@
 ---
 title: "Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score - Date: 2024-04-10 - Time: 07:30:00 PM (Indian Local Time)."
+description: "RR 22/0 (3.1) - Gujarat Titans opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score
+🔴 Live Score - RR 22/0 (3.1)  
 
-📑 Status - Date: 2024-04-10 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6.95  
+
+✊ Current Batsman - Jos Buttler - 4(4)  
+
+✊ Current Bowler - Spencer Johnson - 1.1 Over 7 Run - 0 Wicket  
+
+📑 Status - Gujarat Titans opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/10/2024, 12:49:35 PM
+📝 Last Updated on : 4/10/2024, 7:57:46 PM
 
 ***
 
