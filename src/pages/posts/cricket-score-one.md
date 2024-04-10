@@ -1,25 +1,25 @@
 ---
 title: "Rajasthan Royals vs Gujarat Titans, 24th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 22/0 (3.1) - Gujarat Titans opt to bowl."
+description: "GT 83/3 (11) - Gujarat Titans need 114 runs in 54 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RR 22/0 (3.1)  
+🔴 Live Score - GT 83/3 (11)  
 
-📊 Run Rate - CRR: 6.95  
+📊 Run Rate - CRR: 7.55  
 
-✊ Current Batsman - Jos Buttler - 4(4)  
+✊ Current Batsman - Shubman Gill - 37(27)  
 
-✊ Current Bowler - Spencer Johnson - 1.1 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Yuzvendra Chahal - 2 Over 21 Run - 0 Wicket  
 
-📑 Status - Gujarat Titans opt to bowl
+📑 Status - Gujarat Titans need 114 runs in 54 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/10/2024, 7:57:46 PM
+📝 Last Updated on : 4/10/2024, 10:45:36 PM
 
 ***
 
