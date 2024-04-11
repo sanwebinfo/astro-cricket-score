@@ -1,25 +1,25 @@
 ---
 title: "Mumbai Indians vs Royal Challengers Bengaluru, 25th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 105/3 (11.3) - Mumbai Indians opt to bowl."
+description: "RCB 196/8 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 105/3 (11.3)  
+🔴 Live Score - RCB 196/8 (20)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 9.8  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Dinesh Karthik - 53(23)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Akash Madhwal - 4 Over 57 Run - 1 Wicket  
 
-📑 Status - Mumbai Indians opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/11/2024, 8:30:45 PM
+📝 Last Updated on : 4/11/2024, 9:48:10 PM
 
 ***
 
