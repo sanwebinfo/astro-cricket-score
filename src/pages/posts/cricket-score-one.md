@@ -1,25 +1,25 @@
 ---
 title: "Lucknow Super Giants vs Delhi Capitals, 26th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 57/2 (6) - Lucknow Super Giants opt to bat."
+description: "DC 163/4 (17.4) - Delhi Capitals need 5 runs in 14 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 57/2 (6)  
+🔴 Live Score - DC 163/4 (17.4)  
 
-📊 Run Rate - CRR: 9.5  
+📊 Run Rate - CRR: 9.23  
 
-✊ Current Batsman - Marcus Stoinis - 2(3)  
+✊ Current Batsman - Tristan Stubbs - 8(7)  
 
-✊ Current Bowler - Khaleel Ahmed - 3 Over 28 Run - 2 Wicket  
+✊ Current Bowler - Yash Thakur - 3.4 Over 30 Run - 1 Wicket  
 
-📑 Status - Lucknow Super Giants opt to bat
+📑 Status - Delhi Capitals need 5 runs in 14 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/12/2024, 8:09:57 PM
+📝 Last Updated on : 4/12/2024, 11:09:37 PM
 
 ***
 
