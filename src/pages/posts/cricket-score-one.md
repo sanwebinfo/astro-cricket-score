@@ -1,19 +1,25 @@
 ---
-title: "Mumbai Indians vs Royal Challengers Bengaluru, 25th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Delhi Capitals, 26th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Mumbai Indians vs Royal Challengers Bengaluru, 25th Match - Live Cricket Score - Mumbai Indians won by 7 wkts."
+description: "LSG 57/2 (6) - Lucknow Super Giants opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Mumbai Indians vs Royal Challengers Bengaluru, 25th Match - Live Cricket Score
+🔴 Live Score - LSG 57/2 (6)  
 
-📑 Status - Mumbai Indians won by 7 wkts
+📊 Run Rate - CRR: 9.5  
+
+✊ Current Batsman - Marcus Stoinis - 2(3)  
+
+✊ Current Bowler - Khaleel Ahmed - 3 Over 28 Run - 2 Wicket  
+
+📑 Status - Lucknow Super Giants opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/11/2024, 11:15:36 PM
+📝 Last Updated on : 4/12/2024, 8:09:57 PM
 
 ***
 
