@@ -1,25 +1,25 @@
 ---
 title: "Punjab Kings vs Rajasthan Royals, 27th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PBKS 147/8 (20) - Innings Break."
+description: "RR 122/5 (17.5) - Rajasthan Royals need 26 runs in 13 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PBKS 147/8 (20)  
+🔴 Live Score - RR 122/5 (17.5)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 6.84  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Shimron Hetmyer - 6(3)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Harshal Patel - 1.5 Over 15 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Rajasthan Royals need 26 runs in 13 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/13/2024, 9:19:55 PM
+📝 Last Updated on : 4/13/2024, 10:59:00 PM
 
 ***
 
