@@ -1,25 +1,25 @@
 ---
 title: "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 30th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 287/3 (20) - Innings Break."
+description: "RCB 75/0 (5.4) - Royal Challengers Bengaluru need 213 runs in 86 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 287/3 (20)  
+🔴 Live Score - RCB 75/0 (5.4)  
 
-📊 Run Rate - CRR: 14.35  
+📊 Run Rate - CRR: 13.24  
 
-✊ Current Batsman - Aiden Markram - 32(17)  
+✊ Current Batsman - Virat Kohli - 38(17)  
 
-✊ Current Bowler - Vijaykumar Vyshak - 4 Over 64 Run - 0 Wicket  
+✊ Current Bowler - Pat Cummins - 0.4 Over 5 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Royal Challengers Bengaluru need 213 runs in 86 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/15/2024, 9:19:38 PM
+📝 Last Updated on : 4/15/2024, 9:52:23 PM
 
 ***
 
