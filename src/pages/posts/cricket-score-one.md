@@ -1,19 +1,25 @@
 ---
-title: "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 30th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Rajasthan Royals, 31st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Royal Challengers Bengaluru vs Sunrisers Hyderabad, 30th Match - Live Cricket Score - Sunrisers Hyderabad won by 25 runs."
+description: "KKR 40/1 (5) - Rajasthan Royals opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Royal Challengers Bengaluru vs Sunrisers Hyderabad, 30th Match - Live Cricket Score
+🔴 Live Score - KKR 40/1 (5)  
 
-📑 Status - Sunrisers Hyderabad won by 25 runs
+📊 Run Rate - CRR: 8  
+
+✊ Current Batsman - Sunil Narine - 12(12)  
+
+✊ Current Bowler - Avesh Khan - 2 Over 12 Run - 1 Wicket  
+
+📑 Status - Rajasthan Royals opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/15/2024, 11:14:56 PM
+📝 Last Updated on : 4/16/2024, 7:54:39 PM
 
 ***
 
