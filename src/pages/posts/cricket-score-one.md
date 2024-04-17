@@ -1,25 +1,25 @@
 ---
 title: "Gujarat Titans vs Delhi Capitals, 32nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 28/1 (3.4) - Delhi Capitals opt to bowl."
+description: "DC 25/1 (2.1) - Delhi Capitals need 65 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 28/1 (3.4)  
+🔴 Live Score - DC 25/1 (2.1)  
 
-📊 Run Rate - CRR: 7.64  
+📊 Run Rate - CRR: 11.54  
 
-✊ Current Batsman - Wriddhiman Saha - 2(9)  
+✊ Current Batsman - Prithvi Shaw - 1(3)  
 
-✊ Current Bowler - Mukesh Kumar - 0.4 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Sandeep Warrier - 1.1 Over 11 Run - 0 Wicket  
 
-📑 Status - Delhi Capitals opt to bowl
+📑 Status - Delhi Capitals need 65 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/17/2024, 7:52:04 PM
+📝 Last Updated on : 4/17/2024, 9:38:32 PM
 
 ***
 
