@@ -1,17 +1,17 @@
 ---
 title: "Punjab Kings vs Mumbai Indians, 33rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 78/1 (9.2) - Punjab Kings opt to bowl."
+description: "MI 191/5 (19.3) - Punjab Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 78/1 (9.2)  
+🔴 Live Score - MI 191/5 (19.3)  
 
-📊 Run Rate - CRR: 8.36  
+📊 Run Rate - CRR: 9.79  
 
-✊ Current Batsman - Rohit Sharma - 28(19)  
+✊ Current Batsman - Tilak Varma - 33(17)  
 
-✊ Current Bowler - Liam Livingstone - 1.2 Over 8 Run - 0 Wicket  
+✊ Current Bowler - Harshal Patel - 3.3 Over 30 Run - 2 Wicket  
 
 📑 Status - Punjab Kings opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 4/18/2024, 8:16:59 PM
+📝 Last Updated on : 4/18/2024, 9:21:25 PM
 
 ***
 
