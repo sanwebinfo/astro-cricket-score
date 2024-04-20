@@ -1,19 +1,19 @@
 ---
 title: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score - Date: 2024-04-20 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score - Sunrisers Hyderabad won by 67 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score
 
-📑 Status - Date: 2024-04-20 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Sunrisers Hyderabad won by 67 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/20/2024, 6:46:34 PM
+📝 Last Updated on : 4/20/2024, 11:34:56 PM
 
 ***
 
