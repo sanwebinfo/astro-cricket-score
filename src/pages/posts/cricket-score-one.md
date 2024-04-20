@@ -1,19 +1,19 @@
 ---
 title: "Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score - Date: 2024-04-19 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score - Lucknow Super Giants won by 8 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score
 
-📑 Status - Date: 2024-04-19 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Lucknow Super Giants won by 8 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/19/2024, 8:20:38 AM
+📝 Last Updated on : 4/20/2024, 5:49:02 AM
 
 ***
 
