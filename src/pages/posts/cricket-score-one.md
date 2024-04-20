@@ -1,19 +1,19 @@
 ---
-title: "Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score"
+title: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score - Lucknow Super Giants won by 8 wkts."
+description: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score - Date: 2024-04-20 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Lucknow Super Giants vs Chennai Super Kings, 34th Match - Live Cricket Score
+✅ Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score
 
-📑 Status - Lucknow Super Giants won by 8 wkts
+📑 Status - Date: 2024-04-20 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/20/2024, 5:49:02 AM
+📝 Last Updated on : 4/20/2024, 6:46:34 PM
 
 ***
 
