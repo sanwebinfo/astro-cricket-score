@@ -1,19 +1,25 @@
 ---
-title: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Royal Challengers Bengaluru, 36th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score - Sunrisers Hyderabad won by 67 runs."
+description: "KKR 27/0 (2.3) - Royal Challengers Bengaluru opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Sunrisers Hyderabad, 35th Match - Live Cricket Score
+🔴 Live Score - KKR 27/0 (2.3)  
 
-📑 Status - Sunrisers Hyderabad won by 67 runs
+📊 Run Rate - CRR: 10.8  
+
+✊ Current Batsman - Sunil Narine - 4(8)  
+
+✊ Current Bowler - Mohammed Siraj - 1.3 Over 14 Run - 0 Wicket  
+
+📑 Status - Royal Challengers Bengaluru opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/20/2024, 11:34:56 PM
+📝 Last Updated on : 4/21/2024, 3:49:05 PM
 
 ***
 
