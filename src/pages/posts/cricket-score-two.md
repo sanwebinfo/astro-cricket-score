@@ -1,11 +1,17 @@
 ---
 title: "Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score - Date: 2024-04-21 - Time: 07:30:00 PM (Indian Local Time)."
+description: "GT 91/3 (14) - Date: 2024-04-21 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score
+🔴 Live Score - GT 91/3 (14)  
+
+📊 Run Rate - CRR: 6.5  
+
+✊ Current Batsman - Sai Sudharsan - 26(31)  
+
+✊ Current Bowler - Liam Livingstone - 4 Over 19 Run - 2 Wicket  
 
 📑 Status - Date: 2024-04-21 - Time: 07:30:00 PM (Indian Local Time)
 
@@ -13,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 4/19/2024, 8:23:09 AM
+📝 Last Updated on : 4/21/2024, 10:32:48 PM
 
 ***
 
