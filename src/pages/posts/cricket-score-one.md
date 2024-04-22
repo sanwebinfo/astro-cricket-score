@@ -1,19 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Royal Challengers Bengaluru, 36th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Kolkata Knight Riders vs Royal Challengers Bengaluru, 36th Match - Live Cricket Score - Kolkata Knight Riders won by 1 run."
+description: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score - Date: 2024-04-22 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Kolkata Knight Riders vs Royal Challengers Bengaluru, 36th Match - Live Cricket Score
+✅ Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 1 run
+📑 Status - Date: 2024-04-22 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/21/2024, 9:49:43 PM
+📝 Last Updated on : 4/22/2024, 10:00:08 AM
 
 ***
 
