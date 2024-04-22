@@ -1,19 +1,25 @@
 ---
 title: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score - Date: 2024-04-22 - Time: 07:30:00 PM (Indian Local Time)."
+description: "MI 65/4 (8.5) - Mumbai Indians opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score
+🔴 Live Score - MI 65/4 (8.5)  
 
-📑 Status - Date: 2024-04-22 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 7.36  
+
+✊ Current Batsman - Nehal Wadhera - 5(4)  
+
+✊ Current Bowler - Ravichandran Ashwin - 1.5 Over 14 Run - 0 Wicket  
+
+📑 Status - Mumbai Indians opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/22/2024, 10:00:08 AM
+📝 Last Updated on : 4/22/2024, 8:17:30 PM
 
 ***
 
