@@ -1,25 +1,19 @@
 ---
 title: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 61/0 (6) - Rain stops play - Rajasthan Royals need 119 runs in 84 balls."
+description: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score - Rajasthan Royals won by 9 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RR 61/0 (6)  
+✅ Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 10.17  
-
-✊ Current Batsman - Jos Buttler - 28(18)  
-
-✊ Current Bowler - Jasprit Bumrah - 2 Over 11 Run - 0 Wicket  
-
-📑 Status - Rain stops play - Rajasthan Royals need 119 runs in 84 balls
+📑 Status - Rajasthan Royals won by 9 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/22/2024, 10:26:05 PM
+📝 Last Updated on : 4/23/2024, 5:46:33 AM
 
 ***
 
