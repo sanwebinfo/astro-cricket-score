@@ -1,19 +1,19 @@
 ---
-title: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score"
+title: "Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score - Rajasthan Royals won by 9 wkts."
+description: "Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score - Date: 2024-04-23 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Rajasthan Royals vs Mumbai Indians, 38th Match - Live Cricket Score
+✅ Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score
 
-📑 Status - Rajasthan Royals won by 9 wkts
+📑 Status - Date: 2024-04-23 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/23/2024, 5:46:33 AM
+📝 Last Updated on : 4/23/2024, 6:21:37 PM
 
 ***
 
