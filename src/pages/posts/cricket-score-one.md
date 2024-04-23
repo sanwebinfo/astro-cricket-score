@@ -1,19 +1,25 @@
 ---
 title: "Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score - Date: 2024-04-23 - Time: 07:30:00 PM (Indian Local Time)."
+description: "LSG 213/4 (19.3) - Lucknow Super Giants won by 6 wkts."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score
+🔴 Live Score - LSG 213/4 (19.3)  
 
-📑 Status - Date: 2024-04-23 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 10.92  
+
+✊ Current Batsman - Marcus Stoinis - 124(63)  
+
+✊ Current Bowler - Mustafizur Rahman - 3.3 Over 51 Run - 1 Wicket  
+
+📑 Status - Lucknow Super Giants won by 6 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/23/2024, 6:21:37 PM
+📝 Last Updated on : 4/23/2024, 11:30:21 PM
 
 ***
 
