@@ -1,25 +1,25 @@
 ---
-title: "Chennai Super Kings vs Lucknow Super Giants, 39th Match - Live Cricket Score"
+title: "Delhi Capitals vs Gujarat Titans, 40th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 213/4 (19.3) - Lucknow Super Giants won by 6 wkts."
+description: "DC 137/3 (15.4) - Gujarat Titans opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 213/4 (19.3)  
+🔴 Live Score - DC 137/3 (15.4)  
 
-📊 Run Rate - CRR: 10.92  
+📊 Run Rate - CRR: 8.74  
 
-✊ Current Batsman - Marcus Stoinis - 124(63)  
+✊ Current Batsman - Rishabh Pant - 41(28)  
 
-✊ Current Bowler - Mustafizur Rahman - 3.3 Over 51 Run - 1 Wicket  
+✊ Current Bowler - Mohit Sharma - 1.4 Over 22 Run - 0 Wicket  
 
-📑 Status - Lucknow Super Giants won by 6 wkts
+📑 Status - Gujarat Titans opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/23/2024, 11:30:21 PM
+📝 Last Updated on : 4/24/2024, 8:44:42 PM
 
 ***
 
