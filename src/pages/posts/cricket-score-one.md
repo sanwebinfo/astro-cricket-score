@@ -1,25 +1,25 @@
 ---
 title: "Delhi Capitals vs Gujarat Titans, 40th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 137/3 (15.4) - Gujarat Titans opt to bowl."
+description: "GT 7/0 (0.4) - Gujarat Titans need 218 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - DC 137/3 (15.4)  
+🔴 Live Score - GT 7/0 (0.4)  
 
-📊 Run Rate - CRR: 8.74  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Rishabh Pant - 41(28)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Mohit Sharma - 1.4 Over 22 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Gujarat Titans opt to bowl
+📑 Status - Gujarat Titans need 218 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/24/2024, 8:44:42 PM
+📝 Last Updated on : 4/24/2024, 9:30:33 PM
 
 ***
 
