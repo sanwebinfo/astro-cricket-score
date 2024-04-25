@@ -1,19 +1,25 @@
 ---
-title: "Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Royal Challengers Bengaluru, 41st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score - Date: 2024-04-25 - Time: 07:30:00 PM (Indian Local Time)."
+description: "RCB 130/2 (12.3) - Royal Challengers Bengaluru opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score
+🔴 Live Score - RCB 130/2 (12.3)  
 
-📑 Status - Date: 2024-04-25 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 10.4  
+
+✊ Current Batsman - Rajat Patidar - 50(19)  
+
+✊ Current Bowler - Jaydev Unadkat - 1.3 Over 13 Run - 0 Wicket  
+
+📑 Status - Royal Challengers Bengaluru opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/25/2024, 10:06:25 AM
+📝 Last Updated on : 4/25/2024, 8:24:10 PM
 
 ***
 
