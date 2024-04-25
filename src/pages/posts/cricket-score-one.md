@@ -1,25 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Royal Challengers Bengaluru, 41st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 83/5 (8.4) - Sunrisers Hyderabad need 124 runs in 68 balls."
+description: "SRH 98/6 (10.5) - Sunrisers Hyderabad need 109 runs in 55 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 83/5 (8.4)  
+🔴 Live Score - SRH 98/6 (10.5)  
 
-📊 Run Rate - CRR: 9.58  
+📊 Run Rate - CRR: 9.05  
 
-✊ Current Batsman - Shahbaz Ahmed - 11(9)  
+✊ Current Batsman - Pat Cummins - 10(5)  
 
-✊ Current Bowler - Lockie Ferguson - 0.4 Over 11 Run - 0 Wicket  
+✊ Current Bowler - Swapnil Singh - 2.5 Over 34 Run - 2 Wicket  
 
-📑 Status - Sunrisers Hyderabad need 124 runs in 68 balls
+📑 Status - Sunrisers Hyderabad need 109 runs in 55 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/25/2024, 10:13:29 PM
+📝 Last Updated on : 4/25/2024, 10:24:49 PM
 
 ***
 
