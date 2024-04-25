@@ -1,25 +1,19 @@
 ---
-title: "Delhi Capitals vs Gujarat Titans, 40th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 220/8 (20) - Delhi Capitals won by 4 runs."
+description: "Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score - Date: 2024-04-25 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - GT 220/8 (20)  
+✅ Sunrisers Hyderabad vs Royal Challengers Bangalore, 41st Match - Live Cricket Score
 
-📊 Run Rate - CRR: 11  
-
-✊ Current Batsman - Mohit Sharma - 0(0)  
-
-✊ Current Bowler - Rasikh Dar Salam - 4 Over 44 Run - 3 Wicket  
-
-📑 Status - Delhi Capitals won by 4 runs
+📑 Status - Date: 2024-04-25 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/24/2024, 11:15:12 PM
+📝 Last Updated on : 4/25/2024, 10:06:25 AM
 
 ***
 
