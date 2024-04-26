@@ -1,19 +1,19 @@
 ---
-title: "Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score - Gujarat Titans won by 3 wkts."
+description: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score - Date: 2024-04-27 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Punjab Kings vs Gujarat Titans, 37th Match - Live Cricket Score
+✅ Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score
 
-📑 Status - Gujarat Titans won by 3 wkts
+📑 Status - Date: 2024-04-27 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/21/2024, 11:18:16 PM
+📝 Last Updated on : 4/26/2024, 6:01:21 PM
 
 ***
 
