@@ -1,25 +1,25 @@
 ---
 title: "Kolkata Knight Riders vs Punjab Kings, 42nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PBKS 143/1 (10.5) - Punjab Kings need 119 runs in 55 balls."
+description: "PBKS 210/2 (16.1) - Punjab Kings need 52 runs in 23 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PBKS 143/1 (10.5)  
+🔴 Live Score - PBKS 210/2 (16.1)  
 
-📊 Run Rate - CRR: 13.2  
+📊 Run Rate - CRR: 12.99  
 
-✊ Current Batsman - Jonny Bairstow - 67(32)  
+✊ Current Batsman - Shashank Singh - 25(16)  
 
-✊ Current Bowler - Varun Chakaravarthy - 1.5 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Dushmantha Chameera - 2.1 Over 30 Run - 0 Wicket  
 
-📑 Status - Punjab Kings need 119 runs in 55 balls
+📑 Status - Punjab Kings need 52 runs in 23 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/26/2024, 10:32:43 PM
+📝 Last Updated on : 4/26/2024, 11:02:08 PM
 
 ***
 
