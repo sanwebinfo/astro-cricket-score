@@ -1,19 +1,25 @@
 ---
 title: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score - Date: 2024-04-27 - Time: 03:30:00 PM (Indian Local Time)."
+description: "DC 257/4 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score
+🔴 Live Score - DC 257/4 (20)  
 
-📑 Status - Date: 2024-04-27 - Time: 03:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 12.85  
+
+✊ Current Batsman - Tristan Stubbs - 48(25)  
+
+✊ Current Bowler - Nuwan Thushara - 4 Over 56 Run - 0 Wicket  
+
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/27/2024, 10:38:20 AM
+📝 Last Updated on : 4/27/2024, 5:26:26 PM
 
 ***
 
