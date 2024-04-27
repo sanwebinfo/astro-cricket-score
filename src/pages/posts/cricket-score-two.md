@@ -1,25 +1,25 @@
 ---
 title: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "RR 79/3 (9.3) - Rajasthan Royals need 118 runs in 63 balls."
+description: "RR 129/3 (13.3) - Rajasthan Royals need 68 runs in 39 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RR 79/3 (9.3)  
+🔴 Live Score - RR 129/3 (13.3)  
 
-📊 Run Rate - CRR: 8.32  
+📊 Run Rate - CRR: 9.56  
 
-✊ Current Batsman - Dhruv Jurel - 0(4)  
+✊ Current Batsman - Dhruv Jurel - 31(19)  
 
-✊ Current Bowler - Krunal Pandya - 1.3 Over 8 Run - 0 Wicket  
+✊ Current Bowler - Mohsin Khan - 2.3 Over 30 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals need 118 runs in 63 balls
+📑 Status - Rajasthan Royals need 68 runs in 39 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/27/2024, 10:21:38 PM
+📝 Last Updated on : 4/27/2024, 10:38:24 PM
 
 ***
 
