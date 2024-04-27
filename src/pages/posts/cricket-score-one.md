@@ -1,25 +1,25 @@
 ---
 title: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 33/0 (2.4) - Mumbai Indians need 225 runs."
+description: "MI 72/3 (7) - Mumbai Indians need 186 runs in 78 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 33/0 (2.4)  
+🔴 Live Score - MI 72/3 (7)  
 
-📊 Run Rate - CRR: 12.38  
+📊 Run Rate - CRR: 10.29  
 
-✊ Current Batsman - Ishan Kishan - 18(11)  
+✊ Current Batsman - Hardik Pandya - 3(3)  
 
-✊ Current Bowler - Lizaad Williams - 1.4 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Khaleel Ahmed - 3 Over 34 Run - 2 Wicket  
 
-📑 Status - Mumbai Indians need 225 runs
+📑 Status - Mumbai Indians need 186 runs in 78 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/27/2024, 5:56:27 PM
+📝 Last Updated on : 4/27/2024, 6:24:08 PM
 
 ***
 
