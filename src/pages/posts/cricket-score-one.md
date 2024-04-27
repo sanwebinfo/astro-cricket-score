@@ -1,19 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Punjab Kings, 42nd Match - Live Cricket Score"
+title: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Kolkata Knight Riders vs Punjab Kings, 42nd Match - Live Cricket Score - Punjab Kings won by 8 wkts."
+description: "Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score - Date: 2024-04-27 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Kolkata Knight Riders vs Punjab Kings, 42nd Match - Live Cricket Score
+✅ Delhi Capitals vs Mumbai Indians, 43rd Match - Live Cricket Score
 
-📑 Status - Punjab Kings won by 8 wkts
+📑 Status - Date: 2024-04-27 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/27/2024, 5:41:17 AM
+📝 Last Updated on : 4/27/2024, 10:38:20 AM
 
 ***
 
