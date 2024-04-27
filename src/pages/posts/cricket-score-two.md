@@ -1,25 +1,25 @@
 ---
 title: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "LSG 135/3 (13) - Rajasthan Royals opt to bowl."
+description: "RR 20/0 (2.2) - Rajasthan Royals need 177 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 135/3 (13)  
+🔴 Live Score - RR 20/0 (2.2)  
 
-📊 Run Rate - CRR: 10.38  
+📊 Run Rate - CRR: 8.57  
 
-✊ Current Batsman - Nicholas Pooran - 5(3)  
+✊ Current Batsman - Yashasvi Jaiswal - 17(10)  
 
-✊ Current Bowler - Yuzvendra Chahal - 3 Over 35 Run - 0 Wicket  
+✊ Current Bowler - Matt Henry - 1.2 Over 12 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals opt to bowl
+📑 Status - Rajasthan Royals need 177 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/27/2024, 8:39:39 PM
+📝 Last Updated on : 4/27/2024, 9:43:14 PM
 
 ***
 
