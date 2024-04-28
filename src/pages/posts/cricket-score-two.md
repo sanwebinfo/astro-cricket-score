@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Sunrisers Hyderabad, 46th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "SRH 108/5 (14.4) - Sunrisers Hyderabad need 105 runs in 32 balls."
+description: "SRH 128/8 (18) - Sunrisers Hyderabad need 85 runs in 12 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 108/5 (14.4)  
+🔴 Live Score - SRH 128/8 (18)  
 
-📊 Run Rate - CRR: 7.36  
+📊 Run Rate - CRR: 7.11  
 
-✊ Current Batsman - Heinrich Klaasen - 18(18)  
+✊ Current Batsman - Shahbaz Ahmed - 3(3)  
 
-✊ Current Bowler - Shardul Thakur - 2.4 Over 20 Run - 0 Wicket  
+✊ Current Bowler - Shardul Thakur - 4 Over 27 Run - 1 Wicket  
 
-📑 Status - Sunrisers Hyderabad need 105 runs in 32 balls
+📑 Status - Sunrisers Hyderabad need 85 runs in 12 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/28/2024, 11:00:14 PM
+📝 Last Updated on : 4/28/2024, 11:25:36 PM
 
 ***
 
