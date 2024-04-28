@@ -1,19 +1,25 @@
 ---
-title: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score"
+title: "Chennai Super Kings vs Sunrisers Hyderabad, 46th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score - Rajasthan Royals won by 7 wkts."
+description: "SRH 21/2 (2) - Sunrisers Hyderabad need 192 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Lucknow Super Giants vs Rajasthan Royals, 44th Match - Live Cricket Score
+🔴 Live Score - SRH 21/2 (2)  
 
-📑 Status - Rajasthan Royals won by 7 wkts
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Sunrisers Hyderabad need 192 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/28/2024, 5:47:16 AM
+📝 Last Updated on : 4/28/2024, 9:51:44 PM
 
 ***
 
