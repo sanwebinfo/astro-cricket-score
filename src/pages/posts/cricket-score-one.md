@@ -1,25 +1,25 @@
 ---
 title: "Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 153/9 (20) - Innings Break."
+description: "KKR 101/3 (9.4) - Kolkata Knight Riders need 53 runs in 62 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - DC 153/9 (20)  
+🔴 Live Score - KKR 101/3 (9.4)  
 
-📊 Run Rate - CRR: 7.65  
+📊 Run Rate - CRR: 10.45  
 
-✊ Current Batsman - Lizaad Williams - 1(2)  
+✊ Current Batsman - Shreyas Iyer - 2(3)  
 
-✊ Current Bowler - Andre Russell - 1 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Lizaad Williams - 2.4 Over 35 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Kolkata Knight Riders need 53 runs in 62 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/29/2024, 9:37:19 PM
+📝 Last Updated on : 4/29/2024, 10:30:49 PM
 
 ***
 
