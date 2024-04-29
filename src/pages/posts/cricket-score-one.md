@@ -1,19 +1,19 @@
 ---
-title: "Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score - Royal Challengers Bengaluru won by 9 wkts."
+description: "Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score - Date: 2024-04-29 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Gujarat Titans vs Royal Challengers Bengaluru, 45th Match - Live Cricket Score
+✅ Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score
 
-📑 Status - Royal Challengers Bengaluru won by 9 wkts
+📑 Status - Date: 2024-04-29 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/28/2024, 11:13:09 PM
+📝 Last Updated on : 4/29/2024, 5:34:18 PM
 
 ***
 
