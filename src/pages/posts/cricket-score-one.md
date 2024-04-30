@@ -1,25 +1,25 @@
 ---
 title: "Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 109/5 (16.5) - Lucknow Super Giants opt to bowl."
+description: "LSG 1/1 (0.4) - Lucknow Super Giants need 144 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 109/5 (16.5)  
+🔴 Live Score - LSG 1/1 (0.4)  
 
-📊 Run Rate - CRR: 6.48  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Tim David - 5(4)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Naveen-ul-Haq - 2.5 Over 9 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Lucknow Super Giants opt to bowl
+📑 Status - Lucknow Super Giants need 144 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/30/2024, 9:03:27 PM
+📝 Last Updated on : 4/30/2024, 9:43:46 PM
 
 ***
 
