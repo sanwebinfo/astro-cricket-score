@@ -1,19 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score - Kolkata Knight Riders won by 7 wkts."
+description: "Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score - Date: 2024-04-30 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Kolkata Knight Riders vs Delhi Capitals, 47th Match - Live Cricket Score
+✅ Lucknow Super Giants vs Mumbai Indians, 48th Match - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 7 wkts
+📑 Status - Date: 2024-04-30 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/29/2024, 11:15:29 PM
+📝 Last Updated on : 4/30/2024, 10:41:00 AM
 
 ***
 
