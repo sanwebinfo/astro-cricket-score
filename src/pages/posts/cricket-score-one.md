@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CSK 154/6 (19.1) - Punjab Kings opt to bowl."
+description: "PBKS 19/1 (3.1) - Punjab Kings need 144 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - CSK 154/6 (19.1)  
+🔴 Live Score - PBKS 19/1 (3.1)  
 
-📊 Run Rate - CRR: 8.03  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - MS Dhoni - 7(6)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Arshdeep Singh - 3.1 Over 44 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Punjab Kings opt to bowl
+📑 Status - Punjab Kings need 144 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/1/2024, 9:19:27 PM
+📝 Last Updated on : 5/1/2024, 9:59:42 PM
 
 ***
 
