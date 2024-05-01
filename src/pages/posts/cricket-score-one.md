@@ -1,25 +1,25 @@
 ---
 title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PBKS 19/1 (3.1) - Punjab Kings need 144 runs."
+description: "PBKS 58/1 (6.4) - Punjab Kings need 105 runs in 80 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - PBKS 19/1 (3.1)  
+🔴 Live Score - PBKS 58/1 (6.4)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 8.7  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Jonny Bairstow - 25(20)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Ravindra Jadeja - 0.4 Over 6 Run - 0 Wicket  
 
-📑 Status - Punjab Kings need 144 runs
+📑 Status - Punjab Kings need 105 runs in 80 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/1/2024, 9:59:42 PM
+📝 Last Updated on : 5/1/2024, 10:16:33 PM
 
 ***
 
