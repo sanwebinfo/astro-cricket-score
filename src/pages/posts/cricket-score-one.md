@@ -1,25 +1,19 @@
 ---
 title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PBKS 117/3 (12.3) - Punjab Kings need 46 runs in 45 balls."
+description: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score - Punjab Kings won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PBKS 117/3 (12.3)  
+✅ Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 9.36  
-
-✊ Current Batsman - Sam Curran - 1(1)  
-
-✊ Current Bowler - Richard Gleeson - 2.3 Over 18 Run - 1 Wicket  
-
-📑 Status - Punjab Kings need 46 runs in 45 balls
+📑 Status - Punjab Kings won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/1/2024, 10:50:42 PM
+📝 Last Updated on : 5/2/2024, 5:35:49 AM
 
 ***
 
