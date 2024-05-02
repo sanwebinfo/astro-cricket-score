@@ -1,19 +1,19 @@
 ---
-title: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score - Punjab Kings won by 7 wkts."
+description: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score - Date: 2024-05-02 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Chennai Super Kings vs Punjab Kings, 49th Match - Live Cricket Score
+✅ Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score
 
-📑 Status - Punjab Kings won by 7 wkts
+📑 Status - Date: 2024-05-02 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/2/2024, 5:35:49 AM
+📝 Last Updated on : 5/2/2024, 10:34:03 AM
 
 ***
 
