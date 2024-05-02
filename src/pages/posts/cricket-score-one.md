@@ -1,25 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 67/2 (9.2) - Sunrisers Hyderabad opt to bat."
+description: "RR 35/2 (4) - Rajasthan Royals need 167 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 67/2 (9.2)  
+🔴 Live Score - RR 35/2 (4)  
 
-📊 Run Rate - CRR: 7.18  
+📊 Run Rate - CRR: 8.75  
 
-✊ Current Batsman - Travis Head - 42(31)  
+✊ Current Batsman - Riyan Parag - 15(9)  
 
-✊ Current Bowler - Ravichandran Ashwin - 2.2 Over 12 Run - 0 Wicket  
+✊ Current Bowler - Bhuvneshwar Kumar - 2 Over 16 Run - 2 Wicket  
 
-📑 Status - Sunrisers Hyderabad opt to bat
+📑 Status - Rajasthan Royals need 167 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/2/2024, 8:17:58 PM
+📝 Last Updated on : 5/2/2024, 9:49:55 PM
 
 ***
 
