@@ -1,19 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score - Date: 2024-05-02 - Time: 07:30:00 PM (Indian Local Time)."
+description: "SRH 22/0 (3.2) - Sunrisers Hyderabad opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score
+🔴 Live Score - SRH 22/0 (3.2)  
 
-📑 Status - Date: 2024-05-02 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6.6  
+
+✊ Current Batsman - Abhishek Sharma - 9(6)  
+
+✊ Current Bowler - Ravichandran Ashwin - 1.2 Over 8 Run - 0 Wicket  
+
+📑 Status - Sunrisers Hyderabad opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/2/2024, 10:34:03 AM
+📝 Last Updated on : 5/2/2024, 7:46:00 PM
 
 ***
 
