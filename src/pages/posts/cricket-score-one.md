@@ -1,25 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Rajasthan Royals, 50th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 35/2 (4) - Rajasthan Royals need 167 runs."
+description: "RR 107/2 (10.3) - Rajasthan Royals need 95 runs in 57 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RR 35/2 (4)  
+🔴 Live Score - RR 107/2 (10.3)  
 
-📊 Run Rate - CRR: 8.75  
+📊 Run Rate - CRR: 10.19  
 
-✊ Current Batsman - Riyan Parag - 15(9)  
+✊ Current Batsman - Riyan Parag - 46(29)  
 
-✊ Current Bowler - Bhuvneshwar Kumar - 2 Over 16 Run - 2 Wicket  
+✊ Current Bowler - Shahbaz Ahmed - 0.3 Over 5 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals need 167 runs
+📑 Status - Rajasthan Royals need 95 runs in 57 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/2/2024, 9:49:55 PM
+📝 Last Updated on : 5/2/2024, 10:27:23 PM
 
 ***
 
