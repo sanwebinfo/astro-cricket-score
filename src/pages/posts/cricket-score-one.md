@@ -1,25 +1,25 @@
 ---
 title: "Mumbai Indians vs Kolkata Knight Riders, 51st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 66/4 (9.3) - Mumbai Indians need 104 runs in 63 balls."
+description: "MI 123/7 (15.5) - Mumbai Indians need 47 runs in 25 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 66/4 (9.3)  
+🔴 Live Score - MI 123/7 (15.5)  
 
-📊 Run Rate - CRR: 6.95  
+📊 Run Rate - CRR: 7.77  
 
-✊ Current Batsman - Nehal Wadhera - 4(4)  
+✊ Current Batsman - Tim David - 12(10)  
 
-✊ Current Bowler - Andre Russell - 0.3 Over 5 Run - 0 Wicket  
+✊ Current Bowler - Andre Russell - 2.5 Over 20 Run - 2 Wicket  
 
-📑 Status - Mumbai Indians need 104 runs in 63 balls
+📑 Status - Mumbai Indians need 47 runs in 25 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/3/2024, 10:20:17 PM
+📝 Last Updated on : 5/3/2024, 10:59:40 PM
 
 ***
 
