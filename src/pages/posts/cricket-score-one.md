@@ -1,17 +1,17 @@
 ---
 title: "Mumbai Indians vs Kolkata Knight Riders, 51st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 153/7 (17) - Mumbai Indians opt to bowl."
+description: "KKR 156/9 (18) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 153/7 (17)  
+🔴 Live Score - KKR 156/9 (18)  
 
-📊 Run Rate - CRR: 9  
+📊 Run Rate - CRR: 8.67  
 
-✊ Current Batsman - Ramandeep Singh - 0(0)  
+✊ Current Batsman - Venkatesh Iyer - 57(41)  
 
-✊ Current Bowler - Nuwan Thushara - 3 Over 30 Run - 3 Wicket  
+✊ Current Bowler - Nuwan Thushara - 3 Over 31 Run - 3 Wicket  
 
 📑 Status - Mumbai Indians opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/3/2024, 9:00:10 PM
+📝 Last Updated on : 5/3/2024, 9:07:06 PM
 
 ***
 
