@@ -1,25 +1,25 @@
 ---
 title: "Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 41/3 (8) - Date: 2024-05-04 - Time: 07:30:00 PM (Indian Local Time)."
+description: "GT 112/5 (15.2) - Royal Challengers Bengaluru opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 41/3 (8)  
+🔴 Live Score - GT 112/5 (15.2)  
 
-📊 Run Rate - CRR: 5.12  
+📊 Run Rate - CRR: 7.3  
 
-✊ Current Batsman - David Miller - 11(9)  
+✊ Current Batsman - Rahul Tewatia - 20(13)  
 
-✊ Current Bowler - Cameron Green - 2 Over 12 Run - 1 Wicket  
+✊ Current Bowler - Karn Sharma - 2.2 Over 33 Run - 1 Wicket  
 
-📑 Status - Date: 2024-05-04 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Royal Challengers Bengaluru opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/4/2024, 8:19:12 PM
+📝 Last Updated on : 5/4/2024, 8:58:56 PM
 
 ***
 
