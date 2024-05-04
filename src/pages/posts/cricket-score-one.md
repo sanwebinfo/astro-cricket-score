@@ -1,25 +1,19 @@
 ---
 title: "Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 121/6 (11.1) - Royal Challengers Bengaluru need 27 runs in 53 balls."
+description: "Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score - Royal Challengers Bengaluru won by 4 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RCB 121/6 (11.1)  
+✅ Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score
 
-📊 Run Rate - CRR: 10.75  
-
-✊ Current Batsman - Dinesh Karthik - 6(4)  
-
-✊ Current Bowler - Rashid Khan - 0.1 Over 4 Run - 0 Wicket  
-
-📑 Status - Royal Challengers Bengaluru need 27 runs in 53 balls
+📑 Status - Royal Challengers Bengaluru won by 4 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/4/2024, 10:34:23 PM
+📝 Last Updated on : 5/4/2024, 10:57:15 PM
 
 ***
 
