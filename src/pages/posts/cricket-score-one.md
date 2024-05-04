@@ -1,19 +1,19 @@
 ---
-title: "Mumbai Indians vs Kolkata Knight Riders, 51st Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Mumbai Indians vs Kolkata Knight Riders, 51st Match - Live Cricket Score - Kolkata Knight Riders won by 24 runs."
+description: "Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score - Date: 2024-05-04 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Mumbai Indians vs Kolkata Knight Riders, 51st Match - Live Cricket Score
+✅ Royal Challengers Bengaluru vs Gujarat Titans, 52nd Match - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 24 runs
+📑 Status - Date: 2024-05-04 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/4/2024, 10:01:05 AM
+📝 Last Updated on : 5/4/2024, 11:50:07 AM
 
 ***
 
