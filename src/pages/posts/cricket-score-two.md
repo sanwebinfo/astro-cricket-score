@@ -1,19 +1,25 @@
 ---
-title: "Chennai Super Kings vs Sunrisers Hyderabad, 46th Match - Live Cricket Score"
+title: "Lucknow Super Giants vs Kolkata Knight Riders, 54th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Chennai Super Kings vs Sunrisers Hyderabad, 46th Match - Live Cricket Score - Chennai Super Kings won by 78 runs."
+description: "KKR 57/0 (4) - Lucknow Super Giants opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Chennai Super Kings vs Sunrisers Hyderabad, 46th Match - Live Cricket Score
+🔴 Live Score - KKR 57/0 (4)  
 
-📑 Status - Chennai Super Kings won by 78 runs
+📊 Run Rate - CRR: 14.25  
+
+✊ Current Batsman - Philip Salt - 28(12)  
+
+✊ Current Bowler - Naveen-ul-Haq - 1 Over 19 Run - 0 Wicket  
+
+📑 Status - Lucknow Super Giants opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 4/28/2024, 11:43:13 PM
+📝 Last Updated on : 5/5/2024, 7:52:02 PM
 
 ***
 
