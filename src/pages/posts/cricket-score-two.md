@@ -1,17 +1,17 @@
 ---
 title: "Lucknow Super Giants vs Kolkata Knight Riders, 54th Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "KKR 57/0 (4) - Lucknow Super Giants opt to bowl."
+description: "KKR 196/4 (17.4) - Lucknow Super Giants opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 57/0 (4)  
+🔴 Live Score - KKR 196/4 (17.4)  
 
-📊 Run Rate - CRR: 14.25  
+📊 Run Rate - CRR: 11.09  
 
-✊ Current Batsman - Philip Salt - 28(12)  
+✊ Current Batsman - Rinku Singh - 12(9)  
 
-✊ Current Bowler - Naveen-ul-Haq - 1 Over 19 Run - 0 Wicket  
+✊ Current Bowler - Naveen-ul-Haq - 3.4 Over 45 Run - 2 Wicket  
 
 📑 Status - Lucknow Super Giants opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/5/2024, 7:52:02 PM
+📝 Last Updated on : 5/5/2024, 9:12:01 PM
 
 ***
 
