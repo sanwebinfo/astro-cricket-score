@@ -1,25 +1,25 @@
 ---
 title: "Punjab Kings vs Chennai Super Kings, 53rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CSK 51/1 (5.3) - Punjab Kings opt to bowl."
+description: "PBKS 31/2 (5) - Punjab Kings need 137 runs in 90 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - CSK 51/1 (5.3)  
+🔴 Live Score - PBKS 31/2 (5)  
 
-📊 Run Rate - CRR: 9.27  
+📊 Run Rate - CRR: 6.2  
 
-✊ Current Batsman - Ruturaj Gaikwad - 20(14)  
+✊ Current Batsman - Prabhsimran Singh - 9(11)  
 
-✊ Current Bowler - Harpreet Brar - 0.3 Over 10 Run - 0 Wicket  
+✊ Current Bowler - Tushar Deshpande - 2 Over 12 Run - 2 Wicket  
 
-📑 Status - Punjab Kings opt to bowl
+📑 Status - Punjab Kings need 137 runs in 90 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/5/2024, 3:59:00 PM
+📝 Last Updated on : 5/5/2024, 5:53:59 PM
 
 ***
 
