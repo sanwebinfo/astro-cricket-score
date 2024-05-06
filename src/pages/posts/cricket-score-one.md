@@ -1,25 +1,25 @@
 ---
 title: "Mumbai Indians vs Sunrisers Hyderabad, 55th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "MI 128/3 (14) - Mumbai Indians need 46 runs in 36 balls."
+description: "MI 149/3 (16) - Mumbai Indians need 25 runs in 24 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - MI 128/3 (14)  
+🔴 Live Score - MI 149/3 (16)  
 
-📊 Run Rate - CRR: 9.14  
+📊 Run Rate - CRR: 9.31  
 
-✊ Current Batsman - Suryakumar Yadav - 66(38)  
+✊ Current Batsman - Tilak Varma - 34(29)  
 
-✊ Current Bowler - Marco Jansen - 3 Over 45 Run - 1 Wicket  
+✊ Current Bowler - Shahbaz Ahmed - 1 Over 11 Run - 0 Wicket  
 
-📑 Status - Mumbai Indians need 46 runs in 36 balls
+📑 Status - Mumbai Indians need 25 runs in 24 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/6/2024, 10:54:46 PM
+📝 Last Updated on : 5/6/2024, 11:05:52 PM
 
 ***
 
