@@ -1,17 +1,17 @@
 ---
 title: "Mumbai Indians vs Sunrisers Hyderabad, 55th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 16/0 (1.4) - Mumbai Indians opt to bowl."
+description: "SRH 92/4 (11.2) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 16/0 (1.4)  
+🔴 Live Score - SRH 92/4 (11.2)  
 
-📊 Run Rate - CRR: 9.6  
+📊 Run Rate - CRR: 8.12  
 
-✊ Current Batsman - Abhishek Sharma - 8(6)  
+✊ Current Batsman - Marco Jansen - 0(1)  
 
-✊ Current Bowler - Anshul Kamboj - 0.4 Over 9 Run - 0 Wicket  
+✊ Current Bowler - Hardik Pandya - 2.2 Over 22 Run - 1 Wicket  
 
 📑 Status - Mumbai Indians opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/6/2024, 7:43:03 PM
+📝 Last Updated on : 5/6/2024, 8:35:12 PM
 
 ***
 
