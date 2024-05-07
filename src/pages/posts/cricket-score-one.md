@@ -1,25 +1,25 @@
 ---
 title: "Delhi Capitals vs Rajasthan Royals, 56th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 130/3 (12.5) - Rajasthan Royals need 92 runs in 43 balls."
+description: "RR 136/3 (13.3) - Rajasthan Royals need 86 runs in 39 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RR 130/3 (12.5)  
+🔴 Live Score - RR 136/3 (13.3)  
 
-📊 Run Rate - CRR: 10.13  
+📊 Run Rate - CRR: 10.07  
 
-✊ Current Batsman - Shubham Dubey - 1(2)  
+✊ Current Batsman - Sanju Samson - 78(37)  
 
-✊ Current Bowler - Rasikh Dar Salam - 1.5 Over 27 Run - 1 Wicket  
+✊ Current Bowler - Ishant Sharma - 2.3 Over 22 Run - 0 Wicket  
 
-📑 Status - Rajasthan Royals need 92 runs in 43 balls
+📑 Status - Rajasthan Royals need 86 runs in 39 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/7/2024, 10:35:23 PM
+📝 Last Updated on : 5/7/2024, 10:37:36 PM
 
 ***
 
