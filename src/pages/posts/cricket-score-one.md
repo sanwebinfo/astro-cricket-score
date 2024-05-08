@@ -1,25 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 41/0 (2.4) - Sunrisers Hyderabad need 125 runs."
+description: "SRH 101/0 (5.5) - Sunrisers Hyderabad need 65 runs in 85 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 41/0 (2.4)  
+🔴 Live Score - SRH 101/0 (5.5)  
 
-📊 Run Rate - CRR: 15.38  
+📊 Run Rate - CRR: 17.31  
 
-✊ Current Batsman - Travis Head - 20(7)  
+✊ Current Batsman - Abhishek Sharma - 40(17)  
 
-✊ Current Bowler - Krishnappa Gowtham - 1.4 Over 23 Run - 0 Wicket  
+✊ Current Bowler - Yash Thakur - 1.5 Over 31 Run - 0 Wicket  
 
-📑 Status - Sunrisers Hyderabad need 125 runs
+📑 Status - Sunrisers Hyderabad need 65 runs in 85 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/8/2024, 9:42:11 PM
+📝 Last Updated on : 5/8/2024, 9:57:43 PM
 
 ***
 
