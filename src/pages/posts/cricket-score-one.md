@@ -1,19 +1,19 @@
 ---
-title: "Delhi Capitals vs Rajasthan Royals, 56th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Rajasthan Royals, 56th Match - Live Cricket Score - Delhi Capitals won by 20 runs."
+description: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score - Date: 2024-05-08 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Delhi Capitals vs Rajasthan Royals, 56th Match - Live Cricket Score
+✅ Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score
 
-📑 Status - Delhi Capitals won by 20 runs
+📑 Status - Date: 2024-05-08 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/8/2024, 6:12:17 AM
+📝 Last Updated on : 5/8/2024, 7:13:22 PM
 
 ***
 
