@@ -1,19 +1,25 @@
 ---
 title: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score - Date: 2024-05-08 - Time: 07:30:00 PM (Indian Local Time)."
+description: "LSG 126/4 (17) - Lucknow Super Giants opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score
+🔴 Live Score - LSG 126/4 (17)  
 
-📑 Status - Date: 2024-05-08 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 7.41  
+
+✊ Current Batsman - Ayush Badoni - 36(20)  
+
+✊ Current Bowler - Pat Cummins - 3 Over 28 Run - 1 Wicket  
+
+📑 Status - Lucknow Super Giants opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/8/2024, 7:13:22 PM
+📝 Last Updated on : 5/8/2024, 8:59:25 PM
 
 ***
 
