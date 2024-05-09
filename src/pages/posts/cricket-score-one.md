@@ -1,17 +1,17 @@
 ---
 title: "Punjab Kings vs Royal Challengers Bengaluru, 58th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 111/2 (9.2) - Punjab Kings opt to bowl."
+description: "RCB 211/4 (17.4) - Punjab Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 111/2 (9.2)  
+🔴 Live Score - RCB 211/4 (17.4)  
 
-📊 Run Rate - CRR: 11.89  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Rajat Patidar - 48(20)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Sam Curran - 1.2 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
 📑 Status - Punjab Kings opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/9/2024, 8:18:56 PM
+📝 Last Updated on : 5/9/2024, 9:32:37 PM
 
 ***
 
