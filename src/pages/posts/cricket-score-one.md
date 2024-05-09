@@ -1,19 +1,25 @@
 ---
-title: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score"
+title: "Punjab Kings vs Royal Challengers Bengaluru, 58th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score - Sunrisers Hyderabad won by 10 wkts."
+description: "RCB 111/2 (9.2) - Punjab Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Lucknow Super Giants, 57th Match - Live Cricket Score
+🔴 Live Score - RCB 111/2 (9.2)  
 
-📑 Status - Sunrisers Hyderabad won by 10 wkts
+📊 Run Rate - CRR: 11.89  
+
+✊ Current Batsman - Rajat Patidar - 48(20)  
+
+✊ Current Bowler - Sam Curran - 1.2 Over 21 Run - 0 Wicket  
+
+📑 Status - Punjab Kings opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/8/2024, 10:33:14 PM
+📝 Last Updated on : 5/9/2024, 8:18:56 PM
 
 ***
 
