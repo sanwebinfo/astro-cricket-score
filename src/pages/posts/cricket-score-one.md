@@ -1,19 +1,25 @@
 ---
-title: "Punjab Kings vs Royal Challengers Bengaluru, 58th Match - Live Cricket Score"
+title: "Gujarat Titans vs Chennai Super Kings, 59th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Punjab Kings vs Royal Challengers Bengaluru, 58th Match - Live Cricket Score - Royal Challengers Bengaluru won by 60 runs."
+description: "GT 46/0 (5) - Chennai Super Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Punjab Kings vs Royal Challengers Bengaluru, 58th Match - Live Cricket Score
+🔴 Live Score - GT 46/0 (5)  
 
-📑 Status - Royal Challengers Bengaluru won by 60 runs
+📊 Run Rate - CRR: 9.2  
+
+✊ Current Batsman - Sai Sudharsan - 23(19)  
+
+✊ Current Bowler - Tushar Deshpande - 2 Over 18 Run - 0 Wicket  
+
+📑 Status - Chennai Super Kings opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/10/2024, 5:47:28 AM
+📝 Last Updated on : 5/10/2024, 7:56:05 PM
 
 ***
 
