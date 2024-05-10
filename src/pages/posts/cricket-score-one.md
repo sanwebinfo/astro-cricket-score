@@ -1,17 +1,17 @@
 ---
 title: "Gujarat Titans vs Chennai Super Kings, 59th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 46/0 (5) - Chennai Super Kings opt to bowl."
+description: "GT 98/0 (9.1) - Chennai Super Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 46/0 (5)  
+🔴 Live Score - GT 98/0 (9.1)  
 
-📊 Run Rate - CRR: 9.2  
+📊 Run Rate - CRR: 10.69  
 
-✊ Current Batsman - Sai Sudharsan - 23(19)  
+✊ Current Batsman - Shubman Gill - 44(22)  
 
-✊ Current Bowler - Tushar Deshpande - 2 Over 18 Run - 0 Wicket  
+✊ Current Bowler - Daryl Mitchell - 1.1 Over 11 Run - 0 Wicket  
 
 📑 Status - Chennai Super Kings opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/10/2024, 7:56:05 PM
+📝 Last Updated on : 5/10/2024, 8:17:25 PM
 
 ***
 
