@@ -1,25 +1,25 @@
 ---
 title: "Gujarat Titans vs Chennai Super Kings, 59th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "GT 98/0 (9.1) - Chennai Super Kings opt to bowl."
+description: "GT 231/3 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - GT 98/0 (9.1)  
+🔴 Live Score - GT 231/3 (20)  
 
-📊 Run Rate - CRR: 10.69  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Shubman Gill - 44(22)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Daryl Mitchell - 1.1 Over 11 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Chennai Super Kings opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/10/2024, 8:17:25 PM
+📝 Last Updated on : 5/10/2024, 9:27:36 PM
 
 ***
 
