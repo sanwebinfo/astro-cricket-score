@@ -1,17 +1,17 @@
 ---
 title: "Kolkata Knight Riders vs Mumbai Indians, 60th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 6/0 (0.3) - 16 overs per side."
+description: "KKR 15/2 (2) - 16 overs per side."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - KKR 6/0 (0.3)  
+🔴 Live Score - KKR 15/2 (2)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 7.5  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Shreyas Iyer - 4(4)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Nuwan Thushara - 1 Over 10 Run - 1 Wicket  
 
 📑 Status - 16 overs per side
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/11/2024, 9:19:25 PM
+📝 Last Updated on : 5/11/2024, 9:28:16 PM
 
 ***
 
