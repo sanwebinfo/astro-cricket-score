@@ -1,25 +1,25 @@
 ---
 title: "Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "DC 90/6 (11) - Delhi Capitals need 98 runs in 54 balls."
+description: "DC 127/7 (15) - Delhi Capitals need 61 runs in 30 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - DC 90/6 (11)  
+🔴 Live Score - DC 127/7 (15)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 8.47  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Axar Patel - 57(35)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Lockie Ferguson - 3 Over 21 Run - 1 Wicket  
 
-📑 Status - Delhi Capitals need 98 runs in 54 balls
+📑 Status - Delhi Capitals need 61 runs in 30 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/12/2024, 10:23:58 PM
+📝 Last Updated on : 5/12/2024, 10:42:22 PM
 
 ***
 
