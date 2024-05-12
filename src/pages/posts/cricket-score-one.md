@@ -1,25 +1,19 @@
 ---
 title: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RR 93/3 (14.5) - Rajasthan Royals opt to bat."
+description: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score - Chennai Super Kings won by 5 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RR 93/3 (14.5)  
+✅ Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score
 
-📊 Run Rate - CRR: 6.27  
-
-✊ Current Batsman - Dhruv Jurel - 1(2)  
-
-✊ Current Bowler - Simarjeet Singh - 2.5 Over 15 Run - 3 Wicket  
-
-📑 Status - Rajasthan Royals opt to bat
+📑 Status - Chennai Super Kings won by 5 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/12/2024, 4:45:25 PM
+📝 Last Updated on : 5/12/2024, 8:21:20 PM
 
 ***
 
