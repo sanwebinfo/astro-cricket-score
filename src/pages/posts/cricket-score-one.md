@@ -1,25 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Mumbai Indians, 60th Match - Live Cricket Score"
+title: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "KKR 157/7 (16) - Innings Break."
+description: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score - Date: 2024-05-12 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - KKR 157/7 (16)  
+✅ Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score
 
-📊 Run Rate - CRR: 9.81  
-
-✊ Current Batsman - Mitchell Starc - 2(2)  
-
-✊ Current Bowler - Jasprit Bumrah - 4 Over 39 Run - 2 Wicket  
-
-📑 Status - Innings Break
+📑 Status - Date: 2024-05-12 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/11/2024, 10:57:32 PM
+📝 Last Updated on : 5/12/2024, 10:04:07 AM
 
 ***
 
