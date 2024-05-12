@@ -1,19 +1,19 @@
 ---
-title: "Lucknow Super Giants vs Kolkata Knight Riders, 54th Match - Live Cricket Score"
+title: "Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Lucknow Super Giants vs Kolkata Knight Riders, 54th Match - Live Cricket Score - Kolkata Knight Riders won by 98 runs."
+description: "Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score - Date: 2024-05-12 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Lucknow Super Giants vs Kolkata Knight Riders, 54th Match - Live Cricket Score
+✅ Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 98 runs
+📑 Status - Date: 2024-05-12 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/5/2024, 11:23:12 PM
+📝 Last Updated on : 5/12/2024, 1:48:41 PM
 
 ***
 
