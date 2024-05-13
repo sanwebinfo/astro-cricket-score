@@ -1,19 +1,19 @@
 ---
-title: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score"
+title: "Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score - Chennai Super Kings won by 5 wkts."
+description: "Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score - Date: 2024-05-13 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Chennai Super Kings vs Rajasthan Royals, 61st Match - Live Cricket Score
+✅ Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score
 
-📑 Status - Chennai Super Kings won by 5 wkts
+📑 Status - Date: 2024-05-13 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/12/2024, 8:21:20 PM
+📝 Last Updated on : 5/13/2024, 7:50:28 PM
 
 ***
 
