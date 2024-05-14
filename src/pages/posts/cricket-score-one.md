@@ -1,25 +1,25 @@
 ---
 title: "Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "DC 170/4 (17.3) - Lucknow Super Giants opt to bowl."
+description: "DC 208/4 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - DC 170/4 (17.3)  
+🔴 Live Score - DC 208/4 (20)  
 
-📊 Run Rate - CRR: 9.71  
+📊 Run Rate - CRR: 10.4  
 
-✊ Current Batsman - Tristan Stubbs - 30(16)  
+✊ Current Batsman - Axar Patel - 14(10)  
 
-✊ Current Bowler - Mohsin Khan - 3.3 Over 24 Run - 0 Wicket  
+✊ Current Bowler - Yudhvir Singh Charak - 2 Over 28 Run - 0 Wicket  
 
-📑 Status - Lucknow Super Giants opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/14/2024, 9:10:18 PM
+📝 Last Updated on : 5/14/2024, 9:29:09 PM
 
 ***
 
