@@ -1,19 +1,19 @@
 ---
 title: "Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score - Date: 2024-05-13 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score - Match abandoned without toss."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Gujarat Titans vs Kolkata Knight Riders, 63rd Match - Live Cricket Score
 
-📑 Status - Date: 2024-05-13 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Match abandoned without toss
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/13/2024, 7:50:28 PM
+📝 Last Updated on : 5/14/2024, 5:43:14 AM
 
 ***
 
