@@ -1,19 +1,25 @@
 ---
-title: "Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score"
+title: "Rajasthan Royals vs Punjab Kings, 65th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score - Delhi Capitals won by 19 runs."
+description: "RR 144/9 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score
+🔴 Live Score - RR 144/9 (20)  
 
-📑 Status - Delhi Capitals won by 19 runs
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/15/2024, 8:59:36 AM
+📝 Last Updated on : 5/15/2024, 9:28:33 PM
 
 ***
 
