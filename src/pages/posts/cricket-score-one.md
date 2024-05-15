@@ -1,25 +1,19 @@
 ---
 title: "Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 85/5 (9) - Lucknow Super Giants need 124 runs in 66 balls."
+description: "Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score - Delhi Capitals won by 19 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - LSG 85/5 (9)  
+✅ Delhi Capitals vs Lucknow Super Giants, 64th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 9.44  
-
-✊ Current Batsman - Krunal Pandya - 2(3)  
-
-✊ Current Bowler - Tristan Stubbs - 1 Over 4 Run - 1 Wicket  
-
-📑 Status - Lucknow Super Giants need 124 runs in 66 balls
+📑 Status - Delhi Capitals won by 19 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/14/2024, 10:30:51 PM
+📝 Last Updated on : 5/15/2024, 8:59:36 AM
 
 ***
 
