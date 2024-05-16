@@ -1,19 +1,19 @@
 ---
 title: "Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score - Date: 2024-05-16 - Time: 07:30:00 PM (Indian Local Time)."
+description: "Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score - Match abandoned without toss."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score
 
-📑 Status - Date: 2024-05-16 - Time: 07:30:00 PM (Indian Local Time)
+📑 Status - Match abandoned without toss
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/16/2024, 10:07:23 PM
+📝 Last Updated on : 5/16/2024, 10:51:00 PM
 
 ***
 
