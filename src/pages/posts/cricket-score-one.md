@@ -1,25 +1,19 @@
 ---
 title: "Rajasthan Royals vs Punjab Kings, 65th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PBKS 75/4 (11.5) - Punjab Kings need 70 runs in 49 balls."
+description: "Rajasthan Royals vs Punjab Kings, 65th Match - Live Cricket Score - Punjab Kings won by 5 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PBKS 75/4 (11.5)  
+✅ Rajasthan Royals vs Punjab Kings, 65th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 6.34  
-
-✊ Current Batsman - Sam Curran - 20(17)  
-
-✊ Current Bowler - Yuzvendra Chahal - 2.5 Over 21 Run - 1 Wicket  
-
-📑 Status - Punjab Kings need 70 runs in 49 balls
+📑 Status - Punjab Kings won by 5 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/15/2024, 10:39:13 PM
+📝 Last Updated on : 5/16/2024, 5:47:06 AM
 
 ***
 
