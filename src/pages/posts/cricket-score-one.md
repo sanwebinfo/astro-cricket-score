@@ -1,19 +1,25 @@
 ---
-title: "Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score"
+title: "Mumbai Indians vs Lucknow Super Giants, 67th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score - Match abandoned without toss."
+description: "LSG 14/1 (3) - Mumbai Indians opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Gujarat Titans, 66th Match - Live Cricket Score
+🔴 Live Score - LSG 14/1 (3)  
 
-📑 Status - Match abandoned without toss
+📊 Run Rate - CRR: 4.67  
+
+✊ Current Batsman - KL Rahul - 3(6)  
+
+✊ Current Bowler - Arjun Tendulkar - 1 Over 3 Run - 0 Wicket  
+
+📑 Status - Mumbai Indians opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/16/2024, 10:51:00 PM
+📝 Last Updated on : 5/17/2024, 7:52:31 PM
 
 ***
 
