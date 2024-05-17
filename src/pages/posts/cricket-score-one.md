@@ -1,25 +1,25 @@
 ---
 title: "Mumbai Indians vs Lucknow Super Giants, 67th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 68/2 (9) - Mumbai Indians opt to bowl."
+description: "LSG 214/6 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 68/2 (9)  
+🔴 Live Score - LSG 214/6 (20)  
 
-📊 Run Rate - CRR: 7.56  
+📊 Run Rate - CRR: 10.7  
 
-✊ Current Batsman - KL Rahul - 26(23)  
+✊ Current Batsman - Krunal Pandya - 12(7)  
 
-✊ Current Bowler - Piyush Chawla - 2 Over 20 Run - 1 Wicket  
+✊ Current Bowler - Romario Shepherd - 2 Over 30 Run - 0 Wicket  
 
-📑 Status - Mumbai Indians opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/17/2024, 8:20:04 PM
+📝 Last Updated on : 5/17/2024, 9:31:43 PM
 
 ***
 
