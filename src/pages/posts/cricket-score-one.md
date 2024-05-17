@@ -1,25 +1,25 @@
 ---
 title: "Mumbai Indians vs Lucknow Super Giants, 67th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "LSG 214/6 (20) - Innings Break."
+description: "MI 53/0 (6) - Mumbai Indians need 162 runs in 84 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - LSG 214/6 (20)  
+🔴 Live Score - MI 53/0 (6)  
 
-📊 Run Rate - CRR: 10.7  
+📊 Run Rate - CRR: 8.83  
 
-✊ Current Batsman - Krunal Pandya - 12(7)  
+✊ Current Batsman - Rohit Sharma - 39(23)  
 
-✊ Current Bowler - Romario Shepherd - 2 Over 30 Run - 0 Wicket  
+✊ Current Bowler - Mohsin Khan - 1 Over 9 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Mumbai Indians need 162 runs in 84 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/17/2024, 9:31:43 PM
+📝 Last Updated on : 5/17/2024, 10:59:47 PM
 
 ***
 
