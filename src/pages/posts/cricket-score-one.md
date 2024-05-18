@@ -1,17 +1,17 @@
 ---
 title: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 98/1 (11) - Chennai Super Kings opt to bowl."
+description: "RCB 142/2 (15.1) - Chennai Super Kings opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 98/1 (11)  
+🔴 Live Score - RCB 142/2 (15.1)  
 
-📊 Run Rate - CRR: 8.91  
+📊 Run Rate - CRR: 9.36  
 
-✊ Current Batsman - Rajat Patidar - 1(3)  
+✊ Current Batsman - Rajat Patidar - 27(15)  
 
-✊ Current Bowler - Mitchell Santner - 3 Over 18 Run - 1 Wicket  
+✊ Current Bowler - Shardul Thakur - 1.1 Over 20 Run - 0 Wicket  
 
 📑 Status - Chennai Super Kings opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/18/2024, 8:57:12 PM
+📝 Last Updated on : 5/18/2024, 9:22:48 PM
 
 ***
 
