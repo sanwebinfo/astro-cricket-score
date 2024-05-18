@@ -1,25 +1,19 @@
 ---
 title: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CSK 87/3 (10) - Chennai Super Kings need 132 runs in 60 balls."
+description: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score - Royal Challengers Bengaluru won by 27 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - CSK 87/3 (10)  
+✅ Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score
 
-📊 Run Rate - CRR: 8.7  
-
-✊ Current Batsman - Rachin Ravindra - 39(27)  
-
-✊ Current Bowler - Swapnil Singh - 2 Over 13 Run - 0 Wicket  
-
-📑 Status - Chennai Super Kings need 132 runs in 60 balls
+📑 Status - Royal Challengers Bengaluru won by 27 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/18/2024, 11:04:53 PM
+📝 Last Updated on : 5/19/2024, 5:14:17 AM
 
 ***
 
