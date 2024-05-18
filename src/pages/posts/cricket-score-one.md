@@ -1,25 +1,25 @@
 ---
 title: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 177/2 (17.1) - Chennai Super Kings opt to bowl."
+description: "CSK 41/2 (4.4) - Chennai Super Kings need 178 runs in 92 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 177/2 (17.1)  
+🔴 Live Score - CSK 41/2 (4.4)  
 
-📊 Run Rate - CRR: 10.31  
+📊 Run Rate - CRR: 8.79  
 
-✊ Current Batsman - Cameron Green - 29(13)  
+✊ Current Batsman - Ajinkya Rahane - 12(9)  
 
-✊ Current Bowler - Shardul Thakur - 2.1 Over 38 Run - 0 Wicket  
+✊ Current Bowler - Glenn Maxwell - 1.4 Over 14 Run - 1 Wicket  
 
-📑 Status - Chennai Super Kings opt to bowl
+📑 Status - Chennai Super Kings need 178 runs in 92 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/18/2024, 9:39:04 PM
+📝 Last Updated on : 5/18/2024, 10:34:15 PM
 
 ***
 
