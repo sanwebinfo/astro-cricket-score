@@ -1,19 +1,25 @@
 ---
-title: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Punjab Kings, 69th Match - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score - Royal Challengers Bengaluru won by 27 runs."
+description: "PBKS 82/0 (8) - Punjab Kings opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Royal Challengers Bengaluru vs Chennai Super Kings, 68th Match - Live Cricket Score
+🔴 Live Score - PBKS 82/0 (8)  
 
-📑 Status - Royal Challengers Bengaluru won by 27 runs
+📊 Run Rate - CRR: 10.25  
+
+✊ Current Batsman - Atharva Taide - 40(23)  
+
+✊ Current Bowler - Vijayakanth Viyaskanth - 1 Over 7 Run - 0 Wicket  
+
+📑 Status - Punjab Kings opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/19/2024, 5:14:17 AM
+📝 Last Updated on : 5/19/2024, 4:07:14 PM
 
 ***
 
