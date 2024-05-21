@@ -1,19 +1,25 @@
 ---
-title: "Sunrisers Hyderabad vs Punjab Kings, 69th Match - Live Cricket Score"
+title: "Kolkata Knight Riders vs Sunrisers Hyderabad, Qualifier 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sunrisers Hyderabad vs Punjab Kings, 69th Match - Live Cricket Score - Sunrisers Hyderabad won by 4 wkts."
+description: "SRH 112/5 (12.1) - Sunrisers Hyderabad opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sunrisers Hyderabad vs Punjab Kings, 69th Match - Live Cricket Score
+🔴 Live Score - SRH 112/5 (12.1)  
 
-📑 Status - Sunrisers Hyderabad won by 4 wkts
+📊 Run Rate - CRR: 9.21  
+
+✊ Current Batsman - Abdul Samad - 7(4)  
+
+✊ Current Bowler - Varun Chakaravarthy - 1.1 Over 11 Run - 1 Wicket  
+
+📑 Status - Sunrisers Hyderabad opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/20/2024, 5:36:53 AM
+📝 Last Updated on : 5/21/2024, 8:37:23 PM
 
 ***
 
