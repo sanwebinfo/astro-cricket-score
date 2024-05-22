@@ -1,17 +1,17 @@
 ---
 title: "Rajasthan Royals vs Royal Challengers Bengaluru, Eliminator - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RCB 122/4 (14.1) - Rajasthan Royals opt to bowl."
+description: "RCB 150/5 (17.3) - Rajasthan Royals opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RCB 122/4 (14.1)  
+🔴 Live Score - RCB 150/5 (17.3)  
 
-📊 Run Rate - CRR: 8.61  
+📊 Run Rate - CRR: 8.57  
 
-✊ Current Batsman - Rajat Patidar - 34(21)  
+✊ Current Batsman - Mahipal Lomror - 25(13)  
 
-✊ Current Bowler - Avesh Khan - 2.1 Over 36 Run - 0 Wicket  
+✊ Current Bowler - Trent Boult - 3.3 Over 12 Run - 1 Wicket  
 
 📑 Status - Rajasthan Royals opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 5/22/2024, 8:40:28 PM
+📝 Last Updated on : 5/22/2024, 9:03:47 PM
 
 ***
 
