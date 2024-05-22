@@ -1,19 +1,25 @@
 ---
-title: "Kolkata Knight Riders vs Sunrisers Hyderabad, Qualifier 1 - Live Cricket Score"
+title: "Rajasthan Royals vs Royal Challengers Bengaluru, Eliminator - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Kolkata Knight Riders vs Sunrisers Hyderabad, Qualifier 1 - Live Cricket Score - Kolkata Knight Riders won by 8 wkts."
+description: "RCB 56/2 (7.3) - Rajasthan Royals opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Kolkata Knight Riders vs Sunrisers Hyderabad, Qualifier 1 - Live Cricket Score
+🔴 Live Score - RCB 56/2 (7.3)  
 
-📑 Status - Kolkata Knight Riders won by 8 wkts
+📊 Run Rate - CRR: 7.47  
+
+✊ Current Batsman - Rajat Patidar - 0(1)  
+
+✊ Current Bowler - Yuzvendra Chahal - 0.3 Over 0 Run - 1 Wicket  
+
+📑 Status - Rajasthan Royals opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/21/2024, 10:53:35 PM
+📝 Last Updated on : 5/22/2024, 8:09:36 PM
 
 ***
 
