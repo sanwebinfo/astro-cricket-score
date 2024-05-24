@@ -1,19 +1,19 @@
 ---
-title: "Rajasthan Royals vs Royal Challengers Bengaluru, Eliminator - Live Cricket Score"
+title: "Sunrisers Hyderabad vs Rajasthan Royals, Qualifier 2 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Rajasthan Royals vs Royal Challengers Bengaluru, Eliminator - Live Cricket Score - Rajasthan Royals won by 4 wkts."
+description: "Sunrisers Hyderabad vs Rajasthan Royals, Qualifier 2 - Live Cricket Score - Date: 2024-05-24 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Rajasthan Royals vs Royal Challengers Bengaluru, Eliminator - Live Cricket Score
+✅ Sunrisers Hyderabad vs Rajasthan Royals, Qualifier 2 - Live Cricket Score
 
-📑 Status - Rajasthan Royals won by 4 wkts
+📑 Status - Date: 2024-05-24 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/22/2024, 11:28:08 PM
+📝 Last Updated on : 5/24/2024, 12:34:11 PM
 
 ***
 
