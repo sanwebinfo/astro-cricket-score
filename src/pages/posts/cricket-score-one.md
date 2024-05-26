@@ -1,25 +1,25 @@
 ---
 title: "Kolkata Knight Riders vs Sunrisers Hyderabad, Final - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 113 (18.3) - Innings Break."
+description: "KKR 93/1 (8) - Kolkata Knight Riders need 21 runs in 72 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 113 (18.3)  
+🔴 Live Score - KKR 93/1 (8)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 11.62  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Venkatesh Iyer - 44(17)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Shahbaz Ahmed - 1 Over 7 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Kolkata Knight Riders need 21 runs in 72 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/26/2024, 9:27:13 PM
+📝 Last Updated on : 5/26/2024, 10:13:45 PM
 
 ***
 
