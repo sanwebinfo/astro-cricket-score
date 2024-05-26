@@ -1,25 +1,25 @@
 ---
 title: "Kolkata Knight Riders vs Sunrisers Hyderabad, Final - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SRH 16/2 (3) - Sunrisers Hyderabad opt to bat."
+description: "SRH 113 (18.3) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SRH 16/2 (3)  
+🔴 Live Score - SRH 113 (18.3)  
 
-📊 Run Rate - CRR: 5.33  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Rahul Tripathi - 7(8)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Vaibhav Arora - 1 Over 2 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Sunrisers Hyderabad opt to bat
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/26/2024, 7:49:40 PM
+📝 Last Updated on : 5/26/2024, 9:27:13 PM
 
 ***
 
