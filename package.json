@@ -10,7 +10,7 @@
     "sync": "astro sync"
   },
   "devDependencies": {
-    "astro": "4.9.1"
+    "astro": "4.9.2"
   },
   "dependencies": {
     "astro-font": "^0.0.81"
