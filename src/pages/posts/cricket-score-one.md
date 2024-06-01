@@ -1,19 +1,19 @@
 ---
-title: "Kolkata Knight Riders vs Sunrisers Hyderabad, Final - Live Cricket Score"
+title: "United States vs Canada, 1st Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Kolkata Knight Riders vs Sunrisers Hyderabad, Final - Live Cricket Score - Kolkata Knight Riders won by 8 wkts."
+description: "United States vs Canada, 1st Match, Group A - Live Cricket Score - Date: 2024-06-02 - Time: 06:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Kolkata Knight Riders vs Sunrisers Hyderabad, Final - Live Cricket Score
+✅ United States vs Canada, 1st Match, Group A - Live Cricket Score
 
-📑 Status - Kolkata Knight Riders won by 8 wkts
+📑 Status - Date: 2024-06-02 - Time: 06:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/26/2024, 10:29:36 PM
+📝 Last Updated on : 6/1/2024, 6:15:42 PM
 
 ***
 
