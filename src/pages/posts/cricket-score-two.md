@@ -1,19 +1,19 @@
 ---
-title: "Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score"
+title: "West Indies vs Papua New Guinea, 2nd Match, Group C - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score - Royal Challengers Bengaluru won by 47 runs."
+description: "West Indies vs Papua New Guinea, 2nd Match, Group C - Live Cricket Score - Date: 2024-06-02 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Royal Challengers Bengaluru vs Delhi Capitals, 62nd Match - Live Cricket Score
+✅ West Indies vs Papua New Guinea, 2nd Match, Group C - Live Cricket Score
 
-📑 Status - Royal Challengers Bengaluru won by 47 runs
+📑 Status - Date: 2024-06-02 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 5/13/2024, 7:54:44 AM
+📝 Last Updated on : 6/1/2024, 6:18:43 PM
 
 ***
 
