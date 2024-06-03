@@ -1,19 +1,25 @@
 ---
-title: "United States vs Canada, 1st Match, Group A - Live Cricket Score"
+title: "Namibia vs Oman, 3rd Match, Group B - Live Cricket Score"
 slug: "cricket-score-one"
-description: "United States vs Canada, 1st Match, Group A - Live Cricket Score - United States won by 7 wkts."
+description: "OMAN 109/9 (19.3) - Namibia opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ United States vs Canada, 1st Match, Group A - Live Cricket Score
+🔴 Live Score - OMAN 109/9 (19.3)  
 
-📑 Status - United States won by 7 wkts
+📊 Run Rate - CRR: 5.59  
+
+✊ Current Batsman - Shakeel Ahmed - 11(8)  
+
+✊ Current Bowler - David Wiese - 3.3 Over 28 Run - 2 Wicket  
+
+📑 Status - Namibia opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/2/2024, 10:33:45 AM
+📝 Last Updated on : 6/3/2024, 7:33:25 AM
 
 ***
 
