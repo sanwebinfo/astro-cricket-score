@@ -1,19 +1,25 @@
 ---
 title: "Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score - Date: 2024-06-03 - Time: 08:00:00 PM (Indian Local Time)."
+description: "SL 14/1 (3.4) - Sri Lanka opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score
+🔴 Live Score - SL 14/1 (3.4)  
 
-📑 Status - Date: 2024-06-03 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 3.82  
+
+✊ Current Batsman - Kusal Mendis - 8(11)  
+
+✊ Current Bowler - Ottneil Baartman - 0.4 Over 1 Run - 1 Wicket  
+
+📑 Status - Sri Lanka opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/3/2024, 11:39:10 AM
+📝 Last Updated on : 6/3/2024, 8:20:23 PM
 
 ***
 
