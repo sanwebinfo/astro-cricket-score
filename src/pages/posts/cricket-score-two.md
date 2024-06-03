@@ -1,17 +1,17 @@
 ---
 title: "Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score"
 slug: "cricket-score-two"
-description: "SL 46/6 (11.4) - Sri Lanka opt to bat."
+description: "SL 76/9 (19) - Sri Lanka opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL 46/6 (11.4)  
+🔴 Live Score - SL 76/9 (19)  
 
-📊 Run Rate - CRR: 3.94  
+📊 Run Rate - CRR: 4  
 
-✊ Current Batsman - Angelo Mathews - 2(4)  
+✊ Current Batsman - Maheesh Theekshana - 6(15)  
 
-✊ Current Bowler - Anrich Nortje - 2.4 Over 6 Run - 3 Wicket  
+✊ Current Bowler - Kagiso Rabada - 4 Over 21 Run - 2 Wicket  
 
 📑 Status - Sri Lanka opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/3/2024, 8:59:03 PM
+📝 Last Updated on : 6/3/2024, 9:30:11 PM
 
 ***
 
