@@ -1,19 +1,25 @@
 ---
 title: "England vs Scotland, 6th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "England vs Scotland, 6th Match, Group B - Live Cricket Score - Date: 2024-06-04 - Time: 08:00:00 PM (Indian Local Time)."
+description: "SCO 51/0 (6.2) - Rain stops play."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ England vs Scotland, 6th Match, Group B - Live Cricket Score
+🔴 Live Score - SCO 51/0 (6.2)  
 
-📑 Status - Date: 2024-06-04 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 8.05  
+
+✊ Current Batsman - Michael Jones - 30(20)  
+
+✊ Current Bowler - Moeen Ali - 1.2 Over 12 Run - 0 Wicket  
+
+📑 Status - Rain stops play
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/4/2024, 8:21:11 PM
+📝 Last Updated on : 6/4/2024, 9:33:16 PM
 
 ***
 
