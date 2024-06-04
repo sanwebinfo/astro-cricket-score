@@ -1,17 +1,17 @@
 ---
 title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AFG 42/0 (4.4) - Uganda opt to bowl."
+description: "AFG 79/0 (7.5) - Uganda opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG 42/0 (4.4)  
+🔴 Live Score - AFG 79/0 (7.5)  
 
-📊 Run Rate - CRR: 9  
+📊 Run Rate - CRR: 10.09  
 
-✊ Current Batsman - Rahmanullah Gurbaz - 24(12)  
+✊ Current Batsman - Rahmanullah Gurbaz - 42(24)  
 
-✊ Current Bowler - Alpesh Ramjani - 1.4 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Cosmas Kyewuta - 1.5 Over 14 Run - 0 Wicket  
 
 📑 Status - Uganda opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/4/2024, 6:21:56 AM
+📝 Last Updated on : 6/4/2024, 6:36:10 AM
 
 ***
 
