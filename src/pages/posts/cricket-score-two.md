@@ -1,19 +1,19 @@
 ---
-title: "Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score"
+title: "England vs Scotland, 6th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score - South Africa won by 6 wkts."
+description: "England vs Scotland, 6th Match, Group B - Live Cricket Score - Date: 2024-06-04 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sri Lanka vs South Africa, 4th Match, Group D - Live Cricket Score
+✅ England vs Scotland, 6th Match, Group B - Live Cricket Score
 
-📑 Status - South Africa won by 6 wkts
+📑 Status - Date: 2024-06-04 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/3/2024, 11:09:08 PM
+📝 Last Updated on : 6/4/2024, 11:46:02 AM
 
 ***
 
