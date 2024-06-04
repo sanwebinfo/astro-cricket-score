@@ -1,19 +1,19 @@
 ---
-title: "Namibia vs Oman, 3rd Match, Group B - Live Cricket Score"
+title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Namibia vs Oman, 3rd Match, Group B - Live Cricket Score - Match tied (Namibia won the super over)."
+description: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score - Date: 2024-06-04 - Time: 06:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Namibia vs Oman, 3rd Match, Group B - Live Cricket Score
+✅ Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score
 
-📑 Status - Match tied (Namibia won the super over)
+📑 Status - Date: 2024-06-04 - Time: 06:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/3/2024, 9:46:15 AM
+📝 Last Updated on : 6/4/2024, 6:02:36 AM
 
 ***
 
