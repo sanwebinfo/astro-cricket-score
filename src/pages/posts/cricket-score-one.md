@@ -1,25 +1,25 @@
 ---
 title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "UGA 40/5 (10.5) - Uganda need 144 runs in 55 balls."
+description: "UGA 58 (16) - Afghanistan won by 125 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - UGA 40/5 (10.5)  
+🔴 Live Score - UGA 58 (16)  
 
-📊 Run Rate - CRR: 3.69  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Riazat Ali Shah - 9(27)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Rashid Khan - 1.5 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Uganda need 144 runs in 55 balls
+📑 Status - Afghanistan won by 125 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/4/2024, 8:52:13 AM
+📝 Last Updated on : 6/4/2024, 9:20:07 AM
 
 ***
 
