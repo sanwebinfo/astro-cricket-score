@@ -1,19 +1,25 @@
 ---
 title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score - Date: 2024-06-04 - Time: 06:00:00 AM (Indian Local Time)."
+description: "AFG 42/0 (4.4) - Uganda opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score
+🔴 Live Score - AFG 42/0 (4.4)  
 
-📑 Status - Date: 2024-06-04 - Time: 06:00:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 9  
+
+✊ Current Batsman - Rahmanullah Gurbaz - 24(12)  
+
+✊ Current Bowler - Alpesh Ramjani - 1.4 Over 15 Run - 0 Wicket  
+
+📑 Status - Uganda opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/4/2024, 6:02:36 AM
+📝 Last Updated on : 6/4/2024, 6:21:56 AM
 
 ***
 
