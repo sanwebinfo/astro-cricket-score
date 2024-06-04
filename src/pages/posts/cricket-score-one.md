@@ -1,25 +1,25 @@
 ---
 title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AFG 106/0 (10.2) - Uganda opt to bowl."
+description: "UGA 9/3 (2) - Uganda need 175 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG 106/0 (10.2)  
+🔴 Live Score - UGA 9/3 (2)  
 
-📊 Run Rate - CRR: 10.26  
+📊 Run Rate - CRR: 4.5  
 
-✊ Current Batsman - Ibrahim Zadran - 42(28)  
+✊ Current Batsman - Dinesh Nakrani - 1(1)  
 
-✊ Current Bowler - Riazat Ali Shah - 0.2 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Fazalhaq Farooqi - 1 Over 4 Run - 2 Wicket  
 
-📑 Status - Uganda opt to bowl
+📑 Status - Uganda need 175 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/4/2024, 6:52:34 AM
+📝 Last Updated on : 6/4/2024, 8:04:33 AM
 
 ***
 
