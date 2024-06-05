@@ -1,25 +1,25 @@
 ---
-title: "Afghanistan vs Uganda, 5th Match, Group C - Live Cricket Score"
+title: "India vs Ireland, 8th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "UGA 58 (16) - Afghanistan won by 125 runs."
+description: "IRE 3/0 (1.2) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - UGA 58 (16)  
+🔴 Live Score - IRE 3/0 (1.2)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 2.25  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Andrew Balbirnie - 1(3)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Mohammed Siraj - 0.2 Over 0 Run - 0 Wicket  
 
-📑 Status - Afghanistan won by 125 runs
+📑 Status - India opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/4/2024, 9:20:07 AM
+📝 Last Updated on : 6/5/2024, 8:07:04 PM
 
 ***
 
