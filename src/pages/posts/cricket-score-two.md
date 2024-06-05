@@ -1,19 +1,19 @@
 ---
-title: "England vs Scotland, 6th Match, Group B - Live Cricket Score"
+title: "United States vs Pakistan, 11th Match, Group A - Live Cricket Score"
 slug: "cricket-score-two"
-description: "England vs Scotland, 6th Match, Group B - Live Cricket Score - No result."
+description: "United States vs Pakistan, 11th Match, Group A - Live Cricket Score - Date: 2024-06-06 - Time: 09:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ England vs Scotland, 6th Match, Group B - Live Cricket Score
+✅ United States vs Pakistan, 11th Match, Group A - Live Cricket Score
 
-📑 Status - No result
+📑 Status - Date: 2024-06-06 - Time: 09:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/5/2024, 6:10:10 AM
+📝 Last Updated on : 6/5/2024, 9:26:53 AM
 
 ***
 
