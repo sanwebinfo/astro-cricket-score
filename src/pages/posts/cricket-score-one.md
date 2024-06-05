@@ -1,17 +1,17 @@
 ---
 title: "India vs Ireland, 8th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IRE 3/0 (1.2) - India opt to bowl."
+description: "IRE 36/4 (8) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IRE 3/0 (1.2)  
+🔴 Live Score - IRE 36/4 (8)  
 
-📊 Run Rate - CRR: 2.25  
+📊 Run Rate - CRR: 4.5  
 
-✊ Current Batsman - Andrew Balbirnie - 1(3)  
+✊ Current Batsman - Curtis Campher - 5(3)  
 
-✊ Current Bowler - Mohammed Siraj - 0.2 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Hardik Pandya - 1 Over 5 Run - 1 Wicket  
 
 📑 Status - India opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/5/2024, 8:07:04 PM
+📝 Last Updated on : 6/5/2024, 8:43:36 PM
 
 ***
 
