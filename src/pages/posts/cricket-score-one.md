@@ -1,25 +1,25 @@
 ---
 title: "India vs Ireland, 8th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 22/0 (2.3) - India need 75 runs."
+description: "IND 48/1 (7.4) - India need 49 runs in 74 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 22/0 (2.3)  
+🔴 Live Score - IND 48/1 (7.4)  
 
-📊 Run Rate - CRR: 8.8  
+📊 Run Rate - CRR: 6.26  
 
-✊ Current Batsman - Virat Kohli - 1(4)  
+✊ Current Batsman - Rishabh Pant - 13(14)  
 
-✊ Current Bowler - Mark Adair - 1.3 Over 7 Run - 0 Wicket  
+✊ Current Bowler - Barry McCarthy - 1.4 Over 8 Run - 0 Wicket  
 
-📑 Status - India need 75 runs
+📑 Status - India need 49 runs in 74 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/5/2024, 9:57:06 PM
+📝 Last Updated on : 6/5/2024, 10:20:57 PM
 
 ***
 
