@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Oman, 10th Match, Group B - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AUS 164/5 (20) - Innings Break."
+description: "OMAN 20/1 (2.5) - Oman need 145 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 164/5 (20)  
+🔴 Live Score - OMAN 20/1 (2.5)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 7.06  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Aqib Ilyas - 10(8)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Mitchell Starc - 1.5 Over 17 Run - 1 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Oman need 145 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/6/2024, 7:44:59 AM
+📝 Last Updated on : 6/6/2024, 8:11:57 AM
 
 ***
 
