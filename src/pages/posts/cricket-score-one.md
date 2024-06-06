@@ -1,25 +1,25 @@
 ---
 title: "Australia vs Oman, 10th Match, Group B - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AUS 112/3 (15.4) - Oman opt to bowl."
+description: "AUS 164/5 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 112/3 (15.4)  
+🔴 Live Score - AUS 164/5 (20)  
 
-📊 Run Rate - CRR: 7.15  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Marcus Stoinis - 37(22)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Shakeel Ahmed - 2.4 Over 17 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Oman opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/6/2024, 7:16:47 AM
+📝 Last Updated on : 6/6/2024, 7:44:59 AM
 
 ***
 
