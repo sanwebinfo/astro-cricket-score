@@ -1,19 +1,25 @@
 ---
 title: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score - Date: 2024-06-07 - Time: 08:00:00 PM (Indian Local Time)."
+description: "CAN 22/1 (3.4) - Ireland opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Canada vs Ireland, 13th Match, Group A - Live Cricket Score
+🔴 Live Score - CAN 22/1 (3.4)  
 
-📑 Status - Date: 2024-06-07 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6  
+
+✊ Current Batsman - Aaron Johnson - 13(7)  
+
+✊ Current Bowler - Joshua Little - 1.4 Over 15 Run - 0 Wicket  
+
+📑 Status - Ireland opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/7/2024, 8:19:16 AM
+📝 Last Updated on : 6/7/2024, 8:19:32 PM
 
 ***
 
