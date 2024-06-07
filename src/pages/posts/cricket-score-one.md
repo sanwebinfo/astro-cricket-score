@@ -1,25 +1,19 @@
 ---
 title: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "CAN 54/4 (8.4) - Ireland opt to bowl."
+description: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score - Canada won by 12 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - CAN 54/4 (8.4)  
+✅ Canada vs Ireland, 13th Match, Group A - Live Cricket Score
 
-📊 Run Rate - CRR: 6.23  
-
-✊ Current Batsman - Nicholas Kirton - 5(4)  
-
-✊ Current Bowler - Gareth Delany - 0.4 Over 1 Run - 1 Wicket  
-
-📑 Status - Ireland opt to bowl
+📑 Status - Canada won by 12 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/7/2024, 8:44:04 PM
+📝 Last Updated on : 6/8/2024, 12:22:29 AM
 
 ***
 
