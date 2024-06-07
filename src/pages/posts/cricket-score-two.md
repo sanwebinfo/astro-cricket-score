@@ -1,25 +1,19 @@
 ---
 title: "United States vs Pakistan, 11th Match, Group A - Live Cricket Score"
 slug: "cricket-score-two"
-description: "PAK 159/7 (20) - Innings Break."
+description: "United States vs Pakistan, 11th Match, Group A - Live Cricket Score - Match tied (United States won the super over)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PAK 159/7 (20)  
+✅ United States vs Pakistan, 11th Match, Group A - Live Cricket Score
 
-📊 Run Rate - CRR: 7.95  
-
-✊ Current Batsman - Shaheen Afridi - 23(16)  
-
-✊ Current Bowler - Ali Khan - 4 Over 30 Run - 1 Wicket  
-
-📑 Status - Innings Break
+📑 Status - Match tied (United States won the super over)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/6/2024, 11:00:24 PM
+📝 Last Updated on : 6/7/2024, 5:58:35 AM
 
 ***
 
