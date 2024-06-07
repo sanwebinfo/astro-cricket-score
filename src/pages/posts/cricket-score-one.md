@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Oman, 10th Match, Group B - Live Cricket Score"
+title: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Australia vs Oman, 10th Match, Group B - Live Cricket Score - Australia won by 39 runs."
+description: "Canada vs Ireland, 13th Match, Group A - Live Cricket Score - Date: 2024-06-07 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Oman, 10th Match, Group B - Live Cricket Score
+✅ Canada vs Ireland, 13th Match, Group A - Live Cricket Score
 
-📑 Status - Australia won by 39 runs
+📑 Status - Date: 2024-06-07 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/6/2024, 9:54:03 AM
+📝 Last Updated on : 6/7/2024, 8:19:16 AM
 
 ***
 
