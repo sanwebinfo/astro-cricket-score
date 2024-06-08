@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "NED 52/6 (13) - South Africa opt to bowl."
+description: "RSA 3/2 (1.4) - South Africa need 101 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - NED 52/6 (13)  
+🔴 Live Score - RSA 3/2 (1.4)  
 
-📊 Run Rate - CRR: 4  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Sybrand Engelbrecht - 16(22)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Anrich Nortje - 3 Over 14 Run - 2 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - South Africa opt to bowl
+📑 Status - South Africa need 101 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/8/2024, 9:01:27 PM
+📝 Last Updated on : 6/8/2024, 9:53:49 PM
 
 ***
 
