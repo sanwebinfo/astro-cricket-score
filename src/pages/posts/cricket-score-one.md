@@ -1,25 +1,25 @@
 ---
 title: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 3/2 (1.4) - South Africa need 101 runs."
+description: "RSA 22/4 (8) - South Africa need 82 runs in 72 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSA 3/2 (1.4)  
+🔴 Live Score - RSA 22/4 (8)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 2.75  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - David Miller - 6(12)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Vivian Kingma - 4 Over 12 Run - 2 Wicket  
 
-📑 Status - South Africa need 101 runs
+📑 Status - South Africa need 82 runs in 72 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/8/2024, 9:53:49 PM
+📝 Last Updated on : 6/8/2024, 10:28:10 PM
 
 ***
 
