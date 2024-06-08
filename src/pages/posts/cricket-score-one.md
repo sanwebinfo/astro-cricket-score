@@ -1,19 +1,25 @@
 ---
 title: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score - Date: 2024-06-08 - Time: 08:00:00 PM (Indian Local Time)."
+description: "NED 22/3 (6.4) - South Africa opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score
+🔴 Live Score - NED 22/3 (6.4)  
 
-📑 Status - Date: 2024-06-08 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 3.3  
+
+✊ Current Batsman - Sybrand Engelbrecht - 3(8)  
+
+✊ Current Bowler - Kagiso Rabada - 1.4 Over 8 Run - 0 Wicket  
+
+📑 Status - South Africa opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/8/2024, 2:49:15 PM
+📝 Last Updated on : 6/8/2024, 8:33:28 PM
 
 ***
 
