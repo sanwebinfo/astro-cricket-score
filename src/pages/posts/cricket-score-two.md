@@ -1,19 +1,25 @@
 ---
 title: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score - Date: 2024-06-09 - Time: 10:30:00 PM (Indian Local Time)."
+description: "OMAN 87/4 (11.2) - Oman opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Oman vs Scotland, 20th Match, Group B - Live Cricket Score
+🔴 Live Score - OMAN 87/4 (11.2)  
 
-📑 Status - Date: 2024-06-09 - Time: 10:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 7.68  
+
+✊ Current Batsman - Ayaan Khan - 3(7)  
+
+✊ Current Bowler - Michael Leask - 1.2 Over 6 Run - 0 Wicket  
+
+📑 Status - Oman opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/9/2024, 10:26:37 AM
+📝 Last Updated on : 6/9/2024, 11:26:00 PM
 
 ***
 
