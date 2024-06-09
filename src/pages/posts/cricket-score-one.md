@@ -1,19 +1,25 @@
 ---
 title: "India vs Pakistan, 19th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Pakistan, 19th Match, Group A - Live Cricket Score - Date: 2024-06-09 - Time: 08:00:00 PM (Indian Local Time)."
+description: "IND 58/2 (7.1) - Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs Pakistan, 19th Match, Group A - Live Cricket Score
+🔴 Live Score - IND 58/2 (7.1)  
 
-📑 Status - Date: 2024-06-09 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 8.09  
+
+✊ Current Batsman - Axar Patel - 20(15)  
+
+✊ Current Bowler - Naseem Shah - 1.1 Over 12 Run - 1 Wicket  
+
+📑 Status - Pakistan opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/9/2024, 10:23:45 AM
+📝 Last Updated on : 6/9/2024, 10:05:37 PM
 
 ***
 
