@@ -1,25 +1,25 @@
 ---
 title: "India vs Pakistan, 19th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 119 (19) - Innings Break."
+description: "PAK 42/1 (8) - Pakistan need 78 runs in 72 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 119 (19)  
+🔴 Live Score - PAK 42/1 (8)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 5.25  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Mohammad Rizwan - 20(28)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Mohammed Siraj - 3 Over 10 Run - 0 Wicket  
 
-📑 Status - Innings Break
+📑 Status - Pakistan need 78 runs in 72 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/9/2024, 11:17:51 PM
+📝 Last Updated on : 6/10/2024, 12:02:09 AM
 
 ***
 
