@@ -1,19 +1,19 @@
 ---
-title: "Australia vs England, 17th Match, Group B - Live Cricket Score"
+title: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs England, 17th Match, Group B - Live Cricket Score - Australia won by 36 runs."
+description: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score - Date: 2024-06-09 - Time: 10:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs England, 17th Match, Group B - Live Cricket Score
+✅ Oman vs Scotland, 20th Match, Group B - Live Cricket Score
 
-📑 Status - Australia won by 36 runs
+📑 Status - Date: 2024-06-09 - Time: 10:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/9/2024, 8:06:25 AM
+📝 Last Updated on : 6/9/2024, 10:26:37 AM
 
 ***
 
