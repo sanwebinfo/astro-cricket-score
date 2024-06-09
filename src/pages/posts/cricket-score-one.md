@@ -1,17 +1,17 @@
 ---
 title: "India vs Pakistan, 19th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 58/2 (7.1) - Pakistan opt to bowl."
+description: "IND 96/5 (14) - Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 58/2 (7.1)  
+🔴 Live Score - IND 96/5 (14)  
 
-📊 Run Rate - CRR: 8.09  
+📊 Run Rate - CRR: 6.86  
 
-✊ Current Batsman - Axar Patel - 20(15)  
+✊ Current Batsman - Rishabh Pant - 42(30)  
 
-✊ Current Bowler - Naseem Shah - 1.1 Over 12 Run - 1 Wicket  
+✊ Current Bowler - Imad Wasim - 3 Over 17 Run - 0 Wicket  
 
 📑 Status - Pakistan opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/9/2024, 10:05:37 PM
+📝 Last Updated on : 6/9/2024, 10:40:32 PM
 
 ***
 
