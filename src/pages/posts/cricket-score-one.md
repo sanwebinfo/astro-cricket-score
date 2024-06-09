@@ -1,19 +1,19 @@
 ---
-title: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score"
+title: "India vs Pakistan, 19th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score - South Africa won by 4 wkts."
+description: "India vs Pakistan, 19th Match, Group A - Live Cricket Score - Date: 2024-06-09 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Netherlands vs South Africa, 16th Match, Group D - Live Cricket Score
+✅ India vs Pakistan, 19th Match, Group A - Live Cricket Score
 
-📑 Status - South Africa won by 4 wkts
+📑 Status - Date: 2024-06-09 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/9/2024, 5:50:26 AM
+📝 Last Updated on : 6/9/2024, 10:23:45 AM
 
 ***
 
