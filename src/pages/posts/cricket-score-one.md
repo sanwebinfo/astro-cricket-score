@@ -1,19 +1,25 @@
 ---
 title: "Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score - Date: 2024-06-11 - Time: 08:00:00 PM (Indian Local Time)."
+description: "CAN 50/3 (8) - Pakistan opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score
+🔴 Live Score - CAN 50/3 (8)  
 
-📑 Status - Date: 2024-06-11 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6.25  
+
+✊ Current Batsman - Shreyas Movva - 1(4)  
+
+✊ Current Bowler - Haris Rauf - 1 Over 13 Run - 0 Wicket  
+
+📑 Status - Pakistan opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/11/2024, 9:01:33 AM
+📝 Last Updated on : 6/11/2024, 8:42:02 PM
 
 ***
 
