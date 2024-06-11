@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs Bangladesh, 21st Match, Group D - Live Cricket Score"
+title: "Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs Bangladesh, 21st Match, Group D - Live Cricket Score - South Africa won by 4 runs."
+description: "Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score - Date: 2024-06-11 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs Bangladesh, 21st Match, Group D - Live Cricket Score
+✅ Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score
 
-📑 Status - South Africa won by 4 runs
+📑 Status - Date: 2024-06-11 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/10/2024, 11:43:03 PM
+📝 Last Updated on : 6/11/2024, 9:01:33 AM
 
 ***
 
