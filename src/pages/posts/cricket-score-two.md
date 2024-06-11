@@ -1,19 +1,19 @@
 ---
-title: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score"
+title: "United States vs India, 25th Match, Group A - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Oman vs Scotland, 20th Match, Group B - Live Cricket Score - Scotland won by 7 wkts."
+description: "United States vs India, 25th Match, Group A - Live Cricket Score - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Oman vs Scotland, 20th Match, Group B - Live Cricket Score
+✅ United States vs India, 25th Match, Group A - Live Cricket Score
 
-📑 Status - Scotland won by 7 wkts
+📑 Status - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/10/2024, 1:19:35 AM
+📝 Last Updated on : 6/11/2024, 3:04:22 PM
 
 ***
 
