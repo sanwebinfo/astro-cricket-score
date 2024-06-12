@@ -1,19 +1,25 @@
 ---
 title: "United States vs India, 25th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "United States vs India, 25th Match, Group A - Live Cricket Score - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)."
+description: "USA 7/2 (2.2) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ United States vs India, 25th Match, Group A - Live Cricket Score
+🔴 Live Score - USA 7/2 (2.2)  
 
-📑 Status - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 3  
+
+✊ Current Batsman - Aaron Jones - 1(4)  
+
+✊ Current Bowler - Arshdeep Singh - 1.2 Over 3 Run - 2 Wicket  
+
+📑 Status - India opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/12/2024, 9:05:28 AM
+📝 Last Updated on : 6/12/2024, 8:15:23 PM
 
 ***
 
