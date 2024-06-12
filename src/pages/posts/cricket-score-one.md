@@ -1,17 +1,17 @@
 ---
 title: "United States vs India, 25th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "USA 7/2 (2.2) - India opt to bowl."
+description: "USA 46/3 (10.4) - India opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - USA 7/2 (2.2)  
+🔴 Live Score - USA 46/3 (10.4)  
 
-📊 Run Rate - CRR: 3  
+📊 Run Rate - CRR: 4.31  
 
-✊ Current Batsman - Aaron Jones - 1(4)  
+✊ Current Batsman - Nitish Kumar - 12(11)  
 
-✊ Current Bowler - Arshdeep Singh - 1.2 Over 3 Run - 2 Wicket  
+✊ Current Bowler - Mohammed Siraj - 2.4 Over 16 Run - 0 Wicket  
 
 📑 Status - India opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/12/2024, 8:15:23 PM
+📝 Last Updated on : 6/12/2024, 8:55:42 PM
 
 ***
 
