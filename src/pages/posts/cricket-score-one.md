@@ -1,25 +1,19 @@
 ---
-title: "Pakistan vs Canada, 22nd Match, Group A - Live Cricket Score"
+title: "United States vs India, 25th Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "PAK 107/3 (17.3) - Pakistan won by 7 wkts."
+description: "United States vs India, 25th Match, Group A - Live Cricket Score - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - PAK 107/3 (17.3)  
+✅ United States vs India, 25th Match, Group A - Live Cricket Score
 
-📊 Run Rate - CRR: 6.11  
-
-✊ Current Batsman - Usman Khan - 2(1)  
-
-✊ Current Bowler - Jeremy Gordon - 3.3 Over 17 Run - 1 Wicket  
-
-📑 Status - Pakistan won by 7 wkts
+📑 Status - Date: 2024-06-12 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/11/2024, 11:16:16 PM
+📝 Last Updated on : 6/12/2024, 9:05:28 AM
 
 ***
 
