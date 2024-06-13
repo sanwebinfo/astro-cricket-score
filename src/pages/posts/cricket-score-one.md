@@ -1,25 +1,25 @@
 ---
 title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "BAN 3/1 (1.2) - Netherlands opt to bowl."
+description: "NED 17/0 (2.3) - Netherlands need 143 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN 3/1 (1.2)  
+🔴 Live Score - NED 17/0 (2.3)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 6.8  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Max ODowd - 4(6)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Taskin Ahmed - 0.3 Over 7 Run - 0 Wicket  
 
-📑 Status - Netherlands opt to bowl
+📑 Status - Netherlands need 143 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/13/2024, 8:25:29 PM
+📝 Last Updated on : 6/13/2024, 10:19:38 PM
 
 ***
 
