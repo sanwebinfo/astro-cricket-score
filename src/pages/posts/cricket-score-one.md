@@ -1,19 +1,25 @@
 ---
 title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)."
+description: "BAN 3/1 (1.2) - Netherlands opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score
+🔴 Live Score - BAN 3/1 (1.2)  
 
-📑 Status - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Netherlands opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/13/2024, 10:47:48 AM
+📝 Last Updated on : 6/13/2024, 8:25:29 PM
 
 ***
 
