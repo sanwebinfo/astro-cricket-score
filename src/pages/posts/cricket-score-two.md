@@ -1,19 +1,19 @@
 ---
-title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
+title: "England vs Oman, 28th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)."
+description: "England vs Oman, 28th Match, Group B - Live Cricket Score - Date: 2024-06-14 - Time: 12:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score
+✅ England vs Oman, 28th Match, Group B - Live Cricket Score
 
-📑 Status - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Date: 2024-06-14 - Time: 12:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/12/2024, 9:08:28 AM
+📝 Last Updated on : 6/13/2024, 11:07:01 AM
 
 ***
 
