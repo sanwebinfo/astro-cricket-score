@@ -1,19 +1,19 @@
 ---
-title: "United States vs India, 25th Match, Group A - Live Cricket Score"
+title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "United States vs India, 25th Match, Group A - Live Cricket Score - India won by 7 wkts."
+description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ United States vs India, 25th Match, Group A - Live Cricket Score
+✅ Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score
 
-📑 Status - India won by 7 wkts
+📑 Status - Date: 2024-06-13 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/12/2024, 11:58:23 PM
+📝 Last Updated on : 6/13/2024, 10:47:48 AM
 
 ***
 
