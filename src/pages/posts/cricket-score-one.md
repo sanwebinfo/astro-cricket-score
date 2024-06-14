@@ -1,25 +1,19 @@
 ---
 title: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score"
 slug: "cricket-score-one"
-description: "NED 69/3 (9.3) - Netherlands need 91 runs in 63 balls."
+description: "Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score - Bangladesh won by 25 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - NED 69/3 (9.3)  
+✅ Bangladesh vs Netherlands, 27th Match, Group D - Live Cricket Score
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
-
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
-
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
-
-📑 Status - Netherlands need 91 runs in 63 balls
+📑 Status - Bangladesh won by 25 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/13/2024, 10:49:45 PM
+📝 Last Updated on : 6/14/2024, 6:01:32 AM
 
 ***
 
