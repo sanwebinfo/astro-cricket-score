@@ -1,19 +1,19 @@
 ---
-title: "United States vs Ireland, 30th Match, Group A - Live Cricket Score"
+title: "Namibia vs England, 34th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "United States vs Ireland, 30th Match, Group A - Live Cricket Score - Match abandoned due to rain."
+description: "Namibia vs England, 34th Match, Group B - Live Cricket Score - Date: 2024-06-15 - Time: 10:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ United States vs Ireland, 30th Match, Group A - Live Cricket Score
+✅ Namibia vs England, 34th Match, Group B - Live Cricket Score
 
-📑 Status - Match abandoned due to rain
+📑 Status - Date: 2024-06-15 - Time: 10:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/14/2024, 11:25:28 PM
+📝 Last Updated on : 6/15/2024, 8:57:05 AM
 
 ***
 
