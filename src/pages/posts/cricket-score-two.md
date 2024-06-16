@@ -1,19 +1,19 @@
 ---
 title: "Namibia vs England, 34th Match, Group B - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Namibia vs England, 34th Match, Group B - Live Cricket Score - Date: 2024-06-15 - Time: 10:30:00 PM (Indian Local Time)."
+description: "Namibia vs England, 34th Match, Group B - Live Cricket Score - England won by 41 runs (DLS method)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Namibia vs England, 34th Match, Group B - Live Cricket Score
 
-📑 Status - Date: 2024-06-15 - Time: 10:30:00 PM (Indian Local Time)
+📑 Status - England won by 41 runs (DLS method)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/15/2024, 8:57:05 AM
+📝 Last Updated on : 6/16/2024, 10:00:57 AM
 
 ***
 
