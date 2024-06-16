@@ -1,19 +1,19 @@
 ---
 title: "India vs Canada, 33rd Match, Group A - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Canada, 33rd Match, Group A - Live Cricket Score - Date: 2024-06-15 - Time: 08:00:00 PM (Indian Local Time)."
+description: "India vs Canada, 33rd Match, Group A - Live Cricket Score - Match abandoned due to wet outfield (no toss)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ India vs Canada, 33rd Match, Group A - Live Cricket Score
 
-📑 Status - Date: 2024-06-15 - Time: 08:00:00 PM (Indian Local Time)
+📑 Status - Match abandoned due to wet outfield (no toss)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/15/2024, 8:42:24 AM
+📝 Last Updated on : 6/16/2024, 5:37:36 AM
 
 ***
 
