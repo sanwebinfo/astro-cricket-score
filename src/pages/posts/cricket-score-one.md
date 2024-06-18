@@ -1,19 +1,19 @@
 ---
-title: "India vs Canada, 33rd Match, Group A - Live Cricket Score"
+title: "New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Canada, 33rd Match, Group A - Live Cricket Score - Match abandoned due to wet outfield (no toss)."
+description: "New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score - New Zealand won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs Canada, 33rd Match, Group A - Live Cricket Score
+✅ New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score
 
-📑 Status - Match abandoned due to wet outfield (no toss)
+📑 Status - New Zealand won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/16/2024, 5:37:36 AM
+📝 Last Updated on : 6/18/2024, 11:24:26 AM
 
 ***
 
