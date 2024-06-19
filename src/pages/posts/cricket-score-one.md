@@ -1,19 +1,19 @@
 ---
-title: "New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score"
+title: "United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score - New Zealand won by 7 wkts."
+description: "United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score - Date: 2024-06-19 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ New Zealand vs Papua New Guinea, 39th Match, Group C - Live Cricket Score
+✅ United States vs South Africa, 41st Match, Super 8 Group 2 - Live Cricket Score
 
-📑 Status - New Zealand won by 7 wkts
+📑 Status - Date: 2024-06-19 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/18/2024, 11:24:26 AM
+📝 Last Updated on : 6/19/2024, 7:45:12 AM
 
 ***
 
