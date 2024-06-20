@@ -1,25 +1,25 @@
 ---
 title: "Afghanistan vs India, 43rd Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AFG 84/5 (12.5) - Afghanistan need 98 runs in 43 balls."
+description: "AFG 107/6 (16) - Afghanistan need 75 runs in 24 balls."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AFG 84/5 (12.5)  
+🔴 Live Score - AFG 107/6 (16)  
 
-📊 Run Rate - CRR: 6.55  
+📊 Run Rate - CRR: 6.69  
 
-✊ Current Batsman - Najibullah Zadran - 9(9)  
+✊ Current Batsman - Rashid Khan - 1(4)  
 
-✊ Current Bowler - Kuldeep Yadav - 2.5 Over 20 Run - 1 Wicket  
+✊ Current Bowler - Hardik Pandya - 2 Over 13 Run - 0 Wicket  
 
-📑 Status - Afghanistan need 98 runs in 43 balls
+📑 Status - Afghanistan need 75 runs in 24 balls
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/20/2024, 10:57:49 PM
+📝 Last Updated on : 6/20/2024, 11:15:38 PM
 
 ***
 
