@@ -1,25 +1,25 @@
 ---
 title: "Afghanistan vs India, 43rd Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 159/5 (17.5) - India opt to bat."
+description: "AFG 15/1 (2.1) - Afghanistan need 167 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 159/5 (17.5)  
+🔴 Live Score - AFG 15/1 (2.1)  
 
-📊 Run Rate - CRR: 8.92  
+📊 Run Rate - CRR: 6.92  
 
-✊ Current Batsman - Hardik Pandya - 32(23)  
+✊ Current Batsman - Hazratullah Zazai - 0(1)  
 
-✊ Current Bowler - Naveen-ul-Haq - 2.5 Over 26 Run - 0 Wicket  
+✊ Current Bowler - Arshdeep Singh - 1.1 Over 14 Run - 0 Wicket  
 
-📑 Status - India opt to bat
+📑 Status - Afghanistan need 167 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/20/2024, 9:38:10 PM
+📝 Last Updated on : 6/20/2024, 10:13:45 PM
 
 ***
 
