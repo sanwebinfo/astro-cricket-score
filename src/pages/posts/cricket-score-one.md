@@ -1,19 +1,25 @@
 ---
 title: "Afghanistan vs India, 43rd Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Afghanistan vs India, 43rd Match, Super 8 Group 1 - Live Cricket Score - Date: 2024-06-20 - Time: 08:00:00 PM (Indian Local Time)."
+description: "IND 35/1 (5.1) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Afghanistan vs India, 43rd Match, Super 8 Group 1 - Live Cricket Score
+🔴 Live Score - IND 35/1 (5.1)  
 
-📑 Status - Date: 2024-06-20 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 6.77  
+
+✊ Current Batsman - Rishabh Pant - 7(3)  
+
+✊ Current Bowler - Mohammad Nabi - 2.1 Over 12 Run - 0 Wicket  
+
+📑 Status - India opt to bat
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/20/2024, 9:49:04 AM
+📝 Last Updated on : 6/20/2024, 8:26:42 PM
 
 ***
 
