@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 47th Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 164/5 (17.4) - Bangladesh opt to bowl."
+description: "IND 196/5 (20) - Innings Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 164/5 (17.4)  
+🔴 Live Score - IND 196/5 (20)  
 
-📊 Run Rate - CRR: 9.28  
+📊 Run Rate - CRR: 9.8  
 
-✊ Current Batsman - Hardik Pandya - 22(16)  
+✊ Current Batsman - Axar Patel - 3(5)  
 
-✊ Current Bowler - Rishad Hossain - 2.4 Over 37 Run - 2 Wicket  
+✊ Current Bowler - Mustafizur Rahman - 4 Over 48 Run - 0 Wicket  
 
-📑 Status - Bangladesh opt to bowl
+📑 Status - Innings Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/22/2024, 9:21:37 PM
+📝 Last Updated on : 6/22/2024, 9:39:15 PM
 
 ***
 
