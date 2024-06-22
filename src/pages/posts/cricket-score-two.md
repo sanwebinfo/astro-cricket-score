@@ -1,19 +1,19 @@
 ---
-title: "United States vs West Indies, 46th Match, Super 8 Group 2 - Live Cricket Score"
+title: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "United States vs West Indies, 46th Match, Super 8 Group 2 - Live Cricket Score - West Indies won by 9 wkts."
+description: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score - Date: 2024-06-23 - Time: 06:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ United States vs West Indies, 46th Match, Super 8 Group 2 - Live Cricket Score
+✅ Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score
 
-📑 Status - West Indies won by 9 wkts
+📑 Status - Date: 2024-06-23 - Time: 06:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/22/2024, 10:18:46 AM
+📝 Last Updated on : 6/22/2024, 11:10:36 AM
 
 ***
 
