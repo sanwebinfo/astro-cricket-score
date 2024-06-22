@@ -1,19 +1,25 @@
 ---
 title: "India vs Bangladesh, 47th Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Bangladesh, 47th Match, Super 8 Group 1 - Live Cricket Score - Date: 2024-06-22 - Time: 08:00:00 PM (Indian Local Time)."
+description: "IND 39/1 (3.4) - Bangladesh opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs Bangladesh, 47th Match, Super 8 Group 1 - Live Cricket Score
+🔴 Live Score - IND 39/1 (3.4)  
 
-📑 Status - Date: 2024-06-22 - Time: 08:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 10.64  
+
+✊ Current Batsman - Rishabh Pant - 0(0)  
+
+✊ Current Bowler - Shakib Al Hasan - 1.4 Over 25 Run - 1 Wicket  
+
+📑 Status - Bangladesh opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/22/2024, 11:08:09 AM
+📝 Last Updated on : 6/22/2024, 8:15:26 PM
 
 ***
 
