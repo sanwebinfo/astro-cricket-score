@@ -1,25 +1,19 @@
 ---
 title: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "AUS 70/3 (10) - Australia need 79 runs in 60 balls."
+description: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score - Afghanistan won by 21 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AUS 70/3 (10)  
+✅ Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score
 
-📊 Run Rate - CRR: 7  
-
-✊ Current Batsman - Glenn Maxwell - 31(24)  
-
-✊ Current Bowler - Noor Ahmad - 1 Over 11 Run - 0 Wicket  
-
-📑 Status - Australia need 79 runs in 60 balls
+📑 Status - Afghanistan won by 21 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/23/2024, 8:33:17 AM
+📝 Last Updated on : 6/23/2024, 9:32:38 AM
 
 ***
 
