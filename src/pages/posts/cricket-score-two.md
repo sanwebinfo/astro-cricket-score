@@ -1,19 +1,25 @@
 ---
-title: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score"
+title: "West Indies vs South Africa, 50th Match, Super 8 Group 2 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score - Afghanistan won by 21 runs."
+description: "RSA 110/6 (15.1) - South Africa need 13 runs in 11 balls - 2nd inns reduced to 17 overs - Target 123."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Afghanistan vs Australia, 48th Match, Super 8 Group 1 - Live Cricket Score
+🔴 Live Score - RSA 110/6 (15.1)  
 
-📑 Status - Afghanistan won by 21 runs
+📊 Run Rate - CRR: 7.25  
+
+✊ Current Batsman - Keshav Maharaj - 2(5)  
+
+✊ Current Bowler - Roston Chase - 2.1 Over 6 Run - 2 Wicket  
+
+📑 Status - South Africa need 13 runs in 11 balls - 2nd inns reduced to 17 overs - Target 123
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/23/2024, 9:32:38 AM
+📝 Last Updated on : 6/24/2024, 10:21:24 AM
 
 ***
 
