@@ -1,19 +1,19 @@
 ---
-title: "West Indies vs South Africa, 50th Match, Super 8 Group 2 - Live Cricket Score"
+title: "Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "West Indies vs South Africa, 50th Match, Super 8 Group 2 - Live Cricket Score - South Africa won by 3 wkts - 2nd inns reduced to 17 overs - Target 123 (DLS method)."
+description: "Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score - Date: 2024-06-25 - Time: 06:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ West Indies vs South Africa, 50th Match, Super 8 Group 2 - Live Cricket Score
+✅ Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score
 
-📑 Status - South Africa won by 3 wkts - 2nd inns reduced to 17 overs - Target 123 (DLS method)
+📑 Status - Date: 2024-06-25 - Time: 06:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/24/2024, 10:31:41 AM
+📝 Last Updated on : 6/24/2024, 11:19:58 AM
 
 ***
 
