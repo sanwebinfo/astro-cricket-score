@@ -1,19 +1,19 @@
 ---
-title: "Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score"
+title: "India vs England, Semi Final 2 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score - Afghanistan won by 8 runs (Match reduced to 19 Ovs due to rain, DLS Target 114)."
+description: "India vs England, Semi Final 2 - Live Cricket Score - Date: 2024-06-27 - Time: 08:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Afghanistan vs Bangladesh, 52nd Match, Super 8 Group 1 - Live Cricket Score
+✅ India vs England, Semi Final 2 - Live Cricket Score
 
-📑 Status - Afghanistan won by 8 runs (Match reduced to 19 Ovs due to rain, DLS Target 114)
+📑 Status - Date: 2024-06-27 - Time: 08:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/25/2024, 11:07:48 AM
+📝 Last Updated on : 6/26/2024, 6:15:44 PM
 
 ***
 
