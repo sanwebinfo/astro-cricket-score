@@ -1,19 +1,19 @@
 ---
-title: "Australia vs India, 51st Match, Super 8 Group 1 - Live Cricket Score"
+title: "South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Australia vs India, 51st Match, Super 8 Group 1 - Live Cricket Score - India won by 24 runs."
+description: "South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score - Date: 2024-06-27 - Time: 06:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs India, 51st Match, Super 8 Group 1 - Live Cricket Score
+✅ South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score
 
-📑 Status - India won by 24 runs
+📑 Status - Date: 2024-06-27 - Time: 06:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/25/2024, 9:26:17 AM
+📝 Last Updated on : 6/26/2024, 6:20:57 AM
 
 ***
 
