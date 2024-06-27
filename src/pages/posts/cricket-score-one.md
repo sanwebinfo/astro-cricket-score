@@ -1,19 +1,19 @@
 ---
 title: "South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score - Date: 2024-06-27 - Time: 06:00:00 AM (Indian Local Time)."
+description: "South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score - South Africa won by 9 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ South Africa vs Afghanistan, Semi Final 1 - Live Cricket Score
 
-📑 Status - Date: 2024-06-27 - Time: 06:00:00 AM (Indian Local Time)
+📑 Status - South Africa won by 9 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/26/2024, 6:20:57 AM
+📝 Last Updated on : 6/27/2024, 8:43:09 AM
 
 ***
 
