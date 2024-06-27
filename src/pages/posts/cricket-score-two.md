@@ -1,17 +1,17 @@
 ---
 title: "India vs England, Semi Final 2 - Live Cricket Score"
 slug: "cricket-score-two"
-description: "IND 21/1 (3.1) - England opt to bowl."
+description: "IND 146/5 (17.4) - England opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 21/1 (3.1)  
+🔴 Live Score - IND 146/5 (17.4)  
 
-📊 Run Rate - CRR: 6.63  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Rohit Sharma - 9(9)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Jofra Archer - 1.1 Over 5 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
 📑 Status - England opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/27/2024, 9:30:20 PM
+📝 Last Updated on : 6/27/2024, 11:49:25 PM
 
 ***
 
