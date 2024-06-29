@@ -1,25 +1,19 @@
 ---
 title: "South Africa vs India, Final - Live Cricket Score"
 slug: "cricket-score-one"
-description: "RSA 157/6 (18.1) - South Africa need 20 runs in 11 balls."
+description: "South Africa vs India, Final - Live Cricket Score - India won by 7 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - RSA 157/6 (18.1)  
+✅ South Africa vs India, Final - Live Cricket Score
 
-📊 Run Rate - CRR: 8.64  
-
-✊ Current Batsman - Keshav Maharaj - 1(3)  
-
-✊ Current Bowler - Arshdeep Singh - 3.1 Over 16 Run - 2 Wicket  
-
-📑 Status - South Africa need 20 runs in 11 balls
+📑 Status - India won by 7 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/29/2024, 11:17:10 PM
+📝 Last Updated on : 6/29/2024, 11:43:28 PM
 
 ***
 
