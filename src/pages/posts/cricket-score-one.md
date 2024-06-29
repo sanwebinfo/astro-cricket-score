@@ -1,17 +1,17 @@
 ---
 title: "South Africa vs India, Final - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 105/3 (13.2) - India opt to bat."
+description: "IND 134/4 (17) - India opt to bat."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 105/3 (13.2)  
+🔴 Live Score - IND 134/4 (17)  
 
 📊 Run Rate - CRR: 7.88  
 
-✊ Current Batsman - Virat Kohli - 43(38)  
+✊ Current Batsman - Virat Kohli - 50(48)  
 
-✊ Current Bowler - Kagiso Rabada - 2.2 Over 17 Run - 1 Wicket  
+✊ Current Bowler - Tabraiz Shamsi - 3 Over 26 Run - 0 Wicket  
 
 📑 Status - India opt to bat
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 6/29/2024, 9:02:04 PM
+📝 Last Updated on : 6/29/2024, 9:19:18 PM
 
 ***
 
