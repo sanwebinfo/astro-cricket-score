@@ -1,19 +1,25 @@
 ---
-title: "India vs England, Semi Final 2 - Live Cricket Score"
+title: "India Women vs South Africa Women, One-off Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "India vs England, Semi Final 2 - Live Cricket Score - India won by 68 runs."
+description: "RSAW 236/4 (72) - Day 2: Stumps - South Africa Women trail by 367 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs England, Semi Final 2 - Live Cricket Score
+🔴 Live Score - RSAW 236/4 (72)  
 
-📑 Status - India won by 68 runs
+📊 Run Rate - CRR: 3.28  
+
+✊ Current Batsman - Nadine de Klerk - 27(28)  
+
+✊ Current Bowler - Sneh Rana - 21 Over 61 Run - 3 Wicket  
+
+📑 Status - Day 2: Stumps - South Africa Women trail by 367 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/28/2024, 12:01:15 PM
+📝 Last Updated on : 6/29/2024, 7:41:42 PM
 
 ***
 
