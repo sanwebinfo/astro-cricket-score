@@ -1,25 +1,25 @@
 ---
 title: "India Women vs South Africa Women, One-off Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "RSAW 236/4 (72) - Day 2: Stumps - South Africa Women trail by 367 runs."
+description: "RSAW 266 & 232/2 (85) - Day 3: Stumps - South Africa Women trail by 105 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSAW 236/4 (72)  
+🔴 Live Score - RSAW 266 & 232/2 (85)  
 
-📊 Run Rate - CRR: 3.28  
+📊 Run Rate - CRR: 2.73  
 
-✊ Current Batsman - Nadine de Klerk - 27(28)  
+✊ Current Batsman - Laura Wolvaardt - 93(252)  
 
-✊ Current Bowler - Sneh Rana - 21 Over 61 Run - 3 Wicket  
+✊ Current Bowler - Deepti Sharma - 23 Over 56 Run - 1 Wicket  
 
-📑 Status - Day 2: Stumps - South Africa Women trail by 367 runs
+📑 Status - Day 3: Stumps - South Africa Women trail by 105 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/29/2024, 7:41:42 PM
+📝 Last Updated on : 6/30/2024, 6:24:21 PM
 
 ***
 
