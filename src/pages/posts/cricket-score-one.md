@@ -1,19 +1,19 @@
 ---
 title: "Zimbabwe vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Zimbabwe vs India, 1st T20I - Live Cricket Score - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)."
+description: "Zimbabwe vs India, 1st T20I - Live Cricket Score - Zimbabwe won by 13 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ Zimbabwe vs India, 1st T20I - Live Cricket Score
 
-📑 Status - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)
+📑 Status - Zimbabwe won by 13 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/6/2024, 10:56:51 AM
+📝 Last Updated on : 7/6/2024, 8:17:23 PM
 
 ***
 
