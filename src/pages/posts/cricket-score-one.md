@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs India, Final - Live Cricket Score"
+title: "Zimbabwe vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs India, Final - Live Cricket Score - India won by 7 runs."
+description: "Zimbabwe vs India, 1st T20I - Live Cricket Score - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs India, Final - Live Cricket Score
+✅ Zimbabwe vs India, 1st T20I - Live Cricket Score
 
-📑 Status - India won by 7 runs
+📑 Status - Date: 2024-07-06 - Time: 04:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/29/2024, 11:43:28 PM
+📝 Last Updated on : 7/6/2024, 10:56:51 AM
 
 ***
 
