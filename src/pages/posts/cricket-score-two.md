@@ -1,25 +1,25 @@
 ---
-title: "India Women vs South Africa Women, One-off Test - Live Cricket Score"
+title: "England vs West Indies, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "RSAW 266 & 232/2 (85) - Day 3: Stumps - South Africa Women trail by 105 runs."
+description: "WI 61/3 (28) - Day 1: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - RSAW 266 & 232/2 (85)  
+🔴 Live Score - WI 61/3 (28)  
 
-📊 Run Rate - CRR: 2.73  
+📊 Run Rate - CRR: 2.18  
 
-✊ Current Batsman - Laura Wolvaardt - 93(252)  
+✊ Current Batsman - Kavem Hodge - 12(25)  
 
-✊ Current Bowler - Deepti Sharma - 23 Over 56 Run - 1 Wicket  
+✊ Current Bowler - Gus Atkinson - 5 Over 2 Run - 2 Wicket  
 
-📑 Status - Day 3: Stumps - South Africa Women trail by 105 runs
+📑 Status - Day 1: 2nd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 6/30/2024, 6:24:21 PM
+📝 Last Updated on : 7/10/2024, 6:13:41 PM
 
 ***
 
