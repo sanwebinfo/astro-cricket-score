@@ -1,25 +1,19 @@
 ---
 title: "Zimbabwe vs India, 4th T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 135/0 (14) - India need 18 runs in 36 balls."
+description: "Zimbabwe vs India, 4th T20I - Live Cricket Score - India won by 10 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 135/0 (14)  
+✅ Zimbabwe vs India, 4th T20I - Live Cricket Score
 
-📊 Run Rate - CRR: 9.64  
-
-✊ Current Batsman - Shubman Gill - 48(34)  
-
-✊ Current Bowler - Faraz Akram - 4 Over 41 Run - 0 Wicket  
-
-📑 Status - India need 18 runs in 36 balls
+📑 Status - India won by 10 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/13/2024, 7:17:11 PM
+📝 Last Updated on : 7/13/2024, 7:58:22 PM
 
 ***
 
