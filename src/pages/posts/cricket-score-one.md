@@ -1,19 +1,19 @@
 ---
-title: "Zimbabwe vs India, 4th T20I - Live Cricket Score"
+title: "England vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Zimbabwe vs India, 4th T20I - Live Cricket Score - India won by 10 wkts."
+description: "England vs West Indies, 2nd Test - Live Cricket Score - Date: 2024-07-18 - Time: 03:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Zimbabwe vs India, 4th T20I - Live Cricket Score
+✅ England vs West Indies, 2nd Test - Live Cricket Score
 
-📑 Status - India won by 10 wkts
+📑 Status - Date: 2024-07-18 - Time: 03:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/13/2024, 7:58:22 PM
+📝 Last Updated on : 7/17/2024, 8:31:14 PM
 
 ***
 
