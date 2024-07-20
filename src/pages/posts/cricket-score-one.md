@@ -1,25 +1,25 @@
 ---
 title: "England vs West Indies, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "ENG 416 (88.3) - Day 1: Stumps."
+description: "WI 351/5 (84) - Day 2: Stumps - West Indies trail by 65 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 416 (88.3)  
+🔴 Live Score - WI 351/5 (84)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 4.18  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Jason Holder - 23(67)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Gus Atkinson - 16.5 Over 77 Run - 1 Wicket  
 
-📑 Status - Day 1: Stumps
+📑 Status - Day 2: Stumps - West Indies trail by 65 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/19/2024, 9:04:33 AM
+📝 Last Updated on : 7/20/2024, 9:57:29 AM
 
 ***
 
