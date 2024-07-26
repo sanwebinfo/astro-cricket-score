@@ -1,25 +1,19 @@
 ---
-title: "England vs West Indies, 2nd Test - Live Cricket Score"
+title: "Sri Lanka vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "WI 351/5 (84) - Day 2: Stumps - West Indies trail by 65 runs."
+description: "Sri Lanka vs India, 1st T20I - Live Cricket Score - Date: 2024-07-27 - Time: 07:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - WI 351/5 (84)  
+✅ Sri Lanka vs India, 1st T20I - Live Cricket Score
 
-📊 Run Rate - CRR: 4.18  
-
-✊ Current Batsman - Jason Holder - 23(67)  
-
-✊ Current Bowler - Gus Atkinson - 16.5 Over 77 Run - 1 Wicket  
-
-📑 Status - Day 2: Stumps - West Indies trail by 65 runs
+📑 Status - Date: 2024-07-27 - Time: 07:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/20/2024, 9:57:29 AM
+📝 Last Updated on : 7/26/2024, 7:11:32 PM
 
 ***
 
