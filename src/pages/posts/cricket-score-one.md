@@ -1,25 +1,19 @@
 ---
 title: "Sri Lanka vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 213/7 (20) - Innings Break."
+description: "Sri Lanka vs India, 1st T20I - Live Cricket Score - India won by 43 runs."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 213/7 (20)  
+✅ Sri Lanka vs India, 1st T20I - Live Cricket Score
 
-📊 Run Rate - CRR: 10.65  
-
-✊ Current Batsman - Arshdeep Singh - 1(1)  
-
-✊ Current Bowler - Asitha Fernando - 4 Over 47 Run - 1 Wicket  
-
-📑 Status - Innings Break
+📑 Status - India won by 43 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/27/2024, 8:53:40 PM
+📝 Last Updated on : 7/27/2024, 10:55:26 PM
 
 ***
 
