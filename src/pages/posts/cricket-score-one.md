@@ -1,19 +1,25 @@
 ---
 title: "Sri Lanka vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sri Lanka vs India, 1st T20I - Live Cricket Score - Date: 2024-07-27 - Time: 07:00:00 PM (Indian Local Time)."
+description: "IND 159/3 (15) - Sri Lanka opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Sri Lanka vs India, 1st T20I - Live Cricket Score
+🔴 Live Score - IND 159/3 (15)  
 
-📑 Status - Date: 2024-07-27 - Time: 07:00:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 10.6  
+
+✊ Current Batsman - Rishabh Pant - 20(20)  
+
+✊ Current Bowler - Matheesha Pathirana - 2 Over 20 Run - 1 Wicket  
+
+📑 Status - Sri Lanka opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/26/2024, 7:11:32 PM
+📝 Last Updated on : 7/27/2024, 8:20:33 PM
 
 ***
 
