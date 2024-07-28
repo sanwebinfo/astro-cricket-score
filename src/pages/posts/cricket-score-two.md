@@ -1,25 +1,25 @@
 ---
 title: "England vs West Indies, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "WI 137/5 (38.5) - Day 1: 2nd Session."
+description: "WI 282 & 33/2 (14) - Day 2: Stumps - West Indies trail by 61 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - WI 137/5 (38.5)  
+🔴 Live Score - WI 282 & 33/2 (14)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: 2.36  
 
-✊ Current Batsman - Joshua Da Silva - 10(28)  
+✊ Current Batsman - Alick Athanaze - 5(23)  
 
-✊ Current Bowler - Ben Stokes - 7.5 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Mark Wood - 3 Over 6 Run - 0 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 2: Stumps - West Indies trail by 61 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/26/2024, 7:12:47 PM
+📝 Last Updated on : 7/28/2024, 10:05:22 AM
 
 ***
 
