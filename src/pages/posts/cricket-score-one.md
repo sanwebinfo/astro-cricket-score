@@ -1,19 +1,19 @@
 ---
-title: "Sri Lanka vs India, 1st T20I - Live Cricket Score"
+title: "Sri Lanka vs India, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Sri Lanka vs India, 1st T20I - Live Cricket Score - India won by 43 runs."
+description: "Sri Lanka vs India, 2nd T20I - Live Cricket Score - Date: 2024-07-28 - Time: 07:00:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sri Lanka vs India, 1st T20I - Live Cricket Score
+✅ Sri Lanka vs India, 2nd T20I - Live Cricket Score
 
-📑 Status - India won by 43 runs
+📑 Status - Date: 2024-07-28 - Time: 07:00:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/27/2024, 10:55:26 PM
+📝 Last Updated on : 7/28/2024, 9:57:22 AM
 
 ***
 
