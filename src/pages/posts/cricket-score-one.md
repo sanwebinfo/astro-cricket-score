@@ -1,25 +1,19 @@
 ---
 title: "Sri Lanka vs India, 1st ODI - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 168/5 (36) - India need 63 runs in 84 balls."
+description: "Sri Lanka vs India, 1st ODI - Live Cricket Score - Match tied."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - IND 168/5 (36)  
+✅ Sri Lanka vs India, 1st ODI - Live Cricket Score
 
-📊 Run Rate - CRR: 4.67  
-
-✊ Current Batsman - KL Rahul - 18(30)  
-
-✊ Current Bowler - Charith Asalanka - 4 Over 14 Run - 0 Wicket  
-
-📑 Status - India need 63 runs in 84 balls
+📑 Status - Match tied
 
 <br />
 
 ***
 
-📝 Last Updated on : 8/2/2024, 9:07:08 PM
+📝 Last Updated on : 8/2/2024, 10:02:15 PM
 
 ***
 
