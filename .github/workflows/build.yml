@@ -26,4 +26,5 @@ jobs:
     - name: use yarn
       run: |
        yarn install
+       yarn sync
        yarn build
