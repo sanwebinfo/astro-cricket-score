@@ -98,7 +98,7 @@
     json5 "^2.2.3"
     semver "^6.3.1"
 
-"@babel/generator@^7.25.0", "@babel/generator@^7.25.4":
+"@babel/generator@^7.25.0", "@babel/generator@^7.25.4", "@babel/generator@^7.25.5":
   version "7.25.5"
   resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.25.5.tgz#b31cf05b3fe8c32d206b6dad03bb0aacbde73450"
   integrity sha512-abd43wyLfbWoxC6ahM8xTkqLpGB2iWBVyuKC9/srhFunCd1SDNrV1s72bBpK4hLj8KLzHBBcOblvLQZBNw9r3w==
@@ -190,7 +190,7 @@
     js-tokens "^4.0.0"
     picocolors "^1.0.0"
 
-"@babel/parser@^7.1.0", "@babel/parser@^7.20.7", "@babel/parser@^7.25.0", "@babel/parser@^7.25.3", "@babel/parser@^7.25.4":
+"@babel/parser@^7.1.0", "@babel/parser@^7.20.7", "@babel/parser@^7.25.0", "@babel/parser@^7.25.4":
   version "7.25.4"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.25.4.tgz#af4f2df7d02440286b7de57b1c21acfb2a6f257a"
   integrity sha512-nq+eWrOgdtu3jG5Os4TQP3x3cLA8hR8TvJNjD8vnPa20WGycimcparWnLK4jJhElTK6SDyuJo1weMKO/5LpmLA==
@@ -224,7 +224,7 @@
     "@babel/parser" "^7.25.0"
     "@babel/types" "^7.25.0"
 
-"@babel/traverse@^7.24.7", "@babel/traverse@^7.25.2", "@babel/traverse@^7.25.3":
+"@babel/traverse@^7.24.7", "@babel/traverse@^7.25.2", "@babel/traverse@^7.25.4":
   version "7.25.4"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.25.4.tgz#648678046990f2957407e3086e97044f13c3e18e"
   integrity sha512-VJ4XsrD+nOvlXyLzmLzUs/0qjFS4sK30te5yEFlvbbUNEgKaVb2BHZUpAL+ttLPQAHNrsI3zZisbfha5Cvr8vg==
@@ -784,21 +784,21 @@ astro-font@^0.1.81:
   resolved "https://registry.yarnpkg.com/astro-font/-/astro-font-0.1.81.tgz#e6d798d1b728f5c335a2736978741fc8ef762509"
   integrity sha512-rbrv/+ZSYdgyjBlhkAqfCjMxqqo6iEwnSo/rAdDt/POILsF0ChxMFhefIIzKEukrRGtVjEj1lrLRYk+AdV9scQ==
 
-astro@4.14.5:
-  version "4.14.5"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-4.14.5.tgz#d0e6302fdae72d31be6a916b8b30eb9bb2092b2a"
-  integrity sha512-sv47kPE6FnvyxxHHcCePNwTKpOMKBq0r1m6WZYg6ag9j3yF9m72ov64NFB7c+hAMDUKgsHfVdLKjOOqDC/c+fA==
+astro@4.14.6:
+  version "4.14.6"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-4.14.6.tgz#ff2feda4864ab103dcd5dc0b53f8104f4d4deb45"
+  integrity sha512-MIDyNhtu3L4uakHvlTprh21eQPehYOtZSuSLtd+r6xZcl3lB+mlBz/hs1W3iHEQAORyJnKArWSY/aVOBKUyflA==
   dependencies:
     "@astrojs/compiler" "^2.10.3"
     "@astrojs/internal-helpers" "0.4.1"
     "@astrojs/markdown-remark" "5.2.0"
     "@astrojs/telemetry" "3.1.0"
     "@babel/core" "^7.25.2"
-    "@babel/generator" "^7.25.0"
-    "@babel/parser" "^7.25.3"
+    "@babel/generator" "^7.25.5"
+    "@babel/parser" "^7.25.4"
     "@babel/plugin-transform-react-jsx" "^7.25.2"
-    "@babel/traverse" "^7.25.3"
-    "@babel/types" "^7.25.2"
+    "@babel/traverse" "^7.25.4"
+    "@babel/types" "^7.25.4"
     "@oslojs/encoding" "^0.4.1"
     "@rollup/pluginutils" "^5.1.0"
     "@types/babel__core" "^7.20.5"
@@ -831,10 +831,10 @@ astro@4.14.5:
     js-yaml "^4.1.0"
     kleur "^4.1.5"
     magic-string "^0.30.11"
-    micromatch "^4.0.7"
+    micromatch "^4.0.8"
     mrmime "^2.0.0"
     neotraverse "^0.6.18"
-    ora "^8.0.1"
+    ora "^8.1.0"
     p-limit "^6.1.0"
     p-queue "^8.0.1"
     path-to-regexp "^6.2.2"
@@ -847,8 +847,8 @@ astro@4.14.5:
     strip-ansi "^7.1.0"
     tsconfck "^3.1.1"
     unist-util-visit "^5.0.0"
-    vfile "^6.0.2"
-    vite "^5.4.1"
+    vfile "^6.0.3"
+    vite "^5.4.2"
     vitefu "^0.2.5"
     which-pm "^3.0.0"
     xxhash-wasm "^1.0.2"
@@ -2091,7 +2091,7 @@ micromark@^4.0.0:
     micromark-util-symbol "^2.0.0"
     micromark-util-types "^2.0.0"
 
-micromatch@^4.0.2, micromatch@^4.0.4, micromatch@^4.0.7:
+micromatch@^4.0.2, micromatch@^4.0.4, micromatch@^4.0.8:
   version "4.0.8"
   resolved "https://registry.yarnpkg.com/micromatch/-/micromatch-4.0.8.tgz#d66fa18f3a47076789320b9b1af32bd86d9fa202"
   integrity sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA==
@@ -2162,7 +2162,7 @@ onetime@^7.0.0:
   dependencies:
     mimic-function "^5.0.0"
 
-ora@^8.0.1:
+ora@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/ora/-/ora-8.1.0.tgz#c3db2f9f83a2bec9e8ab71fe3b9ae234d65ca3a8"
   integrity sha512-GQEkNkH/GHOhPFXcqZs3IDahXEQcQxsSjEkK4KvEEST4t7eNzoMjxTzef+EZ+JluDEV+Raoi3WQ2CflnRdSVnQ==
@@ -2821,7 +2821,15 @@ vfile@^6.0.0, vfile@^6.0.2:
     unist-util-stringify-position "^4.0.0"
     vfile-message "^4.0.0"
 
-vite@^5.4.1:
+vfile@^6.0.3:
+  version "6.0.3"
+  resolved "https://registry.yarnpkg.com/vfile/-/vfile-6.0.3.tgz#3652ab1c496531852bf55a6bac57af981ebc38ab"
+  integrity sha512-KzIbH/9tXat2u30jf+smMwFCsno4wHVdNmzFyL+T/L3UGqqk6JKfVqOFOZEpZSHADH1k40ab6NUIXZq422ov3Q==
+  dependencies:
+    "@types/unist" "^3.0.0"
+    vfile-message "^4.0.0"
+
+vite@^5.4.2:
   version "5.4.2"
   resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.2.tgz#8acb6ec4bfab823cdfc1cb2d6c53ed311bc4e47e"
   integrity sha512-dDrQTRHp5C1fTFzcSaMxjk6vdpKvT+2/mIdE07Gw2ykehT49O0z/VHS3zZ8iV/Gh8BJJKHWOe5RjaNrW5xf/GA==
