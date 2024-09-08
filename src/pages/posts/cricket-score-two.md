@@ -1,25 +1,19 @@
 ---
-title: "England vs West Indies, 3rd Test - Live Cricket Score"
+title: "Afghanistan vs New Zealand, Only Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "WI 282 & 33/2 (14) - Day 2: Stumps - West Indies trail by 61 runs."
+description: "Afghanistan vs New Zealand, Only Test - Live Cricket Score - Date: 2024-09-09 - Time: 10:00:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - WI 282 & 33/2 (14)  
+✅ Afghanistan vs New Zealand, Only Test - Live Cricket Score
 
-📊 Run Rate - CRR: 2.36  
-
-✊ Current Batsman - Alick Athanaze - 5(23)  
-
-✊ Current Bowler - Mark Wood - 3 Over 6 Run - 0 Wicket  
-
-📑 Status - Day 2: Stumps - West Indies trail by 61 runs
+📑 Status - Date: 2024-09-09 - Time: 10:00:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 7/28/2024, 10:05:22 AM
+📝 Last Updated on : 9/8/2024, 9:34:04 PM
 
 ***
 
