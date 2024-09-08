@@ -1,25 +1,25 @@
 ---
-title: "Sri Lanka vs India, 3rd ODI - Live Cricket Score"
+title: "England vs Sri Lanka, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "SL 248/7 (50) - Innings Break."
+description: "ENG 325 & 140/8 (31) - Day 3: Tea Break - England lead by 202 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - SL 248/7 (50)  
+🔴 Live Score - ENG 325 & 140/8 (31)  
 
-📊 Run Rate - CRR: 4.96  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Kamindu Mendis - 23(19)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Mohammed Siraj - 9 Over 78 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Innings Break
+📑 Status - Day 3: Tea Break - England lead by 202 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 8/7/2024, 5:56:02 PM
+📝 Last Updated on : 9/8/2024, 9:24:32 PM
 
 ***
 
