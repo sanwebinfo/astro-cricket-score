@@ -806,10 +806,10 @@ astro-font@^0.1.81:
   resolved "https://registry.yarnpkg.com/astro-font/-/astro-font-0.1.81.tgz#e6d798d1b728f5c335a2736978741fc8ef762509"
   integrity sha512-rbrv/+ZSYdgyjBlhkAqfCjMxqqo6iEwnSo/rAdDt/POILsF0ChxMFhefIIzKEukrRGtVjEj1lrLRYk+AdV9scQ==
 
-astro@4.15.2:
-  version "4.15.2"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-4.15.2.tgz#8cbc8835fc491bee1f5f132e0f45bf51559ff8af"
-  integrity sha512-UlkQ/cWRLabOm6eVe6oRwjVAKd47N3+d1ktKpEZ5lqQKwq5uYrXQUu3n0ftsm6SJ+01x2LlPmjRe9OfKAbGpXA==
+astro@4.15.4:
+  version "4.15.4"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-4.15.4.tgz#9e79e3d51431bf5b8b0bb54a346543da313ac252"
+  integrity sha512-wqy+m3qygt9DmCSqMsckxyK4ccCUFtti2d/WlLkEpAlqHgyDIg20zRTLHO2v/H4YeSlJ8sAcN0RW2FhOeYbINg==
   dependencies:
     "@astrojs/compiler" "^2.10.3"
     "@astrojs/internal-helpers" "0.4.1"
@@ -870,7 +870,7 @@ astro@4.15.2:
     unist-util-visit "^5.0.0"
     vfile "^6.0.3"
     vite "^5.4.2"
-    vitefu "^0.2.5"
+    vitefu "^1.0.2"
     which-pm "^3.0.0"
     xxhash-wasm "^1.0.2"
     yargs-parser "^21.1.1"
@@ -2789,10 +2789,10 @@ vite@^5.4.2:
   optionalDependencies:
     fsevents "~2.3.3"
 
-vitefu@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/vitefu/-/vitefu-0.2.5.tgz#c1b93c377fbdd3e5ddd69840ea3aa70b40d90969"
-  integrity sha512-SgHtMLoqaeeGnd2evZ849ZbACbnwQCIwRH57t18FxcXoZop0uQu0uzlIhJBlF/eWVzuce0sHeqPcDo+evVcg8Q==
+vitefu@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vitefu/-/vitefu-1.0.2.tgz#fbe9f7c7478be51678214bf468d7296ce29bf8ff"
+  integrity sha512-0/iAvbXyM3RiPPJ4lyD4w6Mjgtf4ejTK6TPvTNG3H32PLwuT0N/ZjJLiXug7ETE/LWtTeHw9WRv7uX/tIKYyKg==
 
 web-namespaces@^2.0.0:
   version "2.0.1"
