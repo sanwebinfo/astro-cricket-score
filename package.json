@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "astro": "4.15.6",
-    "typescript": "^5.5.4"
+    "typescript": "^5.6.2"
   },
   "dependencies": {
     "astro-font": "^0.1.81"
