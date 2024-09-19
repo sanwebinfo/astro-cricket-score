@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 133/4 (36) - Day 1: 2nd Session."
+description: "IND 339/6 (80) - Day 1: Stumps."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 133/4 (36)  
+🔴 Live Score - IND 339/6 (80)  
 
-📊 Run Rate - CRR: 3.69  
+📊 Run Rate - CRR: 4.24  
 
-✊ Current Batsman - Yashasvi Jaiswal - 51(101)  
+✊ Current Batsman - Ravindra Jadeja - 86(117)  
 
-✊ Current Bowler - Mehidy Hasan Miraz - 5 Over 21 Run - 0 Wicket  
+✊ Current Bowler - Mominul Haque - 1 Over 4 Run - 0 Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: Stumps
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/19/2024, 1:17:33 PM
+📝 Last Updated on : 9/19/2024, 5:15:08 PM
 
 ***
 
