@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 376 (91.2) - Day 2: Innings Break."
+description: "BAN 26/3 (9) - Day 2: Lunch Break - Bangladesh trail by 350 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 376 (91.2)  
+🔴 Live Score - BAN 26/3 (9)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 2.89  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Najmul Hossain Shanto - 15(22)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Akash Deep - 2 Over 5 Run - 2 Wicket  
 
-📑 Status - Day 2: Innings Break
+📑 Status - Day 2: Lunch Break - Bangladesh trail by 350 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/20/2024, 10:46:34 AM
+📝 Last Updated on : 9/20/2024, 11:50:55 AM
 
 ***
 
