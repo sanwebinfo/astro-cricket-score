@@ -10,7 +10,7 @@
     "sync": "astro sync"
   },
   "devDependencies": {
-    "astro": "4.15.6",
+    "astro": "4.15.8",
     "typescript": "^5.6.2"
   },
   "dependencies": {
