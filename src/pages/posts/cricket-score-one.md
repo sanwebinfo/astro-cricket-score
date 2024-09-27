@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "BAN 8/0 (2.1) - Day 1: 1st Session."
+description: "BAN 107/3 (35) - Day 1: Stumps."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN 8/0 (2.1)  
+🔴 Live Score - BAN 107/3 (35)  
 
-📊 Run Rate - CRR: 3.69  
+📊 Run Rate - CRR: 3.06  
 
-✊ Current Batsman - Zakir Hasan - 0(7)  
+✊ Current Batsman - Mushfiqur Rahim - 6(13)  
 
-✊ Current Bowler - Jasprit Bumrah - 1.1 Over 0 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 9 Over 19 Run - 0 Wicket  
 
-📑 Status - Day 1: 1st Session
+📑 Status - Day 1: Stumps
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/27/2024, 10:47:27 AM
+📝 Last Updated on : 9/27/2024, 6:03:41 PM
 
 ***
 
