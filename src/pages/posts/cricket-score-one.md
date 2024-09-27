@@ -1,19 +1,25 @@
 ---
-title: "India vs Bangladesh, 1st Test - Live Cricket Score"
+title: "India vs Bangladesh, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Bangladesh, 1st Test - Live Cricket Score - India won by 280 runs."
+description: "BAN 4/0 (1) - Day 1: 1st Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs Bangladesh, 1st Test - Live Cricket Score
+🔴 Live Score - BAN 4/0 (1)  
 
-📑 Status - India won by 280 runs
+📊 Run Rate - CRR: Match Stats will Update Soon  
+
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+
+📑 Status - Day 1: 1st Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/22/2024, 6:41:05 PM
+📝 Last Updated on : 9/27/2024, 10:36:44 AM
 
 ***
 
