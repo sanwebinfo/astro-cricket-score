@@ -1,25 +1,25 @@
 ---
 title: "India vs Bangladesh, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "BAN 107/3 (35) - Day 1: Stumps."
+description: "IND 122/1 (12.4) - Day 4: 2nd Session - India trail by 111 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - BAN 107/3 (35)  
+🔴 Live Score - IND 122/1 (12.4)  
 
-📊 Run Rate - CRR: 3.06  
+📊 Run Rate - CRR: 9.63  
 
-✊ Current Batsman - Mushfiqur Rahim - 6(13)  
+✊ Current Batsman - Shubman Gill - 25(18)  
 
-✊ Current Bowler - Jasprit Bumrah - 9 Over 19 Run - 0 Wicket  
+✊ Current Bowler - Hasan Mahmud - 3.4 Over 47 Run - 0 Wicket  
 
-📑 Status - Day 1: Stumps
+📑 Status - Day 4: 2nd Session - India trail by 111 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/27/2024, 6:03:41 PM
+📝 Last Updated on : 9/30/2024, 2:25:36 PM
 
 ***
 
