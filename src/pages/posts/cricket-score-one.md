@@ -1,25 +1,19 @@
 ---
 title: "India vs Bangladesh, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "BAN 233 & 26/2 (11) - Day 4: Stumps - Bangladesh trail by 26 runs."
+description: "India vs Bangladesh, 2nd Test - Live Cricket Score - India won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - BAN 233 & 26/2 (11)  
+✅ India vs Bangladesh, 2nd Test - Live Cricket Score
 
-📊 Run Rate - CRR: 2.36  
-
-✊ Current Batsman - Mominul Haque - 0(2)  
-
-✊ Current Bowler - Akash Deep - 3 Over 4 Run - 0 Wicket  
-
-📑 Status - Day 4: Stumps - Bangladesh trail by 26 runs
+📑 Status - India won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/30/2024, 6:49:35 PM
+📝 Last Updated on : 10/1/2024, 4:42:16 PM
 
 ***
 
