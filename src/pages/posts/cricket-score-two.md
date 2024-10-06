@@ -1,19 +1,19 @@
 ---
-title: "Sri Lanka vs New Zealand, 2nd Test - Live Cricket Score"
+title: "Pakistan vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Sri Lanka vs New Zealand, 2nd Test - Live Cricket Score - Sri Lanka won by an innings and 154 runs."
+description: "Pakistan vs England, 1st Test - Live Cricket Score - Date: 2024-10-07 - Time: 10:30:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sri Lanka vs New Zealand, 2nd Test - Live Cricket Score
+✅ Pakistan vs England, 1st Test - Live Cricket Score
 
-📑 Status - Sri Lanka won by an innings and 154 runs
+📑 Status - Date: 2024-10-07 - Time: 10:30:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 9/30/2024, 6:53:16 PM
+📝 Last Updated on : 10/6/2024, 11:40:27 AM
 
 ***
 
