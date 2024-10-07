@@ -1,19 +1,19 @@
 ---
 title: "India vs Bangladesh, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Bangladesh, 1st T20I - Live Cricket Score - Date: 2024-10-06 - Time: 07:00:00 PM (Indian Local Time)."
+description: "India vs Bangladesh, 1st T20I - Live Cricket Score - India won by 7 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ India vs Bangladesh, 1st T20I - Live Cricket Score
 
-📑 Status - Date: 2024-10-06 - Time: 07:00:00 PM (Indian Local Time)
+📑 Status - India won by 7 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2024, 11:38:57 AM
+📝 Last Updated on : 10/7/2024, 8:21:23 AM
 
 ***
 
