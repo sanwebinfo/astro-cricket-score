@@ -1,17 +1,17 @@
 ---
 title: "India vs Bangladesh, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 41/2 (5.2) - Bangladesh opt to bowl."
+description: "IND 82/3 (9.2) - Bangladesh opt to bowl."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 41/2 (5.2)  
+🔴 Live Score - IND 82/3 (9.2)  
 
-📊 Run Rate - CRR: 7.69  
+📊 Run Rate - CRR: 8.79  
 
-✊ Current Batsman - Suryakumar Yadav - 8(9)  
+✊ Current Batsman - Nitish Reddy - 23(16)  
 
-✊ Current Bowler - Mustafizur Rahman - 0.2 Over 5 Run - 0 Wicket  
+✊ Current Bowler - Rishad Hossain - 1.2 Over 14 Run - 0 Wicket  
 
 📑 Status - Bangladesh opt to bowl
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 10/9/2024, 7:27:24 PM
+📝 Last Updated on : 10/9/2024, 7:46:42 PM
 
 ***
 
