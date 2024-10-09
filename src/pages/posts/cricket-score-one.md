@@ -1,19 +1,25 @@
 ---
-title: "India vs Bangladesh, 1st T20I - Live Cricket Score"
+title: "India vs Bangladesh, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs Bangladesh, 1st T20I - Live Cricket Score - India won by 7 wkts."
+description: "IND 41/2 (5.2) - Bangladesh opt to bowl."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ India vs Bangladesh, 1st T20I - Live Cricket Score
+🔴 Live Score - IND 41/2 (5.2)  
 
-📑 Status - India won by 7 wkts
+📊 Run Rate - CRR: 7.69  
+
+✊ Current Batsman - Suryakumar Yadav - 8(9)  
+
+✊ Current Bowler - Mustafizur Rahman - 0.2 Over 5 Run - 0 Wicket  
+
+📑 Status - Bangladesh opt to bowl
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/7/2024, 8:21:23 AM
+📝 Last Updated on : 10/9/2024, 7:27:24 PM
 
 ***
 
