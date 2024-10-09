@@ -1,19 +1,25 @@
 ---
 title: "Pakistan vs England, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Pakistan vs England, 1st Test - Live Cricket Score - Date: 2024-10-07 - Time: 10:30:00 AM (Indian Local Time)."
+description: "ENG 492/3 (101) - Day 3: Stumps - England trail by 64 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ Pakistan vs England, 1st Test - Live Cricket Score
+🔴 Live Score - ENG 492/3 (101)  
 
-📑 Status - Date: 2024-10-07 - Time: 10:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 4.87  
+
+✊ Current Batsman - Harry Brook - 141(173)  
+
+✊ Current Bowler - Aamer Jamal - 17 Over 78 Run - 1 Wicket  
+
+📑 Status - Day 3: Stumps - England trail by 64 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/6/2024, 11:40:27 AM
+📝 Last Updated on : 10/9/2024, 7:41:22 PM
 
 ***
 
