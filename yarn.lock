@@ -843,10 +843,10 @@ astro-font@^0.1.81:
   resolved "https://registry.yarnpkg.com/astro-font/-/astro-font-0.1.81.tgz#e6d798d1b728f5c335a2736978741fc8ef762509"
   integrity sha512-rbrv/+ZSYdgyjBlhkAqfCjMxqqo6iEwnSo/rAdDt/POILsF0ChxMFhefIIzKEukrRGtVjEj1lrLRYk+AdV9scQ==
 
-astro@4.16.2:
-  version "4.16.2"
-  resolved "https://registry.yarnpkg.com/astro/-/astro-4.16.2.tgz#832b79e1d22397c1706cb56fe895ef15fec80d83"
-  integrity sha512-Dfkpyt6sA+nv6LnOJr+7bt+gQF5Qh02yqVgyes4c4SvcPScteq1bLX22/z/XW+VU0vlciJOMiM8GWtcDiF6gUQ==
+astro@4.16.3:
+  version "4.16.3"
+  resolved "https://registry.yarnpkg.com/astro/-/astro-4.16.3.tgz#66dfd9130770d4098d2bf8c88488861542554bf0"
+  integrity sha512-0IrnbCUprAyfeZ8Au/d/d0ssrYGMAZOZ1K3fX7GxI0OwUhkA9bSex0+ywiyVNiVZE5uRlTKRSkvLNKYQWdtHqw==
   dependencies:
     "@astrojs/compiler" "^2.10.3"
     "@astrojs/internal-helpers" "0.4.1"
