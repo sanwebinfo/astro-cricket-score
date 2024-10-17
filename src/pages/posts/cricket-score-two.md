@@ -1,25 +1,25 @@
 ---
-title: "Pakistan vs England, 1st Test - Live Cricket Score"
+title: "Pakistan vs England, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "ENG 492/3 (101) - Day 3: Stumps - England trail by 64 runs."
+description: "ENG 239/6 (53) - Day 2: Stumps - England trail by 127 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - ENG 492/3 (101)  
+🔴 Live Score - ENG 239/6 (53)  
 
-📊 Run Rate - CRR: 4.87  
+📊 Run Rate - CRR: 4.51  
 
-✊ Current Batsman - Harry Brook - 141(173)  
+✊ Current Batsman - Jamie Smith - 12(33)  
 
-✊ Current Bowler - Aamer Jamal - 17 Over 78 Run - 1 Wicket  
+✊ Current Bowler - Zahid Mahmood - 6 Over 27 Run - 0 Wicket  
 
-📑 Status - Day 3: Stumps - England trail by 64 runs
+📑 Status - Day 2: Stumps - England trail by 127 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/9/2024, 7:41:22 PM
+📝 Last Updated on : 10/17/2024, 10:02:23 AM
 
 ***
 
