@@ -1,25 +1,25 @@
 ---
 title: "India vs New Zealand, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 9/1 (8) - Day 2: 1st Session."
+description: "IND 46 & 231/3 (49) - Day 3: Stumps - India trail by 125 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 9/1 (8)  
+🔴 Live Score - IND 46 & 231/3 (49)  
 
-📊 Run Rate - CRR: 1.12  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Virat Kohli - 0(3)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Tim Southee - 4 Over 4 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: 1st Session
+📑 Status - Day 3: Stumps - India trail by 125 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/17/2024, 10:00:11 AM
+📝 Last Updated on : 10/18/2024, 5:59:07 PM
 
 ***
 
