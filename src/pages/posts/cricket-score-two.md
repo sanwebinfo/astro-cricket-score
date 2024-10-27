@@ -1,19 +1,19 @@
 ---
-title: "Pakistan vs England, 2nd Test - Live Cricket Score"
+title: "Pakistan vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Pakistan vs England, 2nd Test - Live Cricket Score - Pakistan won by 152 runs."
+description: "Pakistan vs England, 3rd Test - Live Cricket Score - Pakistan won by 9 wkts."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Pakistan vs England, 2nd Test - Live Cricket Score
+✅ Pakistan vs England, 3rd Test - Live Cricket Score
 
-📑 Status - Pakistan won by 152 runs
+📑 Status - Pakistan won by 9 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/18/2024, 5:54:39 PM
+📝 Last Updated on : 10/27/2024, 2:04:57 PM
 
 ***
 
