@@ -1,19 +1,19 @@
 ---
-title: "India vs New Zealand, 3rd Test - Live Cricket Score"
+title: "South Africa vs India, 1st T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "India vs New Zealand, 3rd Test - Live Cricket Score - New Zealand won by 25 runs."
+description: "South Africa vs India, 1st T20I - Live Cricket Score - India won by 61 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ India vs New Zealand, 3rd Test - Live Cricket Score
+✅ South Africa vs India, 1st T20I - Live Cricket Score
 
-📑 Status - New Zealand won by 25 runs
+📑 Status - India won by 61 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/3/2024, 1:14:28 PM
+📝 Last Updated on : 11/9/2024, 6:12:35 PM
 
 ***
 
