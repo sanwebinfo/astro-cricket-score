@@ -1,19 +1,19 @@
 ---
-title: "Pakistan vs England, 3rd Test - Live Cricket Score"
+title: "Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Pakistan vs England, 3rd Test - Live Cricket Score - Pakistan won by 9 wkts."
+description: "Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score - Date: 2024-11-13 - Time: 02:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Pakistan vs England, 3rd Test - Live Cricket Score
+✅ Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score
 
-📑 Status - Pakistan won by 9 wkts
+📑 Status - Date: 2024-11-13 - Time: 02:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 10/27/2024, 2:04:57 PM
+📝 Last Updated on : 11/12/2024, 2:35:14 PM
 
 ***
 
