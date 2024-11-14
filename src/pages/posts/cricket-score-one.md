@@ -1,19 +1,19 @@
 ---
 title: "South Africa vs India, 3rd T20I - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs India, 3rd T20I - Live Cricket Score - Date: 2024-11-13 - Time: 08:30:00 PM (Indian Local Time)."
+description: "South Africa vs India, 3rd T20I - Live Cricket Score - India won by 11 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
 ✅ South Africa vs India, 3rd T20I - Live Cricket Score
 
-📑 Status - Date: 2024-11-13 - Time: 08:30:00 PM (Indian Local Time)
+📑 Status - India won by 11 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/12/2024, 2:31:52 PM
+📝 Last Updated on : 11/14/2024, 5:36:38 AM
 
 ***
 
