@@ -1,19 +1,19 @@
 ---
-title: "Australia vs Pakistan, 2nd T20I - Live Cricket Score"
+title: "West Indies vs Bangladesh, 1st Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Australia vs Pakistan, 2nd T20I - Live Cricket Score - Australia won by 13 runs."
+description: "West Indies vs Bangladesh, 1st Test - Live Cricket Score - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs Pakistan, 2nd T20I - Live Cricket Score
+✅ West Indies vs Bangladesh, 1st Test - Live Cricket Score
 
-📑 Status - Australia won by 13 runs
+📑 Status - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/21/2024, 5:01:09 PM
+📝 Last Updated on : 11/21/2024, 5:15:18 PM
 
 ***
 
