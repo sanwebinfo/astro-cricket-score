@@ -1,19 +1,19 @@
 ---
-title: "South Africa vs India, 4th T20I - Live Cricket Score"
+title: "West Indies vs Bangladesh, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "South Africa vs India, 4th T20I - Live Cricket Score - India won by 135 runs."
+description: "West Indies vs Bangladesh, 1st Test - Live Cricket Score - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ South Africa vs India, 4th T20I - Live Cricket Score
+✅ West Indies vs Bangladesh, 1st Test - Live Cricket Score
 
-📑 Status - India won by 135 runs
+📑 Status - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/16/2024, 2:33:26 PM
+📝 Last Updated on : 11/21/2024, 4:53:20 PM
 
 ***
 
