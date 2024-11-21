@@ -1,19 +1,19 @@
 ---
-title: "Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score"
+title: "Australia vs Pakistan, 2nd T20I - Live Cricket Score"
 slug: "cricket-score-two"
-description: "Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score - Date: 2024-11-13 - Time: 02:30:00 PM (Indian Local Time)."
+description: "Australia vs Pakistan, 2nd T20I - Live Cricket Score - Australia won by 13 runs."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Sri Lanka vs New Zealand, 1st ODI - Live Cricket Score
+✅ Australia vs Pakistan, 2nd T20I - Live Cricket Score
 
-📑 Status - Date: 2024-11-13 - Time: 02:30:00 PM (Indian Local Time)
+📑 Status - Australia won by 13 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/12/2024, 2:35:14 PM
+📝 Last Updated on : 11/21/2024, 5:01:09 PM
 
 ***
 
