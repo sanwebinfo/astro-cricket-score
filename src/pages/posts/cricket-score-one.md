@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 130/8 (47.5) - Day 1: 2nd Session."
+description: "IND 150 (49.4) - Day 1: Tea Break."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 130/8 (47.5)  
+🔴 Live Score - IND 150 (49.4)  
 
-📊 Run Rate - CRR: 2.72  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Nitish Reddy - 28(53)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Pat Cummins - 14.5 Over 55 Run - 1 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 1: 2nd Session
+📑 Status - Day 1: Tea Break
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/22/2024, 12:29:50 PM
+📝 Last Updated on : 11/22/2024, 12:44:51 PM
 
 ***
 
