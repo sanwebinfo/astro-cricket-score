@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 51/4 (25) - Day 1: Lunch Break."
+description: "IND 65/5 (28.3) - Day 1: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 51/4 (25)  
+🔴 Live Score - IND 65/5 (28.3)  
 
-📊 Run Rate - CRR: 2.04  
+📊 Run Rate - CRR: 2.28  
 
-✊ Current Batsman - Rishabh Pant - 10(24)  
+✊ Current Batsman - Rishabh Pant - 14(33)  
 
-✊ Current Bowler - Mitchell Starc - 8 Over 10 Run - 2 Wicket  
+✊ Current Bowler - Pat Cummins - 8.3 Over 35 Run - 0 Wicket  
 
-📑 Status - Day 1: Lunch Break
+📑 Status - Day 1: 2nd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/22/2024, 10:11:44 AM
+📝 Last Updated on : 11/22/2024, 10:51:43 AM
 
 ***
 
