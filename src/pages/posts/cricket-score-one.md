@@ -1,17 +1,17 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 71/5 (31) - Day 1: 2nd Session."
+description: "IND 130/8 (47.5) - Day 1: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 71/5 (31)  
+🔴 Live Score - IND 130/8 (47.5)  
 
-📊 Run Rate - CRR: 2.29  
+📊 Run Rate - CRR: 2.72  
 
-✊ Current Batsman - Washington Sundar - 4(9)  
+✊ Current Batsman - Nitish Reddy - 28(53)  
 
-✊ Current Bowler - Mitchell Marsh - 3 Over 2 Run - 1 Wicket  
+✊ Current Bowler - Pat Cummins - 14.5 Over 55 Run - 1 Wicket  
 
 📑 Status - Day 1: 2nd Session
 
@@ -19,7 +19,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ***
 
-📝 Last Updated on : 11/22/2024, 11:05:42 AM
+📝 Last Updated on : 11/22/2024, 12:29:50 PM
 
 ***
 
