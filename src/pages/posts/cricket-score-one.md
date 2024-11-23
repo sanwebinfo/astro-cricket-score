@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AUS 104 (51.2) - Day 2: Lunch Break - Australia trail by 46 runs."
+description: "IND 150 & 84/0 (26) - Day 2: Tea Break - India lead by 130 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 104 (51.2)  
+🔴 Live Score - IND 150 & 84/0 (26)  
 
-📊 Run Rate - CRR: Match Stats will Update Soon  
+📊 Run Rate - CRR: 3.23  
 
-✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
+✊ Current Batsman - Yashasvi Jaiswal - 42(88)  
 
-✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
+✊ Current Bowler - Nathan Lyon - 4 Over 7 Run - 0 Wicket  
 
-📑 Status - Day 2: Lunch Break - Australia trail by 46 runs
+📑 Status - Day 2: Tea Break - India lead by 130 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2024, 9:54:27 AM
+📝 Last Updated on : 11/23/2024, 12:50:16 PM
 
 ***
 
