@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AUS 101/9 (47) - Day 2: 1st Session - Australia trail by 49 runs."
+description: "AUS 104 (51.2) - Day 2: Lunch Break - Australia trail by 46 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - AUS 101/9 (47)  
+🔴 Live Score - AUS 104 (51.2)  
 
-📊 Run Rate - CRR: 2.15  
+📊 Run Rate - CRR: Match Stats will Update Soon  
 
-✊ Current Batsman - Mitchell Starc - 25(92)  
+✊ Current Batsman - Match Stats will Update Soon - Match Stats will Update Soon(Match Stats will Update Soon)  
 
-✊ Current Bowler - Nitish Reddy - 3 Over 4 Run - 0 Wicket  
+✊ Current Bowler - Match Stats will Update Soon - Match Stats will Update Soon Over Match Stats will Update Soon Run - Match Stats will Update Soon Wicket  
 
-📑 Status - Day 2: 1st Session - Australia trail by 49 runs
+📑 Status - Day 2: Lunch Break - Australia trail by 46 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/23/2024, 9:38:38 AM
+📝 Last Updated on : 11/23/2024, 9:54:27 AM
 
 ***
 
