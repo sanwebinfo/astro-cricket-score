@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 1st Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 150 & 191/0 (61.4) - Day 3: 1st Session - India lead by 237 runs."
+description: "IND 150 & 275/1 (84) - Day 3: Lunch Break - India lead by 321 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 150 & 191/0 (61.4)  
+🔴 Live Score - IND 150 & 275/1 (84)  
 
-📊 Run Rate - CRR: 3.1  
+📊 Run Rate - CRR: 3.27  
 
-✊ Current Batsman - Yashasvi Jaiswal - 95(204)  
+✊ Current Batsman - Devdutt Padikkal - 25(70)  
 
-✊ Current Bowler - Josh Hazlewood - 12.4 Over 15 Run - 0 Wicket  
+✊ Current Bowler - Mitchell Starc - 19 Over 82 Run - 1 Wicket  
 
-📑 Status - Day 3: 1st Session - India lead by 237 runs
+📑 Status - Day 3: Lunch Break - India lead by 321 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/24/2024, 8:14:03 AM
+📝 Last Updated on : 11/24/2024, 9:57:19 AM
 
 ***
 
