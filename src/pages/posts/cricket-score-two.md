@@ -1,19 +1,25 @@
 ---
-title: "West Indies vs Bangladesh, 1st Test - Live Cricket Score"
+title: "South Africa vs Sri Lanka, 2nd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "West Indies vs Bangladesh, 1st Test - Live Cricket Score - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)."
+description: "RSA 171/3 (51.1) - Day 1: 2nd Session."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ West Indies vs Bangladesh, 1st Test - Live Cricket Score
+🔴 Live Score - RSA 171/3 (51.1)  
 
-📑 Status - Date: 2024-11-22 - Time: 07:30:00 PM (Indian Local Time)
+📊 Run Rate - CRR: 3.34  
+
+✊ Current Batsman - Temba Bavuma - 76(102)  
+
+✊ Current Bowler - Dhananjaya de Silva - 5.1 Over 15 Run - 0 Wicket  
+
+📑 Status - Day 1: 2nd Session
 
 <br />
 
 ***
 
-📝 Last Updated on : 11/21/2024, 5:15:18 PM
+📝 Last Updated on : 12/5/2024, 5:58:58 PM
 
 ***
 
