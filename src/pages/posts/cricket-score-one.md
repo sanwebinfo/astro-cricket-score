@@ -1,25 +1,25 @@
 ---
 title: "Australia vs India, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "IND 53/1 (15) - Day 1: 1st Session."
+description: "AUS 86/1 (33) - Day 1: Stumps - Australia trail by 94 runs."
 layout: "../../layouts/PostLayout.astro"
 ---
 
-🔴 Live Score - IND 53/1 (15)  
+🔴 Live Score - AUS 86/1 (33)  
 
-📊 Run Rate - CRR: 3.53  
+📊 Run Rate - CRR: 2.61  
 
-✊ Current Batsman - Shubman Gill - 25(42)  
+✊ Current Batsman - Marnus Labuschagne - 20(67)  
 
-✊ Current Bowler - Scott Boland - 4 Over 12 Run - 0 Wicket  
+✊ Current Bowler - Jasprit Bumrah - 11 Over 13 Run - 1 Wicket  
 
-📑 Status - Day 1: 1st Session
+📑 Status - Day 1: Stumps - Australia trail by 94 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/6/2024, 10:51:14 AM
+📝 Last Updated on : 12/6/2024, 6:56:33 PM
 
 ***
 
