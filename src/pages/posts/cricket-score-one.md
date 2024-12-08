@@ -1,25 +1,19 @@
 ---
 title: "Australia vs India, 2nd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "AUS 86/1 (33) - Day 1: Stumps - Australia trail by 94 runs."
+description: "Australia vs India, 2nd Test - Live Cricket Score - Australia won by 10 wkts."
 layout: "../../layouts/PostLayout.astro"
----
+--- 
 
-🔴 Live Score - AUS 86/1 (33)  
+✅ Australia vs India, 2nd Test - Live Cricket Score
 
-📊 Run Rate - CRR: 2.61  
-
-✊ Current Batsman - Marnus Labuschagne - 20(67)  
-
-✊ Current Bowler - Jasprit Bumrah - 11 Over 13 Run - 1 Wicket  
-
-📑 Status - Day 1: Stumps - Australia trail by 94 runs
+📑 Status - Australia won by 10 wkts
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/6/2024, 6:56:33 PM
+📝 Last Updated on : 12/8/2024, 12:06:49 PM
 
 ***
 
