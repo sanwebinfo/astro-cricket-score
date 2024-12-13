@@ -1,19 +1,19 @@
 ---
-title: "Australia vs India, 2nd Test - Live Cricket Score"
+title: "Australia vs India, 3rd Test - Live Cricket Score"
 slug: "cricket-score-one"
-description: "Australia vs India, 2nd Test - Live Cricket Score - Australia won by 10 wkts."
+description: "Australia vs India, 3rd Test - Live Cricket Score - Date: 2024-12-14 - Time: 05:50:00 AM (Indian Local Time)."
 layout: "../../layouts/PostLayout.astro"
 --- 
 
-✅ Australia vs India, 2nd Test - Live Cricket Score
+✅ Australia vs India, 3rd Test - Live Cricket Score
 
-📑 Status - Australia won by 10 wkts
+📑 Status - Date: 2024-12-14 - Time: 05:50:00 AM (Indian Local Time)
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/8/2024, 12:06:49 PM
+📝 Last Updated on : 12/13/2024, 10:08:39 AM
 
 ***
 
