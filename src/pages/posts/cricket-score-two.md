@@ -1,19 +1,25 @@
 ---
 title: "New Zealand vs England, 3rd Test - Live Cricket Score"
 slug: "cricket-score-two"
-description: "New Zealand vs England, 3rd Test - Live Cricket Score - Date: 2024-12-15 - Time: 03:30:00 AM (Indian Local Time)."
+description: "ENG 143 & 8/0 (1.3) - Day 3: 3rd Session - England need 650 runs."
 layout: "../../layouts/PostLayout.astro"
---- 
+---
 
-✅ New Zealand vs England, 3rd Test - Live Cricket Score
+🔴 Live Score - ENG 143 & 8/0 (1.3)  
 
-📑 Status - Date: 2024-12-15 - Time: 03:30:00 AM (Indian Local Time)
+📊 Run Rate - CRR: 5.33  
+
+✊ Current Batsman - Ben Duckett - 4(3)  
+
+✊ Current Bowler - Tim Southee - 0.3 Over 4 Run - 0 Wicket  
+
+📑 Status - Day 3: 3rd Session - England need 650 runs
 
 <br />
 
 ***
 
-📝 Last Updated on : 12/13/2024, 10:11:21 AM
+📝 Last Updated on : 12/16/2024, 11:36:01 AM
 
 ***
 
